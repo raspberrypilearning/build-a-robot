@@ -1,8 +1,9 @@
 ---
-hero_image: images/banner.png
-theme: red
+Title: Build a Robot
+hero_image: images/build-a-robot.png
+theme: violet
 duration: 2
-listed: false
+listed: true
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
