@@ -2,8 +2,6 @@
 
 Let’s give your robot a mouth!
 
-
-
 + Add the following CSS code to style your `mouth1` image:
 
 ```
@@ -21,5 +19,17 @@ Let’s give your robot a mouth!
 
 Can you fix this, by making changes to your CSS?
 
+--- hints ---
+--- hint ---
+You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`. 
+
+Try different values until it looks the way you want. 
+--- /hint ---
+--- hint ---
+You should have something like this:
+
+![screenshot](images/robot-mouth-code.png)
+--- /hint ---
+--- /hints ---
 
 
