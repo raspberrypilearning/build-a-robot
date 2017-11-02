@@ -3,7 +3,6 @@
 Let’s give your robot some eyes!
 
 
-
 + Open this trinket: <a href="http://jumpto.cc/web-robot" target="_blank">jumpto.cc/web-robot</a>.
 
     The project should look like this:
@@ -27,7 +26,7 @@ Click on the `style.css` file. Notice how the size of the robot’s face and the
 + Add this CSS code to style the robot’s eyes:
 
 ```
-## eyes1 {
+#eyes1 {
     width: 200px;
 }
 ```

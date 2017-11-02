@@ -7,7 +7,7 @@ Let’s give your robot a mouth!
 + Add the following CSS code to style your `mouth1` image:
 
 ```
-## mouth1 {
+#mouth1 {
     width: 50px;
     position: absolute;
     top: 200px;
