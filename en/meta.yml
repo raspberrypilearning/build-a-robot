@@ -15,6 +15,7 @@ technologies: html/css
 site_areas: codeclub, webdev
 steps:
 - title: Introduction
+- title: What you will need
 - title: Giving your robot eyes
 - title: Giving your robot a mouth
 - title: 'Challenge: Design your own robot'
