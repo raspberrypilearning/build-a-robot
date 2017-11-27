@@ -13,11 +13,11 @@ Let’s give your robot a mouth!
     }
     ```
 
-+ Your robot’s mouth looks quite small, and isn’t in the right place.
+Your robot’s mouth looks quite small, and it isn’t in the right place!
 
 ![screenshot](images/robot-mouth.png)
 
-Can you fix this, by making changes to your CSS?
+- Can you fix this by making changes to your CSS code?
 
 --- hints ---
 --- hint ---
