@@ -1,12 +1,7 @@
 --- challenge ---
-## Challenge: Add your own images
-Can you find extra images to add to your robot, and position them on your webpage? You could even replace the robot face with your own!
+## Challenge: your own design
+Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
 
-```
-<img id="face" src="myFace.png">
-```
-
- 
-
+![screenshot](images/robot-examples.png)
 
 --- /challenge ---
