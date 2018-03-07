@@ -48,7 +48,7 @@ left: 100px;
 
 Una vez hayas añadido estas líneas deberías ver cómo los ojos del robot se mueven al lugar correcto.
 
-![screenshot](robot-eyes-position.png)
+![screenshot](images/robot-eyes-position.png)
 
 Este código CSS dice al explorador a qué distancia desde arriba (top) o desde la izquierda (left) de la página web tiene que estar la imagen.
 
