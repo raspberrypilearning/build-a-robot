@@ -1,52 +1,52 @@
-## Giving your robot eyes
+## Gib deinem Roboter Augen
 
-Let’s give your robot some eyes!
+Lass uns deinem Roboter Augen geben!
 
-+ Open [this trinket](http://jumpto.cc/web-robot).
++ Öffne [this trinket](http://jumpto.cc/web-robot).
     
-    The project should look like this:
+    Das Projekt sollte so aussehen:
     
-    ![screenshot](images/robot-starter.png)
+    ![Screenshot](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+Jedes Bild in diesem Projekt hat seinen eigenen Namen (oder **`id`**). Der HTML-Code zum Nutzen der Gesichts- und Augenbilder ("Face", "Eyes1" und "Eyes2" ab Zeile 8 im Programm) sieht zum Beispiel so aus:
 
     <img id="face" ...>
     <img id="eyes1" ...>
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+Du kannst die `id` eines Bildes verwenden, um ihm einen eigenen Stil zu geben. Dazu nutzt du CSS und das Rautensymbol `#` Symbol. So kannst du das Aussehen jedes Bildes individuell gestalten.
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+Klicke auf die `style.css` Datei. Siehst du, wie unterschiedlich die Größe von Gesicht oben und den Gesichtselementen unten ist, weil wir verschiedene Breiten (hier: width) im Programm genutzt haben?
 
-![screenshot](images/robot-id.png)
+![Screenshot](images/robot-id.png)
 
-+ Add this CSS code to style the robot’s eyes:
++ Füge diesen CSS-Code hinzu, um die Augen des Roboters zu stylen:
     
         #eyes1 {
         width: 200px;
         }
         
 
-Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+Beachte, dass du nur das Bild `eyes1` veränderst, in dem du es mit `#eyes1` auswählst und mit dem width Parameter veränderst. Wenn du andere Augen verändert möchtest, wähle stattdessen `#eyes2` oder `#eyes3`!
 
-![screenshot](images/robot-eyes-width.png)
+![Screenshot](images/robot-eyes-width.png)
 
-Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+Fällt dir auf, wie jedes Bild eines nach dem anderen angezeigt wird? Dies wird **relative** Positionierung genannt. Wenn du dem Browser genau sagen wollen, wo er die Augen deines Roboters platzieren soll, musst du stattdessen **absolute** Positionierung verwenden.
 
-+ Add these three lines to the CSS code for your `eyes1` image:
++ Füge dem CSS Code diese drei Zeilen für deine `eyes1` Bild hinzu:
     
         position: absolute;
         top: 200px;
         left: 100px;
         
 
-You should see that your robot’s eyes move to the correct place on your robot.
+Stelle sicher, dass sich die Augen deines Roboters an der richtige Stelle befinden.
 
-![screenshot](images/robot-eyes-position.png)
+![Screenshot](images/robot-eyes-position.png)
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+Dieser CSS-Code teilt dem Browser mit, wie weit entfernt von der oberen linken Ecke der Webseite das Bild angezeigt werden soll.
 
-![screenshot](images/robot-eyes-position2.png)
+![Screenshot](images/robot-eyes-position2.png)
 
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
+Du kannst `bottom` anstelle von `top` verwenden, um dem Browser zu sagen, wie weit vom unteren anstelle vom oberen Bildschirmrand das Bild entfernt sein soll. Ähnlich kannst du `right` anstelle von `left` wählen, um den Bezugspunkt von links nach rechts zu verlegen.
