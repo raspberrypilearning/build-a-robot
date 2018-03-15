@@ -6,7 +6,7 @@
 
 CSSを使ってロボットのパーツを配置しあなたのロボットを組み立てます。
 
-![screenshot](images/robot-final.png)
+![スクリーンショット](images/robot-final.png)
 
 ### あなたが学ぶもの
 
@@ -14,8 +14,8 @@ CSSを使ってロボットのパーツを配置しあなたのロボットを�
 
 + [基本的なプログラミング構造を使いかんたんなプログラムを作成します。](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Additional information for club leaders
+### クラブリーダーのための追加情報
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/boat-race/print){:target="_blank"}.
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/boat-race/print){：target = "_ blank"}を使用してください。
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+フッターのリンクから、このプロジェクトのGitHubリポジトリにアクセスできます。このリポジトリには、 'en / resources'フォルダ内のすべてのリソース (プロジェクトの完成例を含む) が含まれています。
