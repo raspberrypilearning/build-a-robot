@@ -1,14 +1,14 @@
 ## ロボットの目を作る
 
-Let’s give your robot some eyes!
+ロボットの目を作ろう!
 
-+ Open [this trinket](http://jumpto.cc/web-robot).
++ [ここ](http://jumpto.cc/web-robot)を開く
     
-    The project should look like this:
+    プロジェクトはこのようになります。
     
     ![screenshot](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+このプロジェクトの各イメージにはそれぞれに名前(または**`id`**)があります。 For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
 
     <img id="face" ...>
     <img id="eyes1" ...>
