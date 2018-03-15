@@ -1,5 +1,5 @@
 ---
-Title: Build a robot
+Title: Construire un Robot
 hero_image: images/build-a-robot.png
 theme: violet
 duration: 2
@@ -7,8 +7,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-title: Build a robot
-description: Learn how to position images to design your own robot
+title: Construire un Robot
+description: Apprenez à positionner des images pour fabriquer votre propre robot
 original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
 interests: ''
 technologies: html/css
@@ -17,13 +17,13 @@ steps:
   - 
     title: Introduction
   - 
-    title: What you will need
+    title: Donner des yeux à votre robot
   - 
-    title: Giving your robot eyes
+    title: Donner une bouche à votre robot
   - 
-    title: Giving your robot a mouth
+    title: 'Défi: Concevez votre propre robot'
   - 
-    title: 'Challenge: your own design'
+    title: 'Défi: Ajoutez vos propres images'
   - 
     title: 'Challenge: add your own images'
 
