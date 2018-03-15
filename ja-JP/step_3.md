@@ -1,4 +1,4 @@
-## Giving your robot eyes
+## ロボットの目を作る
 
 Let’s give your robot some eyes!
 
