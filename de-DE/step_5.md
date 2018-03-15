@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: your own design
+## Aufgabe: Entwerfe dein eigenes Gesicht
 
-Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+Verwende dein neues Wissen, um deinen eigenen Roboter zu konzipieren. Hier sind einige Beispiele, wie dein Roboter aussehen könnte:
 
-![screenshot](images/robot-examples.png)
+![Screenshot](images/robot-examples.png)
 
 \--- /challenge \---
