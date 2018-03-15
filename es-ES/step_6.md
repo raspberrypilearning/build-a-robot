@@ -1,24 +1,24 @@
 \--- challenge \---
 
-## Challenge: add your own images
+## Desafío: añade tus propias imágenes
 
-Can you create images to add to your robot, and position them on your webpage?
+¿Puedes crear imágenes para añadir a tu robot y colocarlas en tu página web?
 
-+ If you don't have a drawing software tool, you could use the Scratch paint tool in **Bitmap** mode to draw some new robot parts. Use **save as local file** to save a costume as a `.png` image.
++ Si no tienes una herramienta de software de dibujo, podrías usar la herramienta de pintura de Scratch en el modo de **Bitmap** para dibujar algunas partes nuevas del robot. Usa **save as local file** para guardar un disfraz como una imagen `.png`.
     
-    ![screenshot](images/robot-scratch-paint.png)
+    ![captura de pantalla](images/robot-scratch-paint.png)
 
-+ Then upload the `.png` image into your trinket:
++ Después carga la imagen `.png` a tu trinket:
     
-    ![screenshot](images/robot-image-add.png)
+    ![captura de pantalla](images/robot-image-add.png)
 
-+ Add the image to `index.html`:
++ Añade la imagen a `index.html`:
     
         <img id="purpleeyes" src="purpleeyes.png">
         
 
-+ And add CSS code to `style.css` to position it:
++ Y añade el código CSS a `style.css` para colocarla:
     
-    ![screenshot](images/robot-use-purple-eyes.png)
+    ![captura de pantalla](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
