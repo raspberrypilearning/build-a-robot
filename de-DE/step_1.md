@@ -1,21 +1,21 @@
-## Introduction
+## Einleitung
 
-In this project, you’ll learn how to position images to design your own robot!
+In diesem Projekt lernst du Bilder zu positionieren, um deinen eigenen Roboter zu entwerfen!
 
-### What you will make
+### Was du machen wirst
 
-Use CSS to position robot parts to assemble your own robot.
+Positioniere Roboterteile mit CSS, um deinen eigenen Roboter zu bauen.
 
-![screenshot](images/robot-final.png)
+![Screenshot](images/robot-final.png)
 
-### What you will learn
+### Was du lernen wirst
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Dieses Projekt umfasst Elemente aus den folgenden Teilen des [ Raspberry Pi Digital Making Curriculums ](http://rpf.io/curriculum) {:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Verwende grundlegende Programmierkonstrukte, um einfache Programme zu erstellen ](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Additional information for club leaders
+### Zusätzliche Informationen für Gruppenleiter:
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/boat-race/print){:target="_blank"}.
+Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/en/projects/boat-race/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Verwenden Sie den Link in der Fußzeile, um auf das GitHub-Repo für dieses Projekt zuzugreifen, das alle Ressourcen (einschließlich eines Beispiels für ein abgeschlossenes Projekt) im Ordner "en / resources" enthält.
