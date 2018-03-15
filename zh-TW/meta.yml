@@ -1,0 +1,29 @@
+---
+Title: 製作機器人
+hero_image: build-a-robot.png
+theme: 紫色
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 創作者，設計-0，寫程式-1，物理-comp-0，製造-0，社團-0
+title: 製作機器人
+description: 了解如何定位影像以設計您自己的機器人
+original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
+interests: ''
+technologies: HTML / CSS
+site_areas: codeclub，webdev
+steps:
+  - 
+    title: 介紹
+  - 
+    title: 你會需要
+  - 
+    title: 給你的機器人眼睛
+  - 
+    title: 給你的機器人嘴巴
+  - 
+    title: 挑戰：設計自己的作品
+  - 
+    title: 挑戰：添加自己的圖片
+
