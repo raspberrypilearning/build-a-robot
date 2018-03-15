@@ -1,18 +1,18 @@
 ## Introduction
 
-In this project, you’ll learn how to position images to design your own robot!
+このプロジェクトでは、あなたがデザインしたロボットのイメージを配置する方法を学びます。
 
-### What you will make
+### これから作るもの
 
-Use CSS to position robot parts to assemble your own robot.
+CSSを使ってロボットのパーツを配置しあなたのロボットを組み立てます。
 
 ![screenshot](images/robot-final.png)
 
-### What you will learn
+### あなたが学ぶもの
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+このプロジェクトでは [Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum)（英語）の柱の一つである、プログラミングの以下の要素を学びます。
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [基本的なプログラミング構造を使いかんたんなプログラムを作成します。](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
 ### Additional information for club leaders
 
