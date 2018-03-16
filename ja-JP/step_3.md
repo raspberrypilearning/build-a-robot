@@ -8,7 +8,7 @@
     
     ![screenshot](images/robot-starter.png)
 
-このプロジェクトの各イメージにはそれぞれに名前(または**`id`**)があります。 For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+このプロジェクトの各イメージにはそれぞれに名前(または**`id`**)があります。 たとえば、顔と目のイメージ(あなたのコードの8行目から始まる‘face’, ‘eyes1’, ‘eyes2')に対応するHTMLコードは次のとおりです。
 
     <img id="face" ...>
     <img id="eyes1" ...>
