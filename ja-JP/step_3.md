@@ -28,11 +28,11 @@ CSSと`#`シンボルを使って独自のスタイルを設定するため、�
         }
         
 
-あなたのCSSコードで`#eyes1`を使うことで`eyes1`イメージのスタイルを設定していることに注目してください。 If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+あなたのCSSコードで`#eyes1`を使うことで`eyes1`イメージのスタイルを設定していることに注目してください。 もし違った目をお望みなら、`#eyes2`または`#eyes3`を代わりに使うことができます。
 
 ![screenshot](images/robot-eyes-width.png)
 
-Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+それぞれのイメージがどのように次々と表示されるか注目ください。 これは**相対的な**ポジショニングと呼ばれています。 If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
 
 + Add these three lines to the CSS code for your `eyes1` image:
     
