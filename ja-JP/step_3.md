@@ -15,20 +15,20 @@
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+CSSと`#`シンボルを使って独自のスタイルを設定するため、イメージの`id`を使用できます。これは、それぞれ個別にイメージのスタイルを設定できます。
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+`style.css`ファイルをクリックします。どれくらいロボットの顔と他のイメージのサイズが違っているか注目してください。
 
 ![screenshot](images/robot-id.png)
 
-+ Add this CSS code to style the robot’s eyes:
++ このCSSコードを追加してロボットの目のスタイルを設定します。
     
         #eyes1 {
-        width: 200px;
+          width: 200px;
         }
         
 
-Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+あなたのCSSコードで`#eyes1`を使うことで`eyes1`イメージのスタイルを設定していることに注目してください。 If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
 
 ![screenshot](images/robot-eyes-width.png)
 
