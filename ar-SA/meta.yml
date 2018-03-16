@@ -1,0 +1,22 @@
+---
+Title: صمِّم روبوتًا
+hero_image: images/build-a-robot.png
+theme: violet
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+title: صمِّم روبوتًا
+description: تعلَّم كيف تحدِّد مواضع الصور لتنشئ روبوتًا.
+original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
+interests: ''
+technologies: html/css
+site_areas: codeclub, webdev
+steps:
+- title: المقدمة
+- title: وضع عينَين للروبوت
+- title: وضع فمٍ للروبوت
+- title: 'التحدي: صمِّم روبوتك الخاص'
+- title: 'التحدي: أضف صورًا من عندك'
+
