@@ -41,11 +41,11 @@ CSSと`#`シンボルを使って独自のスタイルを設定するため、�
         left: 100px;
         
 
-You should see that your robot’s eyes move to the correct place on your robot.
+ロボットの目が正しい場所に移動していることが分かります。
 
 ![screenshot](images/robot-eyes-position.png)
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+このCSSコードは、イメージを表示するための、ウェブページの右上隅からの距離をブラウザに指示しています。
 
 ![screenshot](images/robot-eyes-position2.png)
 
