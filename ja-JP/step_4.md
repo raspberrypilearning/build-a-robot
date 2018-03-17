@@ -1,8 +1,8 @@
-## Giving your robot a mouth
+## ロボットに口をつける
 
-Let’s give your robot a mouth!
+ロボットに口をつけましょう!
 
-- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+- `mouth1`イメージのスタイルを設定するために次のCSSコードを`style.css`の最後に加えます。
     
         #mouth1 {
             width: 50px;
@@ -12,13 +12,13 @@ Let’s give your robot a mouth!
         }
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+ロボットの口がすごく小さいし正しい位置ではありません。
 
 ![screenshot](images/robot-mouth.png)
 
-- Can you fix this by making changes to your CSS code?
+- CSSコードを変更することで修正できますか?
 
-\--- hints \--- \--- hint \--- You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+\---ヒント\--- \---ヒント\--- `style.css`の`mouth1`の設定で`width`と`top`と`left`の位置を変更する必要があります。
 
 Try different values until it looks the way you want. \--- /hint \--- \--- hint \--- You should have something like this:
 
