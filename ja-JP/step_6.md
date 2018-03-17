@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- チャレンジ \---
 
 ## Challenge: add your own images
 
