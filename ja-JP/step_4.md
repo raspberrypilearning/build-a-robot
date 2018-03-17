@@ -14,12 +14,12 @@
 
 ロボットの口がすごく小さいし正しい位置ではありません。
 
-![screenshot](images/robot-mouth.png)
+![スクリーンショット](images/robot-mouth.png)
 
 - CSSコードを変更することで修正できますか?
 
 \---ヒント\--- \---ヒント\--- `style.css`の`mouth1`の設定で`width`と`top`と`left`の位置を変更する必要があります。
 
-Try different values until it looks the way you want. \--- /hint \--- \--- hint \--- You should have something like this:
+あなたのお望みになるように値を変えてみてください。 \---ヒント\--- \---ヒント\---
 
 ![screenshot](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
