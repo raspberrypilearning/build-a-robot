@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- チャレンジ \---
 
-## Challenge: your own design
+## チャレンジ: あなた自身のデザイン
 
-Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+あなたが学んだことを使ってロボットの設定を完了してください。これらはロボットがどのように見られるかの例です。
 
-![screenshot](images/robot-examples.png)
+![スクリーンショット](images/robot-examples.png)
 
-\--- /challenge \---
+\--- /チャレンジ \---
