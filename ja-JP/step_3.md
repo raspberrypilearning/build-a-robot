@@ -32,9 +32,9 @@ CSSと`#`シンボルを使って独自のスタイルを設定するため、�
 
 ![screenshot](images/robot-eyes-width.png)
 
-それぞれのイメージがどのように次々と表示されるか注目ください。 これは**相対的な**ポジショニングと呼ばれています。 If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+それぞれのイメージがどのように次々と表示されるか注目ください。 これは**相対的な**ポジショニングと呼ばれています。 もしロットの目を正確に配置したければ、代わりに**absolute**ポジショニングを使ってブラウザに指示する必要があります。
 
-+ Add these three lines to the CSS code for your `eyes1` image:
++ `eys1`イメージのためにこれら3行をCSSコードに加えます。
     
         position: absolute;
         top: 200px;
