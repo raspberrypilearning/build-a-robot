@@ -22,4 +22,4 @@
 
 あなたのお望みになるように値を変えてみてください。 \---ヒント\--- \---ヒント\---
 
-![screenshot](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+![スクリーンショット](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
