@@ -1,6 +1,6 @@
 \--- チャレンジ \---
 
-## Challenge: add your own images
+## チャレンジ：画像を追加します。
 
 Can you create images to add to your robot, and position them on your webpage?
 
