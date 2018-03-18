@@ -2,17 +2,17 @@
 
 ## チャレンジ：画像を追加します。
 
-Can you create images to add to your robot, and position them on your webpage?
+ロボットに加えるイメージを作成し、またウェブページに配置できますか?
 
-+ If you don't have a drawing software tool, you could use the Scratch paint tool in **Bitmap** mode to draw some new robot parts. Use **save as local file** to save a costume as a `.png` image.
++ もし描画ツールを持っていなければスクラッチのペイントツールを使って**Bitmap**モードでなにか新しいロボットのパーツを作画してもいいです。 **ローカルファイルとして保存**を使って`.png`イメージとしてコスチュームを保存します。
     
     ![screenshot](images/robot-scratch-paint.png)
 
-+ Then upload the `.png` image into your trinket:
++ そして`.png`イメージをあなたのお気に入りにアップロードします。
     
     ![screenshot](images/robot-image-add.png)
 
-+ Add the image to `index.html`:
++ そのイメージを`index.html`に加えます。
     
         <img id="purpleeyes" src="purpleeyes.png">
         
