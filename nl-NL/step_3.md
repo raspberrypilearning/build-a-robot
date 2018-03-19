@@ -21,18 +21,18 @@ Klik op het `style.css` bestand. Kun je zien dat er een verschil is tussen de gr
 
 ![screenshot](images/robot-id.png)
 
-+ Add this CSS code to style the robot’s eyes:
++ Voeg deze CSS-code toe om de ogen van de robot een andere stijl te geven:
     
-        #eyes1 {
+        #ogen1 {
         width: 200px;
         }
         
 
-Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+Je ziet dat je alleen `ogen1` aan het opmaken bent door `#ogen1` te gebruiken in de CSS-code. Als je andere ogen wilt, kun je `#ogen2` of `#ogen3` in de plaats gebruiken.
 
 ![screenshot](images/robot-eyes-width.png)
 
-Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+Zie je dat de afbeeldingen naast elkaar staan? Dat heet **relatief **positioneren. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
 
 + Add these three lines to the CSS code for your `eyes1` image:
     
