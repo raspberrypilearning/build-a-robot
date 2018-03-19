@@ -8,7 +8,7 @@ Laten we je robot een paar ogen geven!
     
     ![screenshot](images/robot-starter.png)
 
-Elke afbeelding in dit project heeft een eigen naam (of een**` ID`**). Bijvoorbeeld, de HTML-code om naar de afbeeldingen van het gezicht en de ogen te verwijzen ('gezicht', 'ogen1' en 'ogen2', beginnend op regel 8 van de code) ziet er als volgt uit:
+Elke afbeelding in dit project heeft een eigen naam (of een**` ID`**). Bijvoorbeeld, de HTML-code om naar de afbeeldingen van het gezicht en de ogen te verwijzen ('face', 'eyes1' en 'eyes2', beginnend op regel 8 van de code) ziet er als volgt uit:
 
     <img id="face" ...>
     <img id="eyes1" ...>
@@ -23,12 +23,12 @@ Klik op het `style.css` bestand. Kun je zien dat er een verschil is tussen de gr
 
 + Voeg deze CSS-code toe om de ogen van de robot een andere stijl te geven:
     
-        #ogen1 {
+        #eyes1 {
         width: 200px;
         }
         
 
-Je ziet dat je alleen `ogen1` aan het opmaken bent door `#ogen1` te gebruiken in de CSS-code. Als je andere ogen wilt, kun je `#ogen2` of `#ogen3` in de plaats gebruiken.
+Je ziet dat je alleen `eyes1` aan het opmaken bent door `#eyes1` te gebruiken in de CSS-code. Als je andere ogen wilt, kun je `#eyes2` of `#eyes3` in de plaats gebruiken.
 
 ![screenshot](images/robot-eyes-width.png)
 
