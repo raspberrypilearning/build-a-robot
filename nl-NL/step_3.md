@@ -8,16 +8,16 @@ Laten we je robot een paar ogen geven!
     
     ![screenshot](images/robot-starter.png)
 
-Elke afbeelding in dit project heeft een eigen naam (of een**` ID`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+Elke afbeelding in dit project heeft een eigen naam (of een**` ID`**). Bijvoorbeeld, de HTML-code om naar de afbeeldingen van het gezicht en de ogen te verwijzen ('gezicht', 'ogen1' en 'ogen2', beginnend op regel 8 van de code) ziet er als volgt uit:
 
     <img id="face" ...>
     <img id="eyes1" ...>
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+Je kunt het `id` van een afbeelding gebruiken om er een stijl aan te geven, door CSS te gebruiken met het `#` teken. Hiermee kun je elke afbeelding apart opmaken.
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+Klik op het `style.css` bestand. Kun je zien dat er een verschil is tussen de grootte van het gezicht van de robot en de andere afbeeldingen?
 
 ![screenshot](images/robot-id.png)
 
