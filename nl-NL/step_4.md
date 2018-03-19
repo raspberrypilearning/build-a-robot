@@ -2,9 +2,9 @@
 
 Laten we je robot een mond geven!
 
-- Voeg de volgende CSS-code toe, onderaan in ` style.css`, om de ` mond1` -afbeelding een stijl te geven:
+- Voeg de volgende CSS-code toe, onderaan in ` style.css`, om de ` mouth1` -afbeelding een stijl te geven:
     
-        #mond1 {
+        #mouth1 {
             width: 50px;
             position: absolute;
             top: 200px;
@@ -18,7 +18,7 @@ De mond van je robot is erg klein en hij zit niet op de juiste plaats!
 
 - Kun je dit oplossen door je CSS-code aan te passen?
 
-\--- hints \--- \--- hint \--- Je moet de `width`, `top` en `left` posities voor `mond1 ` in `style.css` aanpassen.
+\--- hints \--- \--- hint \--- Je moet de `width`, `top` en `left` posities voor `mouth1 ` in `style.css` aanpassen.
 
 Probeer net zo lang verschillende waarden tot het goed is. \--- /hint \--- \--- hint \--- Het zou er zo uit moeten zien:
 
