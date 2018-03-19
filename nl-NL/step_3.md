@@ -32,20 +32,20 @@ Je ziet dat je alleen `ogen1` aan het opmaken bent door `#ogen1` te gebruiken in
 
 ![screenshot](images/robot-eyes-width.png)
 
-Zie je dat de afbeeldingen naast elkaar staan? Dat heet **relatief **positioneren. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+Zie je dat de afbeeldingen naast elkaar staan? Dat heet **relatief **positioneren. Als je zelf wilt bepalen waar de ogen van de robot komen te staan gebruik je **absolute** positionering.
 
-+ Add these three lines to the CSS code for your `eyes1` image:
++ Voeg deze drie regels toe aan de CSS-code voor de` ogen1 ` afbeelding:
     
         position: absolute;
         top: 200px;
         left: 100px;
         
 
-You should see that your robot’s eyes move to the correct place on your robot.
+Je zou moeten zien dat de ogen naar de juiste plaats op je robot komen.
 
 ![screenshot](images/robot-eyes-position.png)
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+Deze CSS-code geeft door aan de browser hoe ver van de linkerbovenhoek van de webpagina de afbeelding wordt weergegeven.
 
 ![screenshot](images/robot-eyes-position2.png)
 
