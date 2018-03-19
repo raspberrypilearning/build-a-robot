@@ -4,20 +4,20 @@
 
 Kun je afbeeldingen maken die je aan je robot toevoegt en ze op je webpagina plaatsen?
 
-+ Als je geen tekenprogramma hebt kun je in Scratch tekenen, in de **Afbeeldingsmodus**. Use **save as local file** to save a costume as a `.png` image.
++ Als je geen tekenprogramma hebt kun je in Scratch tekenen, in de **Afbeeldingsmodus**. Kies voor **opslaan naar lokaal bestand** om de afbeelding op te slaan als `.png` afbeelding.
     
     ![screenshot](images/robot-scratch-paint.png)
 
-+ Then upload the `.png` image into your trinket:
++ Upload dan de `.png` -afbeelding naar je trinket:
     
     ![screenshot](images/robot-image-add.png)
 
-+ Add the image to `index.html`:
++ Voeg de afbeelding toe aan ` index.html `:
     
         <img id="purpleeyes" src="purpleeyes.png">
         
 
-+ And add CSS code to `style.css` to position it:
++ En voeg CSS-code toe aan ` style.css ` om het op zijn plek te zetten:
     
     ![screenshot](images/robot-use-purple-eyes.png)
 
