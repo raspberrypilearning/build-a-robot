@@ -1,21 +1,21 @@
 ## Inleiding
 
-In this project, you’ll learn how to position images to design your own robot!
+In dit project leer je hoe je afbeeldingen kunt plaatsen om je eigen robot te ontwerpen!
 
-### What you will make
+### Wat ga je maken
 
-Use CSS to position robot parts to assemble your own robot.
+Gebruik CSS om robotonderdelen neer te zetten om je eigen robot samen te stellen.
 
 ![screenshot](images/robot-final.png)
 
-### What you will learn
+### Wat je gaat leren
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum)"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [ Gebruik basale programmeerconstructies om eenvoudige programma's te maken ](https://www.raspberrypi.org/curriculum/programming/creator) {:target="_ blank"}
 
-### Additional information for club leaders
+### Aanvullende informatie voor docenten
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/boat-race/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/boat-race/print) {:target="_ blank"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Gebruik de link in de voettekst voor toegang tot de GitHub opslagplaats voor dit project, met daarin alle bronnen (inclusief een voorbeeld van een voltooid project) in de map ' en/resources'.
