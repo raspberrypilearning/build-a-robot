@@ -14,7 +14,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry P
 
 + [ Gebruik basale programmeerconstructies om eenvoudige programma's te maken ](https://www.raspberrypi.org/curriculum/programming/creator) {:target="_ blank"}
 
-### Aanvullende informatie voor docenten
+### Aanvullende informatie voor clubleiders
 
 Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/boat-race/print) {:target="_ blank"}.
 
