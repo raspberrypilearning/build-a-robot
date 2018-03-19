@@ -49,4 +49,4 @@ Deze CSS-code geeft door aan de browser hoe ver van de linkerbovenhoek van de we
 
 ![screenshot](images/robot-eyes-position2.png)
 
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
+Je kunt ` bottom ` gebruiken, in plaats van ` top ` om aan de browser door te geven hoe ver van onder aan het scherm de afbeelding wordt weergegeven. Zoiets kun je ook doen met ` right ` in plaats van ` left `.
