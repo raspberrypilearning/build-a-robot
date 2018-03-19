@@ -1,14 +1,14 @@
-## Giving your robot eyes
+## Geef ogen aan je robot
 
-Let’s give your robot some eyes!
+Laten we je robot een paar ogen geven!
 
-+ Open [this trinket](http://jumpto.cc/web-robot).
++ Open [deze trinket](http://jumpto.cc/web-robot).
     
-    The project should look like this:
+    Het project zou er als volgt uit moeten zien:
     
     ![screenshot](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+Elke afbeelding in dit project heeft een eigen naam (of een**` ID`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
 
     <img id="face" ...>
     <img id="eyes1" ...>
