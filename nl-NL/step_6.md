@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: voeg je eigen afbeeldingen toe
+## Uitdaging: voeg je eigen afbeeldingen toe
 
 Kun je afbeeldingen maken die je aan je robot toevoegt en ze op je webpagina plaatsen?
 
