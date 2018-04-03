@@ -1,6 +1,6 @@
-\--- チャレンジ \---
+\--- challenge \---
 
-## チャレンジ：画像を追加します。
+## Challenge: 画像を追加します。
 
 ロボットに加えるイメージを作成し、またウェブページに配置できますか?
 
@@ -8,7 +8,7 @@
     
     ![スクリーンショット](images/robot-scratch-paint.png)
 
-+ そして`.png`イメージをあなたのお気に入りにアップロードします。
++ そして`.png`イメージをあなたのtrinketにアップロードします。
     
     ![スクリーンショット](images/robot-image-add.png)
 
@@ -21,4 +21,4 @@
     
     ![スクリーンショット](images/robot-use-purple-eyes.png)
 
-\--- /チャレンジ \---
+\--- /challenge \---
