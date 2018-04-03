@@ -2,7 +2,7 @@
 
 ### ハードウェア
 
-+ [ trinket.ioにアクセスできるコンピュータ](https://trinket.io) {：target = "_ blank"}
++ [trinket.io](https://trinket.io){:target="_blank"}ウェブサイトにアクセスできるコンピュータ
 
 ### ソフトウェア
 
