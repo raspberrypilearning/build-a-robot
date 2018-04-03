@@ -6,13 +6,17 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Bouw een robot
 description: Leer hoe je afbeeldingen neerzet om je eigen robot te ontwerpen
 original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
-interests: ''
-technologies: html/css
-site_areas: codeclub, webdev
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
 steps:
   - 
     title: Inleiding
@@ -26,4 +30,3 @@ steps:
     title: 'Uitdaging: je eigen ontwerp'
   - 
     title: 'Uitdaging: voeg je eigen afbeeldingen toe'
-
