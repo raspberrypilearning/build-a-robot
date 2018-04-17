@@ -34,7 +34,7 @@ Je ziet dat je alleen `eyes1` aan het opmaken bent door `#eyes1` te gebruiken in
 
 Zie je dat de afbeeldingen naast elkaar staan? Dat heet **relatief** positioneren. Als je zelf wilt bepalen waar de ogen van de robot komen te staan gebruik je **absolute** positionering.
 
-+ Voeg deze drie regels toe aan de CSS-code voor de `ogen1` afbeelding:
++ Voeg deze drie regels toe aan de CSS-code voor de `eyes1` afbeelding:
     
         position: absolute;
         top: 200px;
