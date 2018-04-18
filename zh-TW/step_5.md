@@ -6,4 +6,4 @@
 
 ![截圖](images/robot-examples.png)
 
-\--- /挑戰\---
+\--- /challenge \---
