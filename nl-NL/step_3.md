@@ -8,7 +8,7 @@ Laten we je robot een paar ogen geven!
     
     ![screenshot](images/robot-starter.png)
 
-Elke afbeelding in dit project heeft een eigen naam (of een **`ID`**). Bijvoorbeeld, de HTML-code om naar de afbeeldingen van het gezicht en de ogen te verwijzen ('face', 'eyes1' en 'eyes2', beginnend op regel 8 van de code) ziet er als volgt uit:
+Elke afbeelding in dit project heeft een eigen naam (of een **`id`**). Bijvoorbeeld, de HTML-code om naar de afbeeldingen van het gezicht en de ogen te verwijzen ('face', 'eyes1' en 'eyes2', beginnend op regel 8 van de code) ziet er als volgt uit:
 
     <img id="face" ...>
     <img id="eyes1" ...>
