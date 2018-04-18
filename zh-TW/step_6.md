@@ -21,4 +21,4 @@
     
     ![截圖](images/robot-use-purple-eyes.png)
 
-\--- /挑戰\---
+\--- /challenge \---
