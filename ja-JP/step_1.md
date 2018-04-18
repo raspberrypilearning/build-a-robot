@@ -16,6 +16,6 @@ CSSを使ってロボットのパーツを配置しあなたのロボットを�
 
 ### 指導者のための追加情報
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/boat-race/print){:target="_ blank"}を使用してください。
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
 
 フッターのリンクから、このプロジェクトのGitHubリポジトリにアクセスできます。このリポジトリには、 'en / resources'フォルダ内のすべてのリソース (プロジェクトの完成例を含む) が含まれています。
