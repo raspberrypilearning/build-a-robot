@@ -1,5 +1,5 @@
 ---
-Title: Construye un Robot
+Title: Construye un robot
 hero_image: images/build-a-robot.png
 theme: violet
 duration: 2
@@ -7,9 +7,9 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Construye un Robot
-description: Aprende a colocar imágenes para crear tu propio robot
-original_url: https://projects.raspberrypi.org/en/projects/build-a-robot
+title: Construye un robot
+description: Aprender a colocar imágenes para diseñar tu propio robot
+original_url: https://codeclubprojects.org/es-ES/webdev/build-a-robot/
 interests: art
 technologies: html-css-javascript
 site_areas: projects
@@ -17,9 +17,10 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Introducción
-- title: Poniendo ojos a tu robot
-- title: Poniendo boca a tu robot
-- title: 'Reto: Diseña tu propio robot'
-- title: 'Reto: Añade tus propias imágenes'
+steps:
+  - title: Introducción
+  - title: Lo que necesitarás
+  - title: Poner ojos a tu robot
+  - title: Poner una boca a tu robot
+  - title: 'Desafío: tu propio diseño'
+  - title: 'Desafío: añade tus propias imágenes'

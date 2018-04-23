@@ -1,9 +1,9 @@
 --- challenge ---
-## Reto: Añade tus propias imágenes
-¿Eres capaz de encontrar imágenes adicionales que añadir al robot y posicionarlas en la página? ¡Puedes incluso cambiar la cara del robot con la tuya propia!
 
-```
-<img id="cara" src="miCara.png">
-```
+## Desafío: tu propio diseño
+
+Usa lo que has aprendido para acabar de diseñar tu propio robot. Aquí hay algunos ejemplos de cómo puede ser tu robot:
+
+![captura de pantalla](images/robot-examples.png)
 
 --- /challenge ---
