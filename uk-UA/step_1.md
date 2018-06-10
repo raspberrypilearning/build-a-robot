@@ -1,6 +1,6 @@
-## Introduction
+## Вступ
 
-In this project, you’ll learn how to position images to design your own robot!
+У цьому проекті ви дізнаєтеся, як позиціонувати зображення для розробки власного робота!
 
 ### What you will make
 
