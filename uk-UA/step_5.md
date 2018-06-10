@@ -2,8 +2,8 @@
 
 ## Виклик: ваш власний дизайн
 
-Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+Використовуйте те, чого ви навчилися, щоб закінчити розробку власного робота. Ось кілька прикладів того, як може виглядати ваш робот:
 
-![screenshot](images/robot-examples.png)
+![скріншот](images/robot-examples.png)
 
-\--- /challenge \---
+-- /challenge \---
