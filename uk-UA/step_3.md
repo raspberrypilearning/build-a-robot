@@ -6,7 +6,7 @@
     
     Проект повинен виглядати так:
     
-    ![screenshot](images/robot-starter.png)
+    ![скріншот](images/robot-starter.png)
 
 Кожне зображення в цьому проекті має своє ім'я (або **`id`**). Наприклад, HTML-код для адреси обличчя та очей ("face", "eyes1" і "eyes2", починаючи з 8-го рядка вашого коду) виглядає так:
 
@@ -19,7 +19,7 @@
 
 <p>Натисніть на файл <code> style.css </ 0>. Зверніть увагу, як розмір обличчя робота та інших зображень відрізняються</p>
 
-<p><img src="images/robot-id.png" alt="screenshot" /></p>
+<p><img src="images/robot-id.png" alt="скріншот" /></p>
 
 <ul>
 <li><p>Додайте цей CSS-код, для стилю очей робота:</p>
@@ -31,7 +31,7 @@
 
 Зверніть увагу, що ви використовуєтелише стиль зображення ` eyes1 </ 0>, використовуючи <code> # eyes1 </ 0> у вашому CSS-коді. Якщо ви віддаєте перевагу різним очам, ви можете використовувати <code> # eyes2 </ 0> або <code> # eyes3 </ 0>!</p>
 
-<p><img src="images/robot-eyes-width.png" alt="screenshot" /></p>
+<p><img src="images/robot-eyes-width.png" alt="скріншот" /></p>
 
 <p>Зверніть увагу, як кожне зображення появляється одне за одним? Це називається <strong>relative</strong>позиціонування. Якщо ви хочете сказати браузеру, де саме розмістити очі вашого робота, вам слід скористатися позиціонуванням  <strong>absolute</strong>.</p>
 
@@ -45,10 +45,10 @@
 
 Ви повинні побачити, що очі вашого робота рухаються до правильного місця на вашому роботі.
 
-![screenshot](images/robot-eyes-position.png)
+![скріншот](images/robot-eyes-position.png)
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+Цей код CSS повідомляє браузеру, наскільки далеко від верхнього лівого кута веб-сторінки відображається зображення.
 
-![screenshot](images/robot-eyes-position2.png)
+![скріншот](images/robot-eyes-position2.png)
 
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
+Ви можете використовувати  низ </ 0> замість <code> верху </ 0>, щоб повідомити браузеру, як далеко від нижньої частини екрана буде показано зображення, а також <code> право </ 0> замість <code> ліво </ 0>.</p>
