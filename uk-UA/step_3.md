@@ -1,10 +1,10 @@
-## Giving your robot eyes
+## Дайте Вашому роботу очі
 
-Let’s give your robot some eyes!
+Давайте дамо Вашому роботу очі!
 
-+ Open [this trinket](http://jumpto.cc/web-robot).
++ Відкрийте [this trinket](http://jumpto.cc/web-robot).
     
-    The project should look like this:
+    Проект повинен виглядати так:
     
     ![screenshot](images/robot-starter.png)
 
