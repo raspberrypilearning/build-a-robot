@@ -1,25 +1,27 @@
-## Giving your robot a mouth
+## Дайте Вашому роботу рот
 
-Let’s give your robot a mouth!
+Давайте дамо Вашому роботу рот!
 
-- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+- Додайте наступний код CSS у нижній частині ` style.css </ 0>, щоб створити своє зображення  <code>mouth1`:
     
         #mouth1 {
-            width: 50px;
-            position: absolute;
-            top: 200px;
-            left: 200px;
-        }
+             ширина: 50 пікселів;
+             розташування: абсолютно;
+             зверху: 200 пікселів;
+             ліворуч: 200 пікселів;
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+Рот вашого робота виглядає досить малим, і він не в правильному місці!
 
-![screenshot](images/robot-mouth.png)
+![скріншот](images/robot-mouth.png)
 
-- Can you fix this by making changes to your CSS code?
+- Ви можете це виправити, внісши зміни до вашого CSS-коду?
 
-\--- hints \--- \--- hint \--- You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+Вам потрібно буде змінити позицію  ширина </ 0> і <code> верх </ 0> і <code> ліворуч </ 0> для <code> mouth1 </ 0> у стилі <code>. css </ 0>.</p>
 
-Try different values until it looks the way you want. \--- /hint \--- \--- hint \--- You should have something like this:
+<p>Спробуйте різні значення, доки він не буде виглядати так, як захочете.
+Ви повинні мати щось на зразок цього:</p>
 
-![screenshot](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+<p><img src="images/robot-mouth-code.png" alt="скріншот" />
+--- /hint ---
+--- /hints ---</p>
