@@ -1,24 +1,24 @@
-\--- challenge \---
+-- /challenge \---
 
-## Challenge: add your own images
+## Виклик: додайте ваші власні зображення
 
-Can you create images to add to your robot, and position them on your webpage?
+Чи можете ви створити зображення, щоб додати їх до свого робота, і розмістити на своїй веб-сторінці?
 
-+ If you don't have a drawing software tool, you could use the Scratch paint tool in **Bitmap** mode to draw some new robot parts. Use **save as local file** to save a costume as a `.png` image.
++ Якщо у вас немає програмного інструменту для малювання, ви можете використати Scratch в режимі ** Bitmap </ 0>, щоб намалювати деякі нові частини робота. Використовуйте ** зберегти як локальний файл </ 0></p> 
     
-    ![screenshot](images/robot-scratch-paint.png)
-
-+ Then upload the `.png` image into your trinket:
+    ![скріншот](images/robot-scratch-paint.png)</li> 
     
-    ![screenshot](images/robot-image-add.png)
+    + Потім завантажте зображення ` .png </ 0> .</p>
 
-+ Add the image to `index.html`:
-    
-        <img id="purpleeyes" src="purpleeyes.png">
+<p><img src="images/robot-image-add.png" alt="скріншот" /></p></li>
+<li><p>Додайте зображення до  <code>index.html`:
         
-
-+ And add CSS code to `style.css` to position it:
+            <img id="purpleeyes" src="purpleeyes.png">
+            
     
-    ![screenshot](images/robot-use-purple-eyes.png)
+    + І додати CSS-код в  style.css </ 0>, щоб  помістити його:</p>
 
-\--- /challenge \---
+<p><img src="images/robot-use-purple-eyes.png" alt="скріншот" /></p></li>
+</ul>
+
+<p>--- /challenge ---</p>
