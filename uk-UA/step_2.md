@@ -1,9 +1,9 @@
-## What you will need
+## Що Вам знадобиться 
 
-### Hardware
+### Обладнання
 
-+ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
-
-### Software
-
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}.
++ Комп'ютер, який має доступ до  trinket.io </ 0> (: target = "_ blank")</li> </ul> 
+    
+    ### Програмне забезпечення
+    
+    Цей проект можна виконати в веб-переглядачі, використовуючи  trinket.io </ 0> (: target = "_ blank").</p>
