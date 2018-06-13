@@ -6,7 +6,7 @@ Neste projeto, você vai aprender como posicionar imagens para projetar seu pró
 
 Use CSS para posicionar as peças do robô para montar seu próprio robô.
 
-![screenshot](images/robot-final.png)
+![captura de tela](images/robot-final.png)
 
 ### O que você vai aprender
 
@@ -16,6 +16,6 @@ Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital 
 
 ### Informação adicional para líderes de clube
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
+Se você precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_ blank"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'en/resources'.
