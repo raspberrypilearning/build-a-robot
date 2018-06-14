@@ -1,6 +1,6 @@
-## Giving your robot eyes
+## Dando olhos ao seu robô
 
-Let’s give your robot some eyes!
+Vamos dar alguns olhos ao seu robô!
 
 + Open [this trinket](http://jumpto.cc/web-robot).
     
