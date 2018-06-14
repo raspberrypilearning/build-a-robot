@@ -2,9 +2,9 @@
 
 Vamos dar alguns olhos ao seu robô!
 
-+ Open [this trinket](http://jumpto.cc/web-robot).
++ Abra [este trinket](http://jumpto.cc/web-robot).
     
-    The project should look like this:
+    O projeto deve ficar assim:
     
     ![screenshot](images/robot-starter.png)
 
