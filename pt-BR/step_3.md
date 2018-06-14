@@ -28,11 +28,11 @@ Clique no arquivo `style.css`. Percebe como o tamanho do rosto do robô e as out
         }
         
 
-Observe que você está estilizando apenas a imagem do `eyes1`, usando `#eyes1` no seu código CSS. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+Observe que você está estilizando apenas a imagem do `eyes1`, usando `#eyes1` no seu código CSS. Se você preferir olhos diferentes, você pode usar `#eyes2` ou `#eyes3`!
 
 ![screenshot](images/robot-eyes-width.png)
 
-Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+Percebe como cada imagem é exibida uma após a outra? Isso é chamado de posicionamento **relativo**. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
 
 + Add these three lines to the CSS code for your `eyes1` image:
     
