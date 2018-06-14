@@ -8,27 +8,27 @@ Vamos dar alguns olhos ao seu robô!
     
     ![screenshot](images/robot-starter.png)
 
-Cada imagem neste projeto tem seu próprio nome (ou **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+Cada imagem neste projeto tem seu próprio nome (ou **`id`**). Por exemplo, o código HTML para endereçar as imagens de rosto e olhos ('face', 'eyes1' e 'eyes2', iniciando na linha 8 do seu código) se parece com isto:
 
     <img id="face" ...>
     <img id="eyes1" ...>
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+Voce pode usar o `id` da imagem para dar um estilo próprio, usando o CSS e o símbolo `#`. Isto permite que você estilize cada imagem separadamente.
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+Clique no arquivo `style.css`. Percebe como o tamanho do rosto do robô e as outras imagens são diferentes?
 
 ![screenshot](images/robot-id.png)
 
-+ Add this CSS code to style the robot’s eyes:
++ Adicione este código CSS para estilizar os olhos do robô:
     
         #eyes1 {
         width: 200px;
         }
         
 
-Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+Observe que você está estilizando apenas a imagem do `eyes1`, usando `#eyes1` no seu código CSS. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
 
 ![screenshot](images/robot-eyes-width.png)
 
