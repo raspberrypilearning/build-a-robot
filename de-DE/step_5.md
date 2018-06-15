@@ -1,9 +1,9 @@
 --- challenge ---
-## Aufgabe: Füge deine eigenen Bilder hinzu
-Kannst du weitere Bilder finden, die du zu deinem Roboter hinzufügen kannst, und kannst du sie entsprechend auf deiner Webseite positionieren? Du könntest auch das Gesicht des Roboters gegen dein eigenes austauschen!
 
-```
-<img id="face" src="myFace.png"> 
-```
+## Aufgabe: Entwerfe dein eigenes Gesicht
+
+Verwende dein neues Wissen, um deinen eigenen Roboter zu konzipieren. Hier sind einige Beispiele, wie dein Roboter aussehen könnte:
+
+![Screenshot](images/robot-examples.png)
 
 --- /challenge ---
