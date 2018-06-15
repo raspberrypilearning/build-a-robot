@@ -21,6 +21,4 @@ Kannst du Bilder erstellen, die du zu deinem Roboter hinzufügst und auf deiner 
     
     ![Screenshot](images/robot-use-purple-eyes.png)
 
-Und ergänze den CSS-Code in <0>style.css</0>, um das Bild zu positionieren.
-
 --- /challenge ---
