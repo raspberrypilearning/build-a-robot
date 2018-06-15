@@ -1,4 +1,4 @@
-## Was du brauchst:
+## Was du brauchst
 
 ### Hardware
 
