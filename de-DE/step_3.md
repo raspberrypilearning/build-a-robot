@@ -2,7 +2,7 @@
 
 Lass uns deinem Roboter Augen geben!
 
-+ Öffne [this trinket](http://jumpto.cc/web-robot).
++ Öffne [trinket](http://jumpto.cc/web-robot).
     
     Das Projekt sollte so aussehen:
     
