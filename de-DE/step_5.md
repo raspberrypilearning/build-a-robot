@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Aufgabe: Entwerfe dein eigenes Gesicht
+## Aufgabe: Dein eigenes Design
 
 Verwende dein neues Wissen, um deinen eigenen Roboter zu konzipieren. Hier sind einige Beispiele, wie dein Roboter aussehen könnte:
 
