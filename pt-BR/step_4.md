@@ -1,10 +1,10 @@
-## Giving your robot a mouth
+## Dando uma boca ao seu robô
 
-Let’s give your robot a mouth!
+Vamos dar uma boca ao seu robô!
 
-- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+- Adicione o seguinte código na parte inferior do arquivo `style.css` para estilizar a imagem `boca1`:
     
-        #mouth1 {
+        #boca1 {
             width: 50px;
             position: absolute;
             top: 200px;
@@ -12,7 +12,7 @@ Let’s give your robot a mouth!
         }
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+A boca do seu robô parece bem pequena e não está no lugar certo!
 
 ![screenshot](images/robot-mouth.png)
 
