@@ -6,7 +6,7 @@ Vamos dar alguns olhos ao seu robô!
     
     O projeto deve ficar assim:
     
-    ![screenshot](images/robot-starter.png)
+    ![captura de tela](images/robot-starter.png)
 
 Cada imagem neste projeto tem seu próprio nome (ou **`id`**). Por exemplo, o código HTML para endereçar as imagens de rosto e olhos ('rosto', 'olhos1' e 'olhos2', iniciando na linha 8 do seu código) se parece com isto:
 
@@ -19,7 +19,7 @@ Voce pode usar o `id` da imagem para dar um estilo próprio, usando o CSS e o s�
 
 Clique no arquivo `style.css`. Percebe como o tamanho do rosto do robô e as outras imagens são diferentes?
 
-![screenshot](images/robot-id.png)
+![captura de tela](images/robot-id.png)
 
 + Adicione este código CSS para estilizar os olhos do robô:
     
@@ -30,7 +30,7 @@ Clique no arquivo `style.css`. Percebe como o tamanho do rosto do robô e as out
 
 Observe que você está estilizando apenas a imagem do `olhos1`, usando `#olhos1` no seu código CSS. Se você preferir olhos diferentes, você pode usar `#olhos2` ou `#olhos3`!
 
-![screenshot](images/robot-eyes-width.png)
+![captura de tela](images/robot-eyes-width.png)
 
 Percebe como cada imagem é exibida uma após a outra? Isso é chamado de posicionamento **relativo**. Se você quiser dizer ao navegador exatamente onde colocar os olhos do seu robô, você vai precisar usar posicionamento **absoluto**.
 
@@ -43,10 +43,10 @@ Percebe como cada imagem é exibida uma após a outra? Isso é chamado de posici
 
 Você verá que os olhos do seu robô se movem para o lugar correto no seu robô.
 
-![screenshot](images/robot-eyes-position.png)
+![captura de tela](images/robot-eyes-position.png)
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+Este código CSS informa ao navegador a que distância do canto superior esquerdo da página da Web deve exibir a imagem.
 
-![screenshot](images/robot-eyes-position2.png)
+![captura de tela](images/robot-eyes-position2.png)
 
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
+Você pode usar `bottom` ao invés de `top` para dizer ao navegador o quão longe da parte inferior da tela deve mostrar a imagem, bem como `right` ao invés de `left`.
