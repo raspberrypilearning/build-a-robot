@@ -2,9 +2,9 @@
 
 Vamos dar uma boca ao seu robô!
 
-- Adicione o seguinte código na parte inferior do arquivo `style.css` para estilizar a imagem `boca1`:
+- Adicione o seguinte código na parte inferior do arquivo `style.css` para estilizar a imagem `mouth1`:
     
-        #boca1 {
+        #mouth1 {
             width: 50px;
             position: absolute;
             top: 200px;
