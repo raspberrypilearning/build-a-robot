@@ -1,16 +1,16 @@
-## Introduction
+## 介绍
 
-In this project, you’ll learn how to position images to design your own robot!
+在此项目中，你将学习如何定位图像以设计您的机器人！
 
-### What you will make
+### 你将制作：
 
-Use CSS to position robot parts to assemble your own robot.
+使用CSS来定位机器人部件以组装自己的机器人。
 
 ![screenshot](images/robot-final.png)
 
-### What you will learn
+### 你将学会：
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+此项目涵盖了[树莓派 Raspberry Pi 数字制作课程](http://rpf.io/curriculum)的以下几方面内容{:target="_blank"}:
 
 + [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
