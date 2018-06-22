@@ -1,22 +1,22 @@
 ---
-Title: Build a robot
+Title: 建造机器人
 hero_image: images/build-a-robot.png
-theme: violet
+theme: 紫色
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Build a robot
-description: Learn how to position images to design your own robot
+title: 建造机器人
+description: 了解如何定位图像以设计您的机器人
 original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
-interests: art
+interests: 艺术
 technologies: html-css-javascript
-site_areas: projects
+site_areas: 项目
 hardware: ''
 software: html-css-javascript
 version: 3
-last_tested: 2017-01-01
+last_tested: 2017年1月1日
 steps:
   - 
     title: Introduction
