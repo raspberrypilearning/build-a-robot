@@ -19,14 +19,14 @@ version: 3
 last_tested: 2017年1月1日
 steps:
   - 
-    title: Introduction
+    title: 介绍
   - 
-    title: What you will need
+    title: 你需要的
   - 
-    title: Giving your robot eyes
+    title: 给你的机器人装上眼睛
   - 
-    title: Giving your robot a mouth
+    title: 给你的机器人装上嘴巴
   - 
-    title: 'Challenge: your own design'
+    title: '挑战：你自己的设计'
   - 
-    title: 'Challenge: add your own images'
+    title: '挑战：添加自己的图片'
