@@ -2,7 +2,7 @@
 
 ### Hardware
 
-+ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
++ Комп'ютер, здатний працювати з [trinket.io](https://trinket.io){:target="_blank"}
 
 ### Software
 
