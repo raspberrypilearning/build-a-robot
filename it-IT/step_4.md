@@ -2,7 +2,7 @@
 
 Diamo la bocca al tuo robot!
 
-- Aggiungi il seguente codice CSS nella parte inferiore di `style.css` per modellare l'immagine della `bocca1`:
+- Aggiungi il seguente codice CSS nella parte inferiore di `style.css` per modellare l'immagine della `mouth1`:
     
         #mouth1 {
             width: 50px;
@@ -12,14 +12,14 @@ Diamo la bocca al tuo robot!
         }
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+La bocca del tuo robot sembra abbastanza piccola e non è nel posto giusto!
 
 ![screenshot](images/robot-mouth.png)
 
-- Can you fix this by making changes to your CSS code?
+- Sei capace a risolvere il problema facendo cambi al tuo codice CSS?
 
-\--- hints \--- \--- hint \--- You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+\--- hints \--- \--- hint \--- Dovrai cambiare la `width` e le posizioni `top` e `left` per l'immagine `mouth1` nel file `style.css`.
 
-Try different values until it looks the way you want. \--- /hint \--- \--- hint \--- You should have something like this:
+Prova ad inserire valori diversi fino a quando non trovi quello che ti piace.
 
 ![screenshot](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
