@@ -1,8 +1,8 @@
-## Giving your robot a mouth
+## Disegna la bocca del robot
 
-Let’s give your robot a mouth!
+Diamo la bocca al tuo robot!
 
-- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+- Aggiungi il seguente codice CSS nella parte inferiore di `style.css` per modellare l'immagine della `bocca1`:
     
         #mouth1 {
             width: 50px;
