@@ -1,23 +1,23 @@
-## Giving your robot eyes
+## Disegnare gli occhi del robot
 
-Let’s give your robot some eyes!
+Diamo al tuo robot gli occhi!
 
-+ Open [this trinket](http://jumpto.cc/web-robot).
++ Apri [ questo trinket ](http://jumpto.cc/web-robot)
     
-    The project should look like this:
+    Il progetto dovrebbe assomigliare a questo:
     
     ![screenshot](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+Ogni immagine in questo progetto ha il proprio nome (o **` id `** ). Ad esempio, il codice HTML per cambiare le immagini del viso e degli occhi ("volto", "occhi1" e "occhi2", a partire dalla riga 8 del codice) ha il seguente aspetto:
 
-    <img id="face" ...>
-    <img id="eyes1" ...>
-    <img id="eyes2" ...>
+    <img id="volto"...>
+    <img id="occhi1"...>
+    <img id="occhi2"...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+Puoi utilizzare l'ID ` dell'immagine ` per dargli un proprio stile, usando CSS e il simbolo ` # `. Questo ti permette di personalizzare ogni immagine separatamente.
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+Clicca sul file ` style.css `. Fai attenzione: come cambiano le dimensioni del viso del robot e le altre immagini?
 
 ![screenshot](images/robot-id.png)
 
