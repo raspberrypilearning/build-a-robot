@@ -6,7 +6,7 @@ Neste projeto, você vai aprender como posicionar imagens para projetar seu pró
 
 Use CSS para posicionar as peças do robô para montar seu próprio robô.
 
-![captura de tela](images/robot-final.png)
+![screenshot](images/robot-final.png)
 
 ### O que você vai aprender
 
