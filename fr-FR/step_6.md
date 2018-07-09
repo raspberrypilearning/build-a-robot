@@ -2,17 +2,17 @@
 
 ## Défi: ajoute tes propres images
 
-Can you create images to add to your robot, and position them on your webpage?
+Peux-tu créer des images à ajouter à ton robot et les positionner sur ta page web ?
 
-+ If you don't have a drawing software tool, you could use the Scratch paint tool in **Bitmap** mode to draw some new robot parts. Use **save as local file** to save a costume as a `.png` image.
++ Si tu n'as pas de logiciel de dessin, tu peux utiliser l'outil de dessin de Scratch en mode **Bitmap** pour dessiner quelques pièces de robot. Utilise **enregistrer localement comme fichier** pour sauvegarder un costume comme une image `.png`.
     
     ![screenshot](images/robot-scratch-paint.png)
 
-+ Then upload the `.png` image into your trinket:
++ Ensuite, télécharge l'image `.png` dans ton trinket:
     
     ![screenshot](images/robot-image-add.png)
 
-+ Add the image to `index.html`:
++ Ajoute l'image au fichier `index.html`:
     
         <img id="purpleeyes" src="purpleeyes.png">
         
