@@ -1,8 +1,8 @@
-## Giving your robot eyes
+## Donner des yeux à ton robot
 
-Let’s give your robot some eyes!
+Donnons des yeux à ton robot !
 
-+ Open [this trinket](http://jumpto.cc/web-robot).
++ Ouvre [ce trinket](http://jumpto.cc/web-robot).
     
     The project should look like this:
     
