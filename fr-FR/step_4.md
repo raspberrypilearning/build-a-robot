@@ -1,10 +1,10 @@
-## Giving your robot a mouth
+## Donner une bouche à ton robot
 
-Let’s give your robot a mouth!
+Donnons une bouche à ton robot !
 
-- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+- Ajoute le code CSS suivant à la fin du fichier `style.css` pour modifier le style de ton image `bouche1`:
     
-        #mouth1 {
+        #bouche1 {
             width: 50px;
             position: absolute;
             top: 200px;
@@ -12,14 +12,14 @@ Let’s give your robot a mouth!
         }
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+La bouche de ton robot paraît bien petite, et elle n'est pas à la bonne place !
 
-![screenshot](images/robot-mouth.png)
+![capture d'écran](images/robot-mouth.png)
 
-- Can you fix this by making changes to your CSS code?
+- Peux-tu corriger cela en faisant ton propre code CSS ?
 
-\--- hints \--- \--- hint \--- You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+\--- hints \--- \--- hint \--- Tu auras besoin de changer les caractéristiques `width` et les positions `top` et `left` pour `bouche1` dans `style.css`.
 
-Try different values until it looks the way you want. \--- /hint \--- \--- hint \--- You should have something like this:
+Essaie différentes valeurs afin d'obtenir ce que tu souhaites. \--- /hint \--- \--- hint \--- Tu devrais avoir quelque chose comme ça :
 
-![screenshot](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+![capture d'écran](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
