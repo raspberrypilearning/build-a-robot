@@ -6,17 +6,17 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Construire un Robot
 description: Apprenez à positionner des images pour fabriquer votre propre robot
 original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
 interests: art
 technologies: html-css-javascript
-site_areas: projects
+site_areas: projets
 hardware: ''
 software: html-css-javascript
 version: 3
-last_tested: 2017-01-01
+last_tested: 01/01/2017
 steps:
   - 
     title: Introduction
@@ -29,4 +29,4 @@ steps:
   - 
     title: 'Défi: Ajoutez vos propres images'
   - 
-    title: 'Challenge: add your own images'
+    title: 'Défi: Ajoutes tes propres images'
