@@ -4,24 +4,24 @@ Donnons des yeux à ton robot !
 
 + Ouvre [ce trinket](http://jumpto.cc/web-robot).
     
-    The project should look like this:
+    Le projet doit ressembler à ça:
     
     ![screenshot](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+Chaque image dans le projet a son propre nom (ou **`id`**). Par exemple, le code HTML pour traiter le visage et les images d'yeux ('visage', 'yeux1' et 'yeux2', à partir de la ligne 8 de ton code) resselle à ça:
 
     <img id="face" ...>
     <img id="eyes1" ...>
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+Tu peux utiliser les `id` des images pour leur donner leur propre style, en utilisant du CSS grâce au symbole `#`. Cela te permet de changer le style de chaque image séparément.
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+Clique sur le fichier `style.css`. As-tu remarqué comment la taille du visage du robot et des autres images est différente ?
 
 ![screenshot](images/robot-id.png)
 
-+ Add this CSS code to style the robot’s eyes:
++ Ajoute ce code CSS pour modifier le style des yeux du robot :
     
         #eyes1 {
         width: 200px;
