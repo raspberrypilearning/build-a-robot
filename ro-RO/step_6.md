@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: add your own images
+## Provocare: adaugă propriile tale imagini
 
 Can you create images to add to your robot, and position them on your webpage?
 
