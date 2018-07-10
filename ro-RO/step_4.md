@@ -2,7 +2,7 @@
 
 Hai să-i punem robotului o gură!
 
-- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+- Adaugă următorul cod CSS în partea de jos `style.css` pentru a modela imaginea `mouth1`:
     
         #mouth1 {
             width: 50px;
@@ -12,14 +12,14 @@ Hai să-i punem robotului o gură!
         }
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+Gura robotului tău arată cam mică, și nu este chiar în locul potrivit!
 
-![screenshot](images/robot-mouth.png)
+![captură de ecran](images/robot-mouth.png)
 
-- Can you fix this by making changes to your CSS code?
+- Poți corecta lucrul acesta modificând codul CSS?
 
-\--- hints \--- \--- hint \--- You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+\--- hints \--- \--- hint \--- Modifică`width` și `top` și `left` poziția pentru `mouth1` în `style.css`.
 
-Try different values until it looks the way you want. \--- /hint \--- \--- hint \--- You should have something like this:
+Încearcă diferite valori până când acesta arată așa cum dorești. \--- /hint \--- \--- hint \--- Ar trebui să ai ceva de genul acesta:
 
-![screenshot](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+![captură de ecran](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
