@@ -2,23 +2,23 @@
 
 ## Provocare: adaugă propriile tale imagini
 
-Can you create images to add to your robot, and position them on your webpage?
+Poți să creezi imagini pe care să le adaugi robotului tău, și să le poziționezi în pagina web?
 
-+ If you don't have a drawing software tool, you could use the Scratch paint tool in **Bitmap** mode to draw some new robot parts. Use **save as local file** to save a costume as a `.png` image.
++ Dacă nu dispui de un program de desenat, poți folosi unealta de desenat Scratch in modul **Bitmap** pentru a desena compenente ale robotului. Folosește **save as local file** Pentru a salva un costum ca o imagine `.png`.
     
-    ![screenshot](images/robot-scratch-paint.png)
+    ![captură de ecran](images/robot-scratch-paint.png)
 
-+ Then upload the `.png` image into your trinket:
++ Apoi încarcă imaginea `.png` în trinket:
     
-    ![screenshot](images/robot-image-add.png)
+    ![captură de ecran](images/robot-image-add.png)
 
-+ Add the image to `index.html`:
++ Adaugă imaginea la `index.html`:
     
         <img id="purpleeyes" src="purpleeyes.png">
         
 
-+ And add CSS code to `style.css` to position it:
++ Adaugă și codul CSS la `style.css` pentru a o poziționa:
     
-    ![screenshot](images/robot-use-purple-eyes.png)
+    ![captură de ecran](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
