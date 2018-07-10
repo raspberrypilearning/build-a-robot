@@ -1,6 +1,6 @@
-## Giving your robot a mouth
+## Pune-i robotului o gura
 
-Let’s give your robot a mouth!
+Hai să-i punem robotului o gură!
 
 - Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
     
