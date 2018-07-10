@@ -8,31 +8,31 @@ Haideți sa-inpunem robotului niște ochi!
     
     ![screenshot](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+Fiecare imagine din acest proiect are propriul ei nume (or **`id`**). Spre exemplu, codul HTML pentru accesarea imaginilor cu față sau ochi (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) arată astfel:
 
     <img id="face" ...>
     <img id="eyes1" ...>
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+Poți folosi imaginea `id` penttu a creea stilul tău peopriu, folosind CSS și simbolul `#` symbol. Asta îți va permite să modifici fiecare imagine separat.
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+Apasă pe fișierul `style.css`. Ai observat diferența dintre dimensiunea feței robotului și alte imagini sunt diferite?
 
 ![screenshot](images/robot-id.png)
 
-+ Add this CSS code to style the robot’s eyes:
++ Adăugați acest cod CSS pentru a modela ochii robotului:
     
         #eyes1 {
         width: 200px;
         }
         
 
-Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+Observi ca modelezi doar imaginea `eyes1`, folosind `#eyes1` în codul tăuin CSS. Dacă preferi alți ochi, folosește în schimb `#eyes2` or `#eyes3`!
 
 ![screenshot](images/robot-eyes-width.png)
 
-Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+Observați cum este afișată fiecare imagine una după alta? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
 
 + Add these three lines to the CSS code for your `eyes1` image:
     
