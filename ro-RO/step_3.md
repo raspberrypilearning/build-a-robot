@@ -1,10 +1,10 @@
-## Giving your robot eyes
+## Pune-i robotului tău, ochii
 
-Let’s give your robot some eyes!
+Haideți sa-inpunem robotului niște ochi!
 
-+ Open [this trinket](http://jumpto.cc/web-robot).
++ Deschide [this trinket](http://jumpto.cc/web-robot).
     
-    The project should look like this:
+    Proiectul ar trebui să arate astfel:
     
     ![screenshot](images/robot-starter.png)
 
