@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: your own design
+## Provocare: modelul tău propriu
 
-Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+Folosește-te de tot ceea ce ai învățat pentru a finaliza modelul tău de robot. Aici sunt câteva exemple despre cum ar putea să arate robotul tău:
 
-![screenshot](images/robot-examples.png)
+![captură de ecran](images/robot-examples.png)
 
 \--- /challenge \---
