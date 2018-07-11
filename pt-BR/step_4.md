@@ -1,4 +1,4 @@
-## Dando uma boca ao seu robô
+## Dê uma boca ao seu robô
 
 Vamos dar uma boca ao seu robô!
 
