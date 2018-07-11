@@ -1,6 +1,6 @@
 ## Dando olhos ao seu robô
 
-Vamos dar alguns olhos ao seu robô!
+Vamos dar olhos ao seu robô!
 
 + Abra [este trinket](http://jumpto.cc/web-robot).
     
