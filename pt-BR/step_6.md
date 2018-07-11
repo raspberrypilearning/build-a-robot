@@ -4,7 +4,7 @@
 
 Você pode criar imagens para adicionar ao seu robô e posicioná-las na sua página da Web?
 
-+ Se você não tiver uma ferramenta de software de desenho, você pode usar a ferramenta de desenho Scratch no modo **Bitmap** para desenhar algumas novas peças do robô. Use **salvar como arquivo local** para salvar uma fantasia como uma imagem `.png`.
++ Se você não tiver uma ferramenta de software de desenho, você pode usar a ferramenta de desenho Scratch no modo **Bitmap** para desenhar algumas novas peças do robô. Use **salvar em arquivo local** para salvar uma fantasia como uma imagem `.png`.
     
     ![captura de tela](images/robot-scratch-paint.png)
 
