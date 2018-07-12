@@ -16,6 +16,6 @@ Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry P
 
 ### Aanvullende informatie voor clubleiders
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/build-a-robot/print) {:target="_ blank"}.
 
 Gebruik de link in de voettekst voor toegang tot de GitHub opslagplaats voor dit project, met daarin alle bronnen (inclusief een voorbeeld van een voltooid project) in de map ' en/resources'.
