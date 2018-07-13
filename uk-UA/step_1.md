@@ -12,7 +12,7 @@
 
 Цей проект охоплює елементи з наступних напрямків [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [ Використайте основні конструкції програмування для створення простих програм ](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
 ### Додаткова інформація для лідерів клубу
 
