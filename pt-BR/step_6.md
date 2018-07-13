@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Desafio: adicione suas próprias imagens
+## Desafio: Adicione suas próprias imagens
 
 Você pode criar imagens para adicionar ao seu robô e posicioná-las na sua página da Web?
 
