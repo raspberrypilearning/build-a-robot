@@ -1,6 +1,6 @@
 -- /challenge \---
 
-## Challange: додайте ваші власні зображення
+## Завдання: додайте ваші власні зображення
 
 Чи можете ви створити зображення, щоб додати їх до свого робота, і розмістити на своїй веб-сторінці?
 
@@ -8,17 +8,17 @@
     
     ![скріншот](images/robot-scratch-paint.png)</li> 
     
-    + Потім завантажте зображення ` .png </ 0> .</p>
-
-<p><img src="images/robot-image-add.png" alt="скріншот" /></p></li>
-<li><p>Додайте зображення до  <code>index.html`:
+    + Потім завантажте зображення `.png`:
+        
+        ![скріншот](images/robot-image-add.png)
+    
+    + Додайте зображення до `index.html`:
         
             <img id="purpleeyes" src="purpleeyes.png">
             
     
-    + І додати CSS-код в style.css</ 0>, щоб помістити його:</p>
-
-<p><img src="images/robot-use-purple-eyes.png" alt="скріншот" /></p></li>
-</ul>
-
-<p>--- /challenge ---</p>
+    + І додати CSS-код в `style.css`, щоб помістити його:
+        
+        ![скріншот](images/robot-use-purple-eyes.png)</ul> 
+    
+    \--- /challenge \---
