@@ -1,5 +1,5 @@
 ---
-Title: Build a robot
+Title: ロボットの構築
 hero_image: images/build-a-robot.png
 theme: violet
 duration: 2
@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Build a robot
+title: ロボットの構築
 description: Learn how to position images to design your own robot
 original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
 interests: art
