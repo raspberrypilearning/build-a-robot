@@ -1,8 +1,8 @@
 ## Disegnare gli occhi del robot
 
-Diamo al tuo robot gli occhi!
+Diamo al tuo robot degli occhi!
 
-+ Apri [ questo trinket ](http://jumpto.cc/web-robot)
++ Apri [questo trinket](http://jumpto.cc/web-robot).
     
     Il progetto dovrebbe assomigliare a questo:
     
