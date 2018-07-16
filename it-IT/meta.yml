@@ -14,19 +14,19 @@ interests: art
 technologies: html-css-javascript
 site_areas: projects
 hardware: ''
-software: html/css
+software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
     title: Introduzione
   - 
-    title: Requisiti
+    title: Di cosa avrai bisogno
   - 
     title: Disegnare gli occhi del robot
   - 
     title: Disegnare la bocca del robot
   - 
-    title: 'Sfida: Aggiungi le tue immagini'
+    title: 'Sfida: Il tuo progetto'
   - 
-    title: 'Sfida: aggiungi le tue immagine'
+    title: 'Sfida: aggiungi le tue immagini'
