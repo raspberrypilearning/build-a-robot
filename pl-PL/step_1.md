@@ -18,4 +18,4 @@ Ten projekt pokrywa elementy z następujących wątków z [Raspberry Pi Digital 
 
 Jeśli chcesz wydrukować ten projekt użyj [wersji przystosowanej do wydruku](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
 
-Skorzystaj z odnośnika w stopce, aby uzyskać dostęp do repozytorium kodu tego projektu w serwisie GitHub, które zawiera wszystkie zasoby (włącznie z przykładem gotowego projektu (w folderze 'pl/zasoby').
+Skorzystaj z odnośnika na dole, aby uzyskać dostęp do repozytorium kodu dla tego projektu w serwisie GitHub, które zawiera wszystkie zasoby (włącznie z przykładem gotowego projektu) w folderze 'pl/zasoby'.
