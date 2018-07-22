@@ -16,6 +16,6 @@ Ten projekt pokrywa elementy z następujących wątków z [Raspberry Pi Digital 
 
 ### Dodatkowe informacje dla lidera klubu
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
+Jeśli chcesz wydrukować ten projekt użyj [wersji przystosowanej do wydruku](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
 
 Skorzystaj z odnośnika w stopce, aby uzyskać dostęp do repozytorium kodu tego projektu w serwisie GitHub, które zawiera wszystkie zasoby (włącznie z przykładem gotowego projektu (w folderze 'pl/zasoby').
