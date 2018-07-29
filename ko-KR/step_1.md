@@ -1,8 +1,8 @@
-## Introduction
+## 들어가며
 
-In this project, you’ll learn how to position images to design your own robot!
+이미지를 배치하여 나만의 로봇을 만드는 방법을 알아봅시다.
 
-### What you will make
+### 당신이 만들 것들
 
 Use CSS to position robot parts to assemble your own robot.
 
