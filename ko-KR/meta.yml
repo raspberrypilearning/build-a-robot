@@ -1,5 +1,5 @@
 ---
-Title: Build a robot
+Title: 로봇 만들기
 hero_image: images/build-a-robot.png
 theme: violet
 duration: 2
@@ -7,8 +7,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Build a robot
-description: Learn how to position images to design your own robot
+title: 로봇 만들기
+description: 이미지를 배치하여 나만의 로봇을 만드는 방법을 배워 봅시다.
 original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
 interests: art
 technologies: html-css-javascript
@@ -19,14 +19,14 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: 들어가며
   - 
-    title: What you will need
+    title: 준비물
   - 
-    title: Giving your robot eyes
+    title: 로봇의 눈 만들기
   - 
-    title: Giving your robot a mouth
+    title: 로봇의 입 만들기
   - 
-    title: 'Challenge: your own design'
+    title: '도전 과제: 나만의 디자인 만들기'
   - 
-    title: 'Challenge: add your own images'
+    title: '도전 과제: 나만의 이미지 추가하기'
