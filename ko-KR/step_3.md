@@ -28,13 +28,13 @@
         }
         
 
-당신은 `eyes1` 이미지만 스타일링하고 있다는 점에 주목해 주십시오. CSS 코드 안에서 `#eyes1`을 사용하기 때문입니다. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+당신은 `eyes1` 이미지만 스타일링하고 있다는 점에 주목해 주십시오. CSS 코드 안에서 `#eyes1`을 사용하기 때문입니다. 다른 눈들이 더 좋다면 `#eyes1` 대신 `#eyes2` 나 `#eyes3`을 사용할 수도 있습니다.
 
 ![screenshot](images/robot-eyes-width.png)
 
-Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+이미지들이 각각 어떻게 보이는지에 주목해 주십시오. 이것을 **상대적** 위치라고 합니다. 만약 브라우저에 로봇의 눈을 배치할 위치를 정확하게 지정하고 싶다면, 상대적 위치 대신 **절대적** 위치를 사용해야 합니다.
 
-+ Add these three lines to the CSS code for your `eyes1` image:
++ 아래의 CSS 코드 세 줄을 `eyes1` 이미지의 코드에 추가해 주십시오.
     
         position: absolute;
         top: 200px;
