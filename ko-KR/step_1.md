@@ -6,7 +6,7 @@
 
 CSS로 로봇의 부품들을 배치하고, 나만의 로봇을 조립합니다.
 
-![screenshot](images/robot-final.png)
+![스크린샷](images/robot-final.png)
 
 ### 당신이 배우게 될 것들
 
@@ -18,4 +18,4 @@ CSS로 로봇의 부품들을 배치하고, 나만의 로봇을 조립합니다.
 
 이 프로젝트를 인쇄할 경우, [프린트용 버전](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}을 사용해 주십시오.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+하단의 링크를 통해 이 프로젝트의 GitHub repository에 접속할 수 있습니다. (완성된 프로젝트 예제를 포함한) 모든 리소스가 'en/resources' 폴더에 들어 있습니다.
