@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: your own design
+## Challenge: 도전 과제 - 나만의 디자인 만들기
 
-Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+지금까지 배운 것들을 활용하여 나만의 로봇을 완성해 봅시다. 다음은 몇 가지 로봇의 모양을 보여주는 예제입니다.
 
-![screenshot](images/robot-examples.png)
+![스크린샷](images/robot-examples.png)
 
 \--- /challenge \---
