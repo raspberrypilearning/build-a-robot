@@ -4,18 +4,18 @@
 
 ### 당신이 만들 것들
 
-Use CSS to position robot parts to assemble your own robot.
+CSS로 로봇의 부품들을 배치하고, 나만의 로봇을 조립합니다.
 
 ![screenshot](images/robot-final.png)
 
-### What you will learn
+### 당신이 배우게 될 것들
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+이 프로젝트는 [라즈베리 파이 디지털 메이킹 교육과정](http://rpf.io/curriculum){:target="_blank"} 중 아래의 과정에 있는 요소들을 다룹니다.
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [기본적인 프로그래밍 구문을 사용하여 간단한 프로그램 만들기](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Additional information for club leaders
+### 교육자를 위한 추가 정보
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
+이 프로젝트를 인쇄할 경우, [프린트용 버전](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}을 사용해 주십시오.
 
 Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
