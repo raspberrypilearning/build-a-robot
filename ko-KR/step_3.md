@@ -1,21 +1,21 @@
-## Giving your robot eyes
+## 로봇의 눈 만들기
 
-Let’s give your robot some eyes!
+로봇에게 눈을 만들어 줍시다!
 
-+ Open [this trinket](http://jumpto.cc/web-robot).
++ 이 [trinket](http://jumpto.cc/web-robot)을 열어 주십시오.
     
-    The project should look like this:
+    Trinket을 열면 아래와 같은 프로젝트가 보일 것입니다.
     
     ![screenshot](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+이미지들은 각자 고유한 이름이나 **`id`**를 가지고 있습니다. 예를 들어, 얼굴과 눈의 이미지를 처리하는 HTML 코드(8행부터 시작하는 'face', 'eyes1', 'eye2')는 다음과 같습니다.
 
     <img id="face" ...>
     <img id="eyes1" ...>
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+이미지의 `id`를 사용하여, CSS와 `#` 기호를 이용하면 나만의 스타일을 부여할 수 있습니다. 이 방법을 사용하면 각 이미지를 개별적으로 스타일링할 수 있습니다.
 
 Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
 
