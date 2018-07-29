@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: add your own images
+## Challenge: 도전 과제 - 나만의 이미지 추가하기
 
-Can you create images to add to your robot, and position them on your webpage?
+로봇에 추가할 이미지를 만들고, 웹 페이지에 배치해 볼까요?
 
 + If you don't have a drawing software tool, you could use the Scratch paint tool in **Bitmap** mode to draw some new robot parts. Use **save as local file** to save a costume as a `.png` image.
     
