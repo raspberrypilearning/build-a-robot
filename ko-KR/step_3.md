@@ -6,7 +6,7 @@
     
     Trinket을 열면 아래와 같은 프로젝트가 보일 것입니다.
     
-    ![screenshot](images/robot-starter.png)
+    ![스크린샷](images/robot-starter.png)
 
 이미지들은 각자 고유한 이름이나 **`id`**를 가지고 있습니다. 예를 들어, 얼굴과 눈의 이미지를 처리하는 HTML 코드(8행부터 시작하는 'face', 'eyes1', 'eye2')는 다음과 같습니다.
 
@@ -19,7 +19,7 @@
 
 `style.css` 파일을 클릭해 주십시오. 로봇의 얼굴 이미지와 다른 이미지들의 크기는 서로 다릅니다. 이게 어떻게 가능한 걸까요?
 
-![screenshot](images/robot-id.png)
+![스크린샷](images/robot-id.png)
 
 + 아래의 CSS 코드로 로봇의 눈을 스타일링합니다.
     
@@ -30,7 +30,7 @@
 
 당신은 `eyes1` 이미지만 스타일링하고 있다는 점에 주목해 주십시오. CSS 코드 안에서 `#eyes1`을 사용하기 때문입니다. 다른 눈들이 더 좋다면 `#eyes1` 대신 `#eyes2` 나 `#eyes3`을 사용할 수도 있습니다.
 
-![screenshot](images/robot-eyes-width.png)
+![스크린샷](images/robot-eyes-width.png)
 
 이미지들이 각각 어떻게 보이는지에 주목해 주십시오. 이것을 **상대적** 위치라고 합니다. 만약 브라우저에 로봇의 눈을 배치할 위치를 정확하게 지정하고 싶다면, 상대적 위치 대신 **절대적** 위치를 사용해야 합니다.
 
@@ -41,12 +41,12 @@
         left: 100px;
         
 
-You should see that your robot’s eyes move to the correct place on your robot.
+로봇의 눈이 올바른 위치로 이동한 것을 볼 수 있습니다.
 
-![screenshot](images/robot-eyes-position.png)
+![스크린샷](images/robot-eyes-position.png)
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+이 CSS 코드는 브라우저에 이미지를 표시할 때, 왼쪽 위 모퉁이에서부터 얼마나 멀리 떨어진 위치에 배치해야 하는지 알려줍니다.
 
-![screenshot](images/robot-eyes-position2.png)
+![스크린샷](images/robot-eyes-position2.png)
 
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
+`top` 대신 `bottom`을 사용하면 위가 아니라 아래를 기준점으로 삼을 수 있습니다. `left` 가 아닌 `right`을 사용하면 왼쪽 대신 오른쪽을 기준으로 삼게 됩니다.
