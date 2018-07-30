@@ -16,6 +16,6 @@
 
 ### Code Club 工作人員延伸閱讀
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
+如果您需要列印此專案內容，請下載 [列印版本](https://projects.raspberrypi.org/en/projects/build-a-robot/print){：target =“_ blank”}。
 
 使用頁尾的連結可以連到此專案的 GitHub 平台, 其中包含 "en/resources" 資料夾中的所有資源 (包括已完成的專案範例)。
