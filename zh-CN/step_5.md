@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: your own design
+## 挑战：你自己的设计
 
-Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+运用你所学到的来完成自己的机器人吧。以下是机器人外观的一些范例：
 
-![screenshot](images/robot-examples.png)
+![截图](images/robot-examples.png)
 
 \--- /challenge \---
