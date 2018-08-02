@@ -1,14 +1,14 @@
-## Giving your robot eyes
+## 给你的机器人装上眼睛
 
-Let’s give your robot some eyes!
+让我们来给你的机器人装上眼睛！
 
-+ Open [this trinket](http://jumpto.cc/web-robot).
++ 打开[该饰品](http://jumpto.cc/web-robot)。
     
-    The project should look like this:
+    效果应该是这样：
     
     ![screenshot](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+此项目中每张图像都有它自己的名称（或**`ID`**） 例如，代表面部和眼睛图像的HTML代码（从代码的第8行开始的“face”，“eyes1”和“eyes2”）如下所示：
 
     <img id="face" ...>
     <img id="eyes1" ...>
