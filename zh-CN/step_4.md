@@ -1,6 +1,6 @@
-## Giving your robot a mouth
+## 给你的机器人装上嘴巴
 
-Let’s give your robot a mouth!
+让我们来给你的机器人装上嘴巴！
 
 - Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
     
