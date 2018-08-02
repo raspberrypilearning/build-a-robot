@@ -15,24 +15,24 @@
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+你可以使用CSS和`#`符号来为图像设计出你自己的风格`ID`。你可以单独设计每个图像的样式。
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+点击该文件`style.css`。注意到机器人脸部的大小和其它图像的大小有什么不同吗？
 
 ![screenshot](images/robot-id.png)
 
-+ Add this CSS code to style the robot’s eyes:
++ 添加这行CSS代码来设计机器人的眼睛：
     
         #eyes1 {
-        width: 200px;
+        width：200px; 
         }
         
 
-Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+请注意，这行CSS代码中使用`#eyes1`只有改到 `eyes1`图片的样式哦。 如果你更喜欢让机器人拥有不同的双眼，你可以用`#eyes2`或`#eyes3`代替！
 
 ![screenshot](images/robot-eyes-width.png)
 
-Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+注意到每张图像是如何显示的吗？ 这叫做**相对**定位。 如果你想让浏览器将机器人的眼睛明确地放在某处，你就需要使用**绝对**定位。
 
 + Add these three lines to the CSS code for your `eyes1` image:
     
