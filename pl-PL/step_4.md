@@ -2,7 +2,7 @@
 
 Dodajmy robotowi usta!
 
-- Dodaj następujący kod CSS na dole pliku `style.css` aby ostylować grafikę `mouth1`:
+- Dodaj następujący kod CSS na dole pliku `style.css`, aby ostylować grafikę `mouth1`:
     
         #mouth1 {
             width: 50px;
@@ -18,8 +18,8 @@ Usta robota są dość małe i w nieodpowiednim miejscu!
 
 - Potrafisz to naprawić wprowadzając zmiany do kodu CSS?
 
-\--- hints \--- \--- hint \--- Będziesz musiał zmienić właściwości `width` oraz `top` i `left` elementu `mouth1` w pliku `style.css`.
+\--- hints \--- \--- hint \--- Trzeba zmienić właściwości `width` (z ang. szerokość) oraz `top` (z ang. góra) i `left` (z ang. lewa strona) elementu `mouth1` w pliku `style.css`.
 
-Popróbuj różnych wartości, aż całość będzie wyglądała tak jak tego oczekujesz. \--- /hint \--- \--- hint \--- Powinieneś otrzymać coś podobnego:
+Popróbuj różnych wartości, aż całość będzie wyglądała tak, jak tego oczekujesz. \--- /hint \--- \--- hint \--- Efekt powinien być taki:
 
 ![zrzut ekranu](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
