@@ -22,3 +22,9 @@ Potrafisz stworzyć grafiki i dodać je do twojego robota oraz wypozycjonować n
     ![zrzut ekranu](images/robot-use-purple-eyes.png)
 
 --- /challenge ---
+***
+### Tłumaczenie wykonane przez wolontariuszy 
+
+Projekt został przetłumaczony przez: **Kamil Zagrabski i Marcin Sielski**.
+
+Dzięki naszym wspaniałym wolontariuszom, dzieci na całym świecie mogą nauczyć się kodowania. Tłumacząc nasze projekty możesz pomóc nam dotrzeć do większej liczby dzieci. Więcej informacji na stronie [rpf.io/translators](https://rpf.io/translators).
