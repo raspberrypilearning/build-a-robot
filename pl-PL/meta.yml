@@ -8,8 +8,8 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Zbuduj robota
-description: W tym projekcie nauczysz się, jak wstawiać obrazki, by stworzyć własnego robota!
-original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
+description: Dowiedz się, jak pozycjonować grafiki, aby zaprojektować własnego robota
+original_url: https://codeclubprojects.org/pl-PL/webdev/build-a-robot
 interests: art
 technologies: html-css-javascript
 site_areas: projects
@@ -17,5 +17,10 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Zbuduj robota
+steps:
+  - title: Wprowadzenie
+  - title: Czego będziesz potrzebować
+  - title: Dodawanie oczu
+  - title: Dodawanie ust
+  - title: 'Wyzwanie: własny projekt'
+  - title: 'Wyzwanie: dodaj własne grafiki'
