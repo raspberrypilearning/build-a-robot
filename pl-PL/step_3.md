@@ -1,6 +1,6 @@
 ## Dodawanie oczu
 
-Dodajmy oczy twojemu robotowi!
+Dodajmy robotowi oczy!
 
 + Otwórz [edytor trinket](http://jumpto.cc/web-robot).
     
@@ -21,7 +21,7 @@ Kliknij na plik `style.css`. Widzisz, że rozmiar grafiki twarzy robota różni 
 
 ![zrzut ekranu](images/robot-id.png)
 
-+ Dodaj ten kod CSS aby ostylować oczy robota:
++ Dodaj ten kod CSS, aby ostylować oczy robota:
     
         #eyes1 {
         width: 200px;
@@ -32,7 +32,7 @@ Zauważ, że używając `#eyes1` w swoim kodzie CSS ostylujesz tylko grafikę `e
 
 ![zrzut ekranu](images/robot-eyes-width.png)
 
-Widzisz, jak obrazki są wyświetlane jeden po drugim? To nazywa się pozycjonowanie **relatywne**. Jeżeli chcesz poinstruować przeglądarkę, gdzie dokładnie powinny zostać umieszczone oczy robota, będziesz musiał użyć pozycjonowania **absolutnego**.
+Widzisz, jak obrazki są wyświetlane jeden po drugim? To nazywa się pozycjonowanie **relatywne (ang. relative)**. Jeżeli chcesz poinstruować przeglądarkę, gdzie dokładnie powinny zostać umieszczone oczy robota, będziesz musiał użyć pozycjonowania **absolutnego**.
 
 + Dodaj te trzy linie do kodu CSS dla grafiki `eyes1`:
     
