@@ -32,16 +32,16 @@ Zauważ, że używając `#eyes1` w swoim kodzie CSS ostylujesz tylko grafikę `e
 
 ![zrzut ekranu](images/robot-eyes-width.png)
 
-Widzisz, jak obrazki są wyświetlane jeden po drugim? To nazywa się pozycjonowanie **relatywne (ang. relative)**. Jeżeli chcesz poinstruować przeglądarkę, gdzie dokładnie powinny zostać umieszczone oczy robota, będziesz musiał użyć pozycjonowania **absolutnego**.
+Widzisz, jak obrazki są wyświetlane jeden po drugim? To nazywa się pozycjonowanie **relatywne (ang. relative)**. Aby poinstruować przeglądarkę, gdzie dokładnie powinny zostać umieszczone oczy robota, trzeba użyć pozycjonowania **absolutnego (and. absolute)**.
 
-+ Dodaj te trzy linie do kodu CSS dla grafiki `eyes1`:
++ Dodaj te trzy linie do kodu CSS w odniesieniu do grafiki `eyes1`:
     
         position: absolute;
         top: 200px;
         left: 100px;
         
 
-Powinieneś zobaczyć, jak oczy twojego robota przemieściły się w oczekiwane miejsce.
+Zauważ, jak oczy twojego robota przemieściły się w oczekiwane miejsce.
 
 ![zrzut ekranu](images/robot-eyes-position.png)
 
@@ -49,4 +49,4 @@ Ten kod CSS mówi przeglądarce, jak daleko od górnego lewego rogu strony wyśw
 
 ![zrzut ekranu](images/robot-eyes-position2.png)
 
-Możesz użyć `bottom` zamiast `top`, aby powiedzieć przeglądarce jak daleko od dołu ekranu pokazać grafikę, jak również `right` zamiast `left`, aby pozycjonować ją względem prawej krawędzi.
+Możesz użyć `bottom` (z ang. dół) zamiast `top` (z ang. góra), aby powiedzieć przeglądarce jak daleko od dołu ekranu pokazać grafikę, jak również `right` (a ang. prawa strona) zamiast `left` (z ang. lewa strona), aby pozycjonować ją względem prawej krawędzi.
