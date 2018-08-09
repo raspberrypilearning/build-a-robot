@@ -2,8 +2,8 @@
 
 ### Sprzęt
 
-+ Komputer, na którym będziesz miał dostęp do [trinket.io](https://trinket.io){:target="_blank"}
++ Komputer, na którym jest dostęp do [trinket.io](https://trinket.io){:target="_blank"}
 
 ### Oprogamowanie
 
-Ten projekt może zostać ukończony w przeglądarce za pomocą [trinket.io](https://trinket.io){:target="_blank"}.
+Ten projekt można wykonać w przeglądarce internetowej za pomocą [trinket.io](https://trinket.io){:target="_blank"}.
