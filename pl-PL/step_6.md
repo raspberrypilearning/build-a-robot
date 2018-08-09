@@ -12,12 +12,12 @@ Potrafisz stworzyć grafiki i dodać je do twojego robota oraz wypozycjonować n
     
     ![zrzut ekranu](images/robot-image-add.png)
 
-+ Dodaj obraz do pliku `index.html`:
++ Dodaj grafikę do pliku `index.html`:
     
         <img id="purpleeyes" src="purpleeyes.png">
         
 
-+ I dodaj kod pozycjonujący nową część w pliku `style.css`:
++ Następnie dodaj kod pozycjonujący nową część w pliku `style.css`:
     
     ![zrzut ekranu](images/robot-use-purple-eyes.png)
 
