@@ -21,3 +21,9 @@ Kannst du Bilder erstellen, die du zu deinem Roboter hinzufügst und auf deiner 
     ![Screenshot](images/robot-use-purple-eyes.png)
 
 --- /challenge ---
+***
+### Von der Community übersetzt 
+
+Dieses Projekt wurde von **Alex Mills** übersetzt und von **Michael Braehler** überprüft. 
+
+Unsere großartigen Freiwilligen helfen uns, Kindern auf der ganzen Welt die Möglichkeit zu geben, coden zu lernen. Sie können uns helfen, mehr Kinder zu erreichen, indem Sie unsere Projekte übersetzen - lesen Sie mehr unter [rpf.io/translators](https://rpf.io/translators).
