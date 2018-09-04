@@ -32,7 +32,7 @@ Garde a l'esprit que tu ne modifies que l'apparence de l'image `yeux1` en utilis
 
 ![capture d'écran](images/robot-eyes-width.png)
 
-As-tu remarqué comment chaque image s'affiche l'une après l'autre ? Ceci s'appelle positionnement **relatif**. Si tu souhaites dire au navigateur où placer exactement les yeux de ton robot, tu devras utiliser des positionnements **absolus** à la place.
+As-tu remarqué comment chaque image s'affiche l'une après l'autre ? Ceci s'appelle positionnement **relatif**. Si tu veux dire au navigateur où placer exactement les yeux de ton robot, tu devras utiliser le positionnement **absolue** à sa place.
 
 + Ajoute ces trois lignes à ton code CSS pour ton image `yeux1` :
     
@@ -41,12 +41,12 @@ As-tu remarqué comment chaque image s'affiche l'une après l'autre ? Ceci s'app
         left: 100px;
         
 
-Tu devrais voir que les yeux de ton robot se placent au on endroit sur ton robot.
+Tu devrais voir que les yeux de ton robot se placent au bon endroit sur ton robot.
 
 ![capture d'écran](images/robot-eyes-position.png)
 
-Ce code CSS indique au navigateur à quelle distance du coin supérieur gauche de la page il doit afficher l'image.
+Ce code CSS indique au navigateur à quelle distance du coin supérieur gauche de la page l'image doit s'afficher.
 
-![screenshot](images/robot-eyes-position2.png)
+![capture d'écran](images/robot-eyes-position2.png)
 
-Tu peux utiliser `bottom` à la place de `top` pour indiquer au navigateur à quelle distance du bas de l'écran il doit afficher l'image, aussi bien que `right` à la place de `left`.
+Tu peux utiliser `bottom` au lieu de `top` pour indiquer au navigateur à quelle distance du bas de l'écran l'image doit s'afficher, ainsi que `right` au lieu de `left`.
