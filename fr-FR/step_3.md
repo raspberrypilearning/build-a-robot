@@ -15,9 +15,9 @@ Chaque image dans le projet a son propre nom (ou **`id`**). Par exemple, le code
     <img id="eyes2" ...>
     
 
-Tu peux utiliser les `id` des images pour leur donner leur propre style, en utilisant du CSS grâce au symbole `#`. Cela te permet de changer le style de chaque image séparément.
+Tu peux utiliser l'`id` des images pour leur donner leur propre style, en utilisant du CSS grâce au symbole `#`. Cela te permet à changer le style de chaque image séparément.
 
-Clique sur le fichier `style.css`. As-tu remarqué comment la taille du visage du robot et des autres images est différente ?
+Clique sur le fichier `style.css`. As-tu remarqué comment la taille du visage du robot et des autres images sont différentes ?
 
 ![capture d'écran](images/robot-id.png)
 
@@ -28,7 +28,7 @@ Clique sur le fichier `style.css`. As-tu remarqué comment la taille du visage d
         }
         
 
-Note que tu ne modifies l'apparence que de l'image `yeux1` en utilisant `#yeux1` dans ton code CSS. Si tu préfères des yeux différents, tu peux utiliser `#yeux2` ou `yeux3` à la place !
+Garde a l'esprit que tu ne modifies que l'apparence de l'image `yeux1` en utilisant `#yeux1` dans ton code CSS. Si tu préfères des yeux différents, tu peux utiliser `#yeux2` ou `yeux3` à la place !
 
 ![capture d'écran](images/robot-eyes-width.png)
 
