@@ -4,11 +4,11 @@ Donnons des yeux à ton robot !
 
 + Ouvre [ce trinket](http://jumpto.cc/web-robot).
     
-    Le projet doit ressembler à ça:
+    Le projet devrait ressembler à ceci:
     
     ![capture d'écran](images/robot-starter.png)
 
-Chaque image dans le projet a son propre nom (ou **`id`**). Par exemple, le code HTML pour traiter le visage et les images d'yeux ('visage', 'yeux1' et 'yeux2', à partir de la ligne 8 de ton code) resselle à ça:
+Chaque image dans le projet a son propre nom (ou **`id`**). Par exemple, le code HTML pour traiter le visage et les images des yeux ('visage', 'yeux1' et 'yeux2', à partir de la ligne 8 de ton code) ressemble à ceci:
 
     <img id="face" ...>
     <img id="eyes1" ...>
