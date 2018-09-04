@@ -2,7 +2,7 @@
 
 Dans ce projet, tu vas apprendre comment positionner des images pour concevoir ton propre robot!
 
-### Ce que tu vas apprendre
+### Ce que tu vas créer
 
 Utiliser CSS pour positionner des pièces afin d'assembler ton propre robot.
 
@@ -12,7 +12,7 @@ Utiliser CSS pour positionner des pièces afin d'assembler ton propre robot.
 
 Ce projet couvre des éléments des sections suivantes du [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
 
-+ [ Utilise des concepts de base de programmation créer des programmes simples ](https://www.raspberrypi.org/curriculum/programming/creator) {: target = "_ blank"}
++ [ Utilise des concepts de base de programmation pour créer des programmes simples ](https://www.raspberrypi.org/curriculum/programming/creator) {: target = "_ blank"}
 
 ### Informations complémentaires pour les responsables de club
 
