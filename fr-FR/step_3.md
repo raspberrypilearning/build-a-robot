@@ -28,11 +28,11 @@ Clique sur le fichier `style.css`. As-tu remarqué comment la taille du visage d
         }
         
 
-Garde a l'esprit que tu ne modifies que l'apparence de l'image `yeux1` en utilisant `#yeux1` dans ton code CSS. Si tu préfères des yeux différents, tu peux utiliser `#yeux2` ou `yeux3` à la place !
+Garde a l'esprit que tu ne modifies que l'apparence de l'image `yeux1` en utilisant `#yeux1` dans ton code CSS. Si tu préfères des yeux différents, tu peux utiliser `#yeux2` ou `yeux3` !
 
 ![capture d'écran](images/robot-eyes-width.png)
 
-As-tu remarqué comment chaque image est affichée l'une après l'autre ? On appelle ceci positionnement **relatif**. Si tu souhaites dire au navigateur où placer exactement les yeux de ton robot, tu devras utiliser des positionnements **absolus** à la place.
+As-tu remarqué comment chaque image s'affiche l'une après l'autre ? Ceci s'appelle positionnement **relatif**. Si tu souhaites dire au navigateur où placer exactement les yeux de ton robot, tu devras utiliser des positionnements **absolus** à la place.
 
 + Ajoute ces trois lignes à ton code CSS pour ton image `yeux1` :
     
