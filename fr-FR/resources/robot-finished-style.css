@@ -1,40 +1,40 @@
 img {
   width: 50px;
 }
-#visage {
+#face {
   width: 400px;
 }
-#yeux1 {
+#eyes1 {
   width: 200px;
   position: absolute;
   top: 200px;
   left: 100px;
 }
-#nez1 {
+#nose1 {
   width: 50px;
   position: absolute;
   top: 250px;
   left: 170px;
 }      
-#bouche1 {
+#mouth1 {
   width: 100px;
   position: absolute;
   top: 330px;
   left: 150px;
 }
-#chapeau {
+#hat {
   width: 300px;
   position: absolute;
   top: 0px;
   left: 60px;
 }
-#noeudPapillon {
+#bowtie {
   width: 150px;
   position: absolute;
   top: 380px;
   left: 120px;        
 }
-#oiseau {
+#bird {
   width: 100px;
   position: absolute;
   top: 0px;
