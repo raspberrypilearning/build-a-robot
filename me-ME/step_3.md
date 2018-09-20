@@ -15,13 +15,13 @@ Svaka slika u ovom projektu ima svoj naziv (ili **`id`**). Na primjer, HTML kôd
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+Možeš koristiti `id` slike da joj dodijeliš njen sopstveni stil, koristeći CSS i znak `#`. Ovo ti omogućava da svaku sliku posebno stilizuješ.
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+Klikni na datoteku `style.css`. Primjećuješ li da postoji razlika u veličini robotovog lica i ostalih slika?
 
 ![screenshot](images/robot-id.png)
 
-+ Add this CSS code to style the robot’s eyes:
++ Dodaj ovaj CSS kôd kojim ćeš stilizovati robotove oči:
     
         #eyes1 {
         width: 200px;
