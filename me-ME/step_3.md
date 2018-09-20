@@ -1,4 +1,4 @@
-## Giving your robot eyes
+## Dodavanje očiju
 
 Let’s give your robot some eyes!
 
