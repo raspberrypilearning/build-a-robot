@@ -28,11 +28,11 @@ Klikni na datoteku `style.css`. Primjećuješ li da postoji razlika u veličini 
         }
         
 
-Imaj u vidu da stilizuješ samo sliku `eyes1`, koristeći `#eyes1` u svom CSS kôdu. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+Imaj u vidu da stilizuješ samo sliku `eyes1`, koristeći `#eyes1` u svom CSS kôdu. Ako želiš drugačije oči, možeš koristiti `#eyes2` ili `#eyes3`!
 
 ![screenshot](images/robot-eyes-width.png)
 
-Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+Primjećuješ li kako su slike prikazane jedna za drugom? To se zove **relativno** pozicioniranje. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
 
 + Add these three lines to the CSS code for your `eyes1` image:
     
