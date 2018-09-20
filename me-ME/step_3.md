@@ -28,7 +28,7 @@ Klikni na datoteku `style.css`. Primjećuješ li da postoji razlika u veličini 
         }
         
 
-Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+Imaj u vidu da stilizuješ samo sliku `eyes1`, koristeći `#eyes1` u svom CSS kôdu. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
 
 ![screenshot](images/robot-eyes-width.png)
 
