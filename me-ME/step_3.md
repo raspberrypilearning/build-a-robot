@@ -32,9 +32,9 @@ Imaj u vidu da stilizuješ samo sliku `eyes1`, koristeći `#eyes1` u svom CSS k�
 
 ![screenshot](images/robot-eyes-width.png)
 
-Primjećuješ li kako su slike prikazane jedna za drugom? To se zove **relativno** pozicioniranje. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+Primjećuješ li kako su slike prikazane jedna za drugom? To se zove **relativno** pozicioniranje. Ako želiš da kažeš pregledaču gdje tačno da postavi robotove oči, umjesto relativnog, treba da koristiš **apsolutno** pozicioniranje.
 
-+ Add these three lines to the CSS code for your `eyes1` image:
++ CSS kôdu za sliku `eyes1` dodaj sljedeća tri reda:
     
         position: absolute;
         top: 200px;
