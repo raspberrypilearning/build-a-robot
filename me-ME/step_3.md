@@ -8,7 +8,7 @@ Dodajmo tvom robotu oči!
     
     ![screenshot](images/robot-starter.png)
 
-Svaka slika u ovom projektu ima svoj naziv (ili **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+Svaka slika u ovom projektu ima svoj naziv (ili **`id`**). Na primjer, HTML kôd za slike lica i očiju ('face', 'eyes1' i 'eyes2', koji počinje u 8. redu tvog kôda) izgleda ovako:
 
     <img id="face" ...>
     <img id="eyes1" ...>
