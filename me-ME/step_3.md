@@ -41,12 +41,12 @@ Primjećuješ li kako su slike prikazane jedna za drugom? To se zove **relativno
         left: 100px;
         
 
-You should see that your robot’s eyes move to the correct place on your robot.
+Vidjećeš da se oči tvog robota pomjeraju na ispravno mjesto.
 
 ![screenshot](images/robot-eyes-position.png)
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+Ovaj CSS kôd govori pregledaču koliko daleko od lijevog gornjeg ugla veb-stranice treba prikazati sliku.
 
 ![screenshot](images/robot-eyes-position2.png)
 
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
+Umjesto `top`, možeš koristiti `bottom` da kažeš pregledaču koliko daleko od dna veb-stranice treba prikazati sliku. Isto tako, možeš da koristiš `righ` umjesto `left`.
