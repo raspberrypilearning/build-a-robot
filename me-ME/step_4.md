@@ -1,8 +1,8 @@
 ## Dodavanje usta
 
-Let’s give your robot a mouth!
+Dodajmo tvom robotu usta!
 
-- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+- Na kraju `style.css` dodaj sljedeći CSS kôd da stilizuješ sliku `mouth1`:
     
         #mouth1 {
             width: 50px;
