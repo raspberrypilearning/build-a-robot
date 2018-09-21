@@ -4,7 +4,7 @@
 
 Možeš li da izradiš slike koje ćeš dodati svom robotu i pozicionirati ih na svojoj veb-stranici?
 
-+ If you don't have a drawing software tool, you could use the Scratch paint tool in **Bitmap** mode to draw some new robot parts. Use **save as local file** to save a costume as a `.png` image.
++ Ako nemaš program za crtanje, možeš da koristiš Scratch alat za crtanje u **Bitmap** režimu da nacrtaš neke nove dijelove robota. Use **save as local file** to save a costume as a `.png` image.
     
     ![screenshot](images/robot-scratch-paint.png)
 
