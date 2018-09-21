@@ -12,13 +12,13 @@ Dodajmo tvom robotu usta!
         }
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+Robotova usta su prilično mala i nisu na ispravnom mjestu!
 
 ![screenshot](images/robot-mouth.png)
 
-- Can you fix this by making changes to your CSS code?
+- Možeš li to popraviti tako što ćeš napraviti izmjene u svom CSS kôdu?
 
-\--- hints \--- \--- hint \--- You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+Biće potrebno da izmijeniš `width` (širinu), kao i pozicije `top` i `left` za sliku `mouth1` u datoteci `style.css`.
 
 Try different values until it looks the way you want. \--- /hint \--- \--- hint \--- You should have something like this:
 
