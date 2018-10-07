@@ -17,7 +17,7 @@ Svaka slika u ovom projektu ima svoj naziv (ili **`id`**). Na primjer, HTML kôd
 
 Možeš koristiti `id` slike da joj dodijeliš njen sopstveni stil, koristeći CSS i znak `#`. Ovo ti omogućava da svaku sliku posebno stilizuješ.
 
-Klikni na datoteku `style.css`. Primjećuješ li da postoji razlika u veličini robotovog lica i ostalih slika?
+Klikni na `style.css` datoteku. Primjećuješ li da postoji razlika u veličini robotovog lica i ostalih slika?
 
 ![screenshot](images/robot-id.png)
 
