@@ -32,7 +32,7 @@ Imaj u vidu da stilizuješ samo sliku `eyes1`, koristeći `#eyes1` u svom CSS k�
 
 ![screenshot](images/robot-eyes-width.png)
 
-Primjećuješ li kako su slike prikazane jedna za drugom? To se zove **relativno** pozicioniranje. Ako želiš da kažeš pregledaču gdje tačno da postavi robotove oči, umjesto relativnog, treba da koristiš **apsolutno** pozicioniranje.
+Primjećuješ li kako se slike prikazuju jedna za drugom? To se zove **relativno** pozicioniranje. Ako želiš da kažeš pregledaču gdje tačno da postavi robotove oči, umjesto relativnog, treba da koristiš **apsolutno** pozicioniranje.
 
 + CSS kôdu za sliku `eyes1` dodaj sljedeća tri reda:
     
