@@ -18,7 +18,7 @@ Robotova usta su veoma mala i nisu na ispravnom mjestu!
 
 - Možeš li to popraviti tako što ćeš napraviti izmjene u svom CSS kôdu?
 
-Biće potrebno da izmijeniš `width` (širinu), kao i pozicije `top` i `left` za sliku `mouth1` u datoteci `style.css`.
+\--- hints \--- \--- hint \--- Biće potrebno da izmijeniš `width` (širinu), kao i pozicije `top` i `left` za `mouth1` u `style.css` datoteci.
 
 Isprobaj različite vrijednosti dok ne postigneš da usta izgledaju kako želiš. \--- /hint \--- \--- hint \--- To treba da uradiš otprilike ovako:
 
