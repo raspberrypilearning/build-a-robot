@@ -12,7 +12,7 @@ Dodajmo tvom robotu usta!
         }
         
 
-Robotova usta su prilično mala i nisu na ispravnom mjestu!
+Robotova usta su veoma mala i nisu na ispravnom mjestu!
 
 ![screenshot](images/robot-mouth.png)
 
