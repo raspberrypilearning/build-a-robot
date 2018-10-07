@@ -49,4 +49,4 @@ Ovaj CSS kôd govori pregledaču koliko daleko od lijevog gornjeg ugla veb-stran
 
 ![screenshot](images/robot-eyes-position2.png)
 
-Umjesto `top`, možeš koristiti `bottom` da kažeš pregledaču koliko daleko od dna veb-stranice treba prikazati sliku. Isto tako, možeš da koristiš `righ` umjesto `left`.
+Umjesto `top`, možeš koristiti `bottom` da kažeš pregledaču koliko daleko od dna ekrana treba prikazati sliku. Isto tako, možeš da koristiš `right` umjesto `left`.
