@@ -45,7 +45,7 @@ Vidjećeš da se oči tvog robota pomjeraju na ispravno mjesto.
 
 ![screenshot](images/robot-eyes-position.png)
 
-Ovaj CSS kôd govori pregledaču koliko daleko od lijevog gornjeg ugla veb-stranice treba prikazati sliku.
+Ovaj CSS kôd pokazuje pregledaču koliko daleko od lijevog gornjeg ugla veb-stranice treba prikazati sliku.
 
 ![screenshot](images/robot-eyes-position2.png)
 
