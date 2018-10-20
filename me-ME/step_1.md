@@ -1,6 +1,6 @@
 ## Uvod
 
-U ovom projektu naučićeš kako da pozicioniranjem slika dizajniraš sopstvenog robota!
+U ovom projektu naučićeš kako da pozicioniranjem slika napraviš sopstvenog robota!
 
 ### Šta ćeš napraviti
 
