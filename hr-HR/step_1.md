@@ -1,21 +1,21 @@
-## Introduction
+## Uvod
 
-In this project, you’ll learn how to position images to design your own robot!
+U ovom ćete projektu saznati kako postaviti slike kako biste dizajnirali svoj robot!
 
-### What you will make
+### Što ćete učiniti
 
-Use CSS to position robot parts to assemble your own robot.
+Koristite CSS za postavljanje dijelova robota za sastavljanje vlastitog robota.
 
 ![screenshot](images/robot-final.png)
 
-### What you will learn
+### Što ćete naučiti
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Ovaj projekt pokriva elemente iz sljedećih dijelova kurikuluma [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Korištenje osnova programiranja za izradu jednostavnih programa](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Additional information for club leaders
+### Dodatne informacije za voditelje kluba
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
+Ako trebate ispisati ovaj projekt, koristite [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:Target="_ blank"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Koristi poveznicu u podnožju za pristup GitHup repozitoriju ovog projekta koji sadrži sve materijale (uključujući i primjer gotovog projekta) u mapi 'en/resources'.
