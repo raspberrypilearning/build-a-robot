@@ -1,8 +1,8 @@
-## Giving your robot a mouth
+## Davanje vašem robotu usta
 
-Let’s give your robot a mouth!
+Dajmo vašem robotu usta!
 
-- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+- Dodajte sljedeći CSS kôd na dnu `style.css` stilizirati `mouth1` slika:
     
         #mouth1 {
             width: 50px;
@@ -12,14 +12,14 @@ Let’s give your robot a mouth!
         }
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+Usta vašeg robota izgledaju vrlo mala, i nisu na pravom mjestu!
 
 ![screenshot](images/robot-mouth.png)
 
-- Can you fix this by making changes to your CSS code?
+- Možeš li ovo popraviti radeći promjene u kodu CSS?
 
-\--- hints \--- \--- hint \--- You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+\--- hints \--- \--- hint \--- Morat ćete promijeniti `width` i `top` i `left` mjesta za `mouth1` u `style.css`.
 
-Try different values until it looks the way you want. \--- /hint \--- \--- hint \--- You should have something like this:
+Isprobajte različite vrijednosti dok ne izgleda onako kako želite. \---/hint\--- \--- hint \--- Trebali biste imati nešto slično ovome:
 
 ![screenshot](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
