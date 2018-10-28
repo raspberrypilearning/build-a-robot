@@ -1,8 +1,8 @@
-## Giving your robot eyes
+## Dajte robotu oči
 
-Let’s give your robot some eyes!
+Dajmo vašem robotu neke oči!
 
-+ Open [this trinket](http://jumpto.cc/web-robot).
++ Otvorite [ ovaj trik ](http://jumpto.cc/web-robot).
     
     The project should look like this:
     
