@@ -4,49 +4,49 @@ Dajmo vašem robotu neke oči!
 
 + Otvorite [ ovaj trik ](http://jumpto.cc/web-robot).
     
-    The project should look like this:
+    Projekt bi trebao izgledati ovako:
     
     ![screenshot](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+Svaka slika u ovom projektu ima svoje ime (ili **`id`**). Na primjer, HTML kôd za rješavanje slika lica i oka ("face", "eyes1" i "eyes2", počevši od linije 8 koda) izgleda ovako:
 
     <img id="face" ...>
     <img id="eyes1" ...>
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+Možete koristiti slike u `id` dati svoj vlastiti stil, koristeći CSS i `#` simbol. Ovo vam omogućava stilu svaku sliku zasebno.
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+Kliknite na `style.css` datoteke. Primijetiti kako su različite veličine robot's lice i druge slike?
 
 ![screenshot](images/robot-id.png)
 
-+ Add this CSS code to style the robot’s eyes:
++ Dodajte ovaj CSS kôd kako biste oblikovali oči robota:
     
         #eyes1 {
         width: 200px;
         }
         
 
-Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+Primijetiti da ste stil samo `eyes1` slike, koristeći `#eyes1` u vaš CSS kod. Ako želite različite oči, možete koristiti `#eyes2` ili `#eyes3` umjesto!
 
 ![screenshot](images/robot-eyes-width.png)
 
-Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+Primijetite kako se svaka slika prikazuje jedan za drugim? To se zove **relativan** smještaj. Ako želite reći da je preglednik točno gdje želite smjestiti vaš robot oči, morat ćete koristiti **absolute** pozicioniranje umjesto toga.
 
-+ Add these three lines to the CSS code for your `eyes1` image:
++ Ove tri linije dodati CSS kod za sliku `eyes1`:
     
         position: absolute;
         top: 200px;
         left: 100px;
         
 
-You should see that your robot’s eyes move to the correct place on your robot.
+Trebali biste vidjeti da se oči vašeg robota kreću na ispravno mjesto na vašem robotu.
 
 ![screenshot](images/robot-eyes-position.png)
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+Ovaj CSS kôd govori pregledniku koliko daleko od gornjeg lijevog kuta web stranice za prikaz slike.
 
 ![screenshot](images/robot-eyes-position2.png)
 
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
+Možete upotrijebiti `bottom` umjesto `top` da biste pregledniku rekli koliko daleko od dna zaslona treba prikazati sliku, kao i `right` umjesto `left`.
