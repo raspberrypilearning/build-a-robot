@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: add your own images
+## Izazov: Dodajte svoje vlastite slike
 
-Can you create images to add to your robot, and position them on your webpage?
+Možete li izraditi slike koje želite dodati robotu i postaviti ih na svoju web stranicu?
 
-+ If you don't have a drawing software tool, you could use the Scratch paint tool in **Bitmap** mode to draw some new robot parts. Use **save as local file** to save a costume as a `.png` image.
++ Ako nemate alat za crtanje, možete upotrijebiti alat Scratch Paint u **Bitmap** način privlačenja novih dijelova robota. Koristite **save as local file** za spremanje kostima kao `.png` slika.
     
     ![screenshot](images/robot-scratch-paint.png)
 
-+ Then upload the `.png` image into your trinket:
++ Zatim prenesite `.png` sliku u svoj nakit:
     
     ![screenshot](images/robot-image-add.png)
 
-+ Add the image to `index.html`:
++ Dodajte sliku u `index.html`:
     
         <img id="purpleeyes" src="purpleeyes.png">
         
