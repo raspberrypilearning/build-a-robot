@@ -17,7 +17,7 @@ Možete li izraditi slike koje želite dodati robotu i postaviti ih na svoju web
         <img id="purpleeyes" src="purpleeyes.png">
         
 
-+ And add CSS code to `style.css` to position it:
++ Dodajte CSS kôd u `style.css` da ga postavite:
     
     ![screenshot](images/robot-use-purple-eyes.png)
 
