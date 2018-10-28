@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: your own design
+## Izazov: vaš vlastiti dizajn
 
-Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+Koristite ono što ste naučili kako biste dovršili dizajniranje vlastitog robota. Evo nekoliko primjera kako vaš robot može izgledati:
 
 ![screenshot](images/robot-examples.png)
 
