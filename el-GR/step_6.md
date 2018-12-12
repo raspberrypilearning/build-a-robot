@@ -17,8 +17,8 @@
         <img id="purpleeyes" src="purpleeyes.png">
         
 
-+ Και προσθέστε τον κώδικα CSS στο `style.css` για να το τοποθετήσετε:
++ Και πρόσθεσε τον κώδικα CSS στο αρχείο `style.css` για να την τοποθετήσεις:
     
     ![screenshot](images/robot-use-purple-eyes.png)
 
-\--- / πρόκληση \---
+\--- /challenge \---
