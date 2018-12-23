@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: add your own images
+## Výzva: Přidej své vlastní obrázky
 
-Can you create images to add to your robot, and position them on your webpage?
+Umíš si vytvořit obrázky, které přidáš k robotovi a umístíš na své webové stránce?
 
 + If you don't have a drawing software tool, you could use the Scratch paint tool in **Bitmap** mode to draw some new robot parts. Use **save as local file** to save a costume as a `.png` image.
     
