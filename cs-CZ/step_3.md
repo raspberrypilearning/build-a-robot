@@ -1,14 +1,14 @@
-## Giving your robot eyes
+## Přidělej svému robotovi oči
 
-Let’s give your robot some eyes!
+Pojďme přidělat tvému robotovi nějaké oči!
 
-+ Open [this trinket](http://jumpto.cc/web-robot).
++ Otevřete [tento trinket](http://jumpto.cc/web-robot).
     
-    The project should look like this:
+    Tento projekt by měl vypadat přibližně takto:
     
     ![screenshot](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+Každý obrázek v tomto projektu má své vlastní jméno (nebo **`id`**). Například kód HTML, který se představuje obrázky pro obličej a oči ('face', 'eyes1' a 'eyes2', začínající na řádku 8 tvého kódu) vypadá takto:
 
     <img id="face" ...>
     <img id="eyes1" ...>
