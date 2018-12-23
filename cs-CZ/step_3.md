@@ -17,7 +17,7 @@ Každý obrázek v tomto projektu má své jméno (nebo **`id`**). Kupříkladu 
 
 Můžeš také použít `id` obrázku a symbolu `#`, abys pomocí CSS stylů dodal obrázku vlastní styl. To ti umožňuje upravovat obrázky jeden po druhém.
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+Klikni na soubor `style.css`. Všimni si rozdílu ve velikost obličeje robota a jeho ostatními součáskami. Jsou přirozeně velké?
 
 ![screenshot](images/robot-id.png)
 
@@ -28,11 +28,11 @@ Click on the `style.css` file. Notice how the size of the robot’s face and the
         }
         
 
-Všimni si, že upravuješ pouze obrázek `eyes1`, a to právě díky `#eyes1` ve tvém CSS kódu. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+Všimni si, že upravuješ pouze obrázek `eyes1`, a to právě díky `#eyes1` ve tvém CSS kódu. Pokud dáváš přednost jiným očím, můžeš namísto nich použít `#eyes2` nebo `#eyes3`!
 
 ![screenshot](images/robot-eyes-width.png)
 
-Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+Všiml sis, že jsou obrázky zobrazeny jeden za druhým? Tomuto se říká **relativní** pozicování. Chceš-li prohlížeči přesně říct, kam umístit robotovi oči, budeš namísto toho potřebovat použít **absolutní pozicování**.
 
 + Add these three lines to the CSS code for your `eyes1` image:
     
