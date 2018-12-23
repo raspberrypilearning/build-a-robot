@@ -1,21 +1,21 @@
-## Introduction
+## Úvod
 
-In this project, you’ll learn how to position images to design your own robot!
+V tom projektu se naučíš, jak správně umisťovat obrázky, aby sis vytvořil svého vlastního robota!
 
-### What you will make
+### Co budeš dělat
 
-Use CSS to position robot parts to assemble your own robot.
+Použiješ CSS na umístění robotových součástek, čímž si sestavíš vlastního robota.
 
 ![screenshot](images/robot-final.png)
 
-### What you will learn
+### Co se naučíš
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Tento projekt zahrnuje prvky z následujících částí výukového curricula [ Raspberry Pi Digital ](http://rpf.io/curriculum) {: target = "_ blank"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Použij základní programovací konstrukce k vytvoření jednoduchých programů ](https://www.raspberrypi.org/curriculum/programming/creator) {:target = "_blank"}
 
-### Additional information for club leaders
+### Další informace pro vedoucí klubů
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
+Potřebujete-li tento projekt vytisknout, použijte verzi [pro tisk](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
 
 Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
