@@ -4,11 +4,11 @@
 
 Umíš si vytvořit obrázky, které přidáš k robotovi a umístíš na své webové stránce?
 
-+ If you don't have a drawing software tool, you could use the Scratch paint tool in **Bitmap** mode to draw some new robot parts. Use **save as local file** to save a costume as a `.png` image.
++ Jestli nemáš nástroj na kreslení, můžeš pro namalování nových součástek robota využít malování v **režimu bitmapy** ve Scratchi. Použij **uložit do lokálního souboru** k uložení tebou vytvořeného kostýmu do obrázkového formátu `.png`.
     
     ![screenshot](images/robot-scratch-paint.png)
 
-+ Then upload the `.png` image into your trinket:
++ Poté nahraj `.png` obrázek do svého trinket projektu:
     
     ![screenshot](images/robot-image-add.png)
 
