@@ -4,11 +4,11 @@ Pojďme přidělat tvému robotovi nějaké oči!
 
 + Otevřete [tento trinket](http://jumpto.cc/web-robot).
     
-    Tento projekt by měl vypadat přibližně takto:
+    Projekt by měl vypadat přibližně takto:
     
     ![screenshot](images/robot-starter.png)
 
-Každý obrázek v tomto projektu má své vlastní jméno (nebo **`id`**). Například kód HTML, který se představuje obrázky pro obličej a oči ('face', 'eyes1' a 'eyes2', začínající na řádku 8 tvého kódu) vypadá takto:
+Každý obrázek v tomto projektu má své jméno (nebo **`id`**). Například kód HTML, který se představuje obrázky pro obličej a oči ('face', 'eyes1' a 'eyes2', začínající na řádku 8 tvého kódu) vypadá takto:
 
     <img id="face" ...>
     <img id="eyes1" ...>
