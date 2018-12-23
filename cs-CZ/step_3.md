@@ -15,9 +15,9 @@ Každý obrázek v tomto projektu má své jméno (nebo **`id`**). Kupříkladu 
     <img id="eyes2" ...>
     
 
-Můžeš použít i `id` obrázku, abys pomocí CSS dodal obrázku vlastní styl, pomocí CSS a symbolu ` #`. To ti umožní upravovat jednotlivé obrázky jeden po druhém.
+Můžeš také použít `id` obrázku a symbolu `#`, abys pomocí CSS stylů dodal obrázku vlastní styl. To ti umožňuje upravovat obrázky jeden po druhém.
 
-Klikni na soubor ` style.css`. Všimni si rozdílu ve velikost obličeje robota a jeho ostatníma součáskama. Jsou ostatní robotovi součástky přirozeně veliké k velikosti obličeje?
+Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
 
 ![screenshot](images/robot-id.png)
 
