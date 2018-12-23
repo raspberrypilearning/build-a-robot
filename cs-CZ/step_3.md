@@ -34,18 +34,18 @@ Všimni si, že upravuješ pouze obrázek `eyes1`, a to právě díky `#eyes1` v
 
 Všiml sis, že jsou obrázky zobrazeny jeden za druhým? Tomuto se říká **relativní** pozicování. Chceš-li prohlížeči přesně říct, kam umístit robotovi oči, budeš namísto toho potřebovat použít **absolutní pozicování**.
 
-+ Add these three lines to the CSS code for your `eyes1` image:
++ Přidej tyto tři řádky CSS kódu pro obrázek `eyes1`:
     
         position: absolute;
         top: 200px;
         left: 100px;
         
 
-You should see that your robot’s eyes move to the correct place on your robot.
+Měl by jsi vidět, že oči tvého robota se přesunuly na správnou pozici.
 
 ![screenshot](images/robot-eyes-position.png)
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+Tento CSS kód říká prohlížeči jak daleko od levého horního okraje webové stránky se má zobrazit obrázek.
 
 ![screenshot](images/robot-eyes-position2.png)
 
