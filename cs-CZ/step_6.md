@@ -12,12 +12,12 @@ Umíš si vytvořit obrázky, které přidáš k robotovi a umístíš na své w
     
     ![screenshot](images/robot-image-add.png)
 
-+ Add the image to `index.html`:
++ Přidej obrázek do `index.html`:
     
         <img id="purpleeyes" src="purpleeyes.png">
         
 
-+ And add CSS code to `style.css` to position it:
++ A také přidej CSS kód do `style.css` k umístění součástky na správné místo:
     
     ![screenshot](images/robot-use-purple-eyes.png)
 
