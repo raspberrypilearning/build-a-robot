@@ -1,8 +1,8 @@
-## Giving your robot a mouth
+## Přidání robotovy pusy
 
-Let’s give your robot a mouth!
+Pojďte přidělat pusu tvému robotovi!
 
-- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+- Přidej následující CSS kód na konec tvého `style.css`, abys nastyloval obrázek pusy `mouth1`:
     
         #mouth1 {
             width: 50px;
@@ -12,7 +12,7 @@ Let’s give your robot a mouth!
         }
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+Pusa tvého robota je velmi malá a také je i na špatném místě!
 
 ![screenshot](images/robot-mouth.png)
 
