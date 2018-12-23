@@ -2,7 +2,7 @@
 
 ## Výzva: Tvůj vlastní design
 
-Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+Použij to, co jsi se právě naučil, k dokončení svého robota. Zde jsou nějaké příklady, jak by mohl tvůj robot vypadat:
 
 ![screenshot](images/robot-examples.png)
 
