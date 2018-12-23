@@ -8,7 +8,7 @@ Pojďme přidělat tvému robotovi nějaké oči!
     
     ![screenshot](images/robot-starter.png)
 
-Každý obrázek v tomto projektu má své jméno (nebo **`id`**). Například kód HTML, který se představuje obrázky pro obličej a oči ('face', 'eyes1' a 'eyes2', začínající na řádku 8 tvého kódu) vypadá takto:
+Každý obrázek v tomto projektu má své jméno (nebo **`id`**). Kupříkladu HTML kód, který představuje jednotlivé obrázky pro obličej a oči ('face', 'eyes1' a 'eyes2', začínající ve tvém kódu na řádku 8) vypadá takto:
 
     <img id="face" ...>
     <img id="eyes1" ...>
