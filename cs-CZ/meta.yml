@@ -1,5 +1,5 @@
 ---
-Title: Vytvoř si robota
+Title: Postav si robota
 hero_image: images/build-a-robot.png
 theme: violet
 duration: 2
@@ -7,8 +7,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Build a robot
-description: Learn how to position images to design your own robot
+title: Postav si robota
+description: Nauč se jak umisťovat obrázky a vytvoř si vlastního robota
 original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
 interests: art
 technologies: html-css-javascript
@@ -19,14 +19,14 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Úvod
   - 
-    title: What you will need
+    title: Co budeš potřebovat
   - 
-    title: Giving your robot eyes
+    title: Přidělej svému robotovi oči
   - 
-    title: Giving your robot a mouth
+    title: Přidělej svému robotovi pusu
   - 
-    title: 'Challenge: your own design'
+    title: 'Výzva: Tvůj vlastní design'
   - 
-    title: 'Challenge: add your own images'
+    title: 'Výzva: Přidej své vlastní obrázky'
