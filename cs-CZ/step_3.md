@@ -1,4 +1,4 @@
-## Přidělej svému robotovi oči
+## Přidání robotových očí
 
 Pojďme přidělat tvému robotovi nějaké oči!
 
