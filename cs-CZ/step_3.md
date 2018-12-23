@@ -49,4 +49,4 @@ Tento CSS kód říká prohlížeči jak daleko od levého horního okraje webov
 
 ![screenshot](images/robot-eyes-position2.png)
 
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
+Můžeš použít `bottom` namísto `top`, abys prohlížeči řekl, že má obrázek umisťovat od spodního okraje webové stránky. To samé platí pro `right` namísto `left` pro umísťování od pravého okraje.
