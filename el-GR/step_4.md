@@ -14,7 +14,7 @@
 
 Το στόμα του ρομπότ σου φαίνεται αρκετά μικρό και δεν είναι στη σωστή θέση!
 
-![screenshot (στιγμιότυπο οθόνης)](images/robot-mouth.png)
+![screenshot](images/robot-mouth.png)
 
 - Μπορείς να το διορθώσεις κάνοντας αλλαγές στον κώδικα CSS;
 
@@ -22,4 +22,4 @@
 
 Δοκίμασε διαφορετικές τιμές μέχρι να φανεί όπως θέλεις. \--- / hint \--- \--- hint \--- Θα πρέπει να έχεις κάτι τέτοιο:
 
-![screenshot (στιγμιότυπο οθόνης)](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
