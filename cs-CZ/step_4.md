@@ -1,6 +1,6 @@
 ## Přidání robotovy pusy
 
-Pojďte přidělat pusu tvému robotovi!
+Pojďme přidělat pusu tvému robotovi!
 
 - Přidej následující CSS kód na konec tvého `style.css`, abys nastyloval obrázek pusy `mouth1`:
     
