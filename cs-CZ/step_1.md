@@ -10,12 +10,12 @@ Použiješ CSS na umístění robotových součástek, čímž si sestavíš vla
 
 ### Co se naučíš
 
-Tento projekt zahrnuje prvky z následujících částí výukového curricula [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Tento projekt zahrnuje prvky z následujících částí výukového curricula [ Raspberry Pi Digital ](http://rpf.io/curriculum) {: target = "_ blank"}:
 
 + [Použij základní programovací konstrukce k vytvoření jednoduchých programů ](https://www.raspberrypi.org/curriculum/programming/creator) {:target = "_blank"}
 
 ### Další informace pro vedoucí klubů
 
-Potřebujete-li tento projekt vytisknout, použijte verzi [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
+Potřebujete-li tento projekt vytisknout, použijte verzi [pro-tisk](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
 
 Pomocí odkazu v zápatí získáte přístup k úložišti GitHub tohoto projektu, které obsahuje všechny zdrojové kódy (včetně příkladu dokončeného projektu) ve složce "en/resources".
