@@ -16,6 +16,6 @@ Tento projekt zahrnuje prvky z následujících částí výukového curricula [
 
 ### Další informace pro vedoucí klubů
 
-Potřebujete-li tento projekt vytisknout, použijte verzi [pro tisk](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
+Potřebujete-li tento projekt vytisknout, použijte verzi [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
 
 Pomocí odkazu v zápatí získáte přístup k úložišti GitHub tohoto projektu, které obsahuje všechny zdrojové kódy (včetně příkladu dokončeného projektu) ve složce "en/resources".
