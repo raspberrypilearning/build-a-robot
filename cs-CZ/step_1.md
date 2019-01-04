@@ -2,7 +2,7 @@
 
 V tom projektu se naučíš, jak správně umisťovat obrázky, aby sis vytvořil svého vlastního robota!
 
-### Co budeš dělat
+### Co budeš vytvářet
 
 Použiješ CSS na umístění robotových součástek, čímž si sestavíš vlastního robota.
 
@@ -10,7 +10,7 @@ Použiješ CSS na umístění robotových součástek, čímž si sestavíš vla
 
 ### Co se naučíš
 
-Tento projekt zahrnuje prvky z následujících částí výukového curricula [ Raspberry Pi Digital ](http://rpf.io/curriculum) {: target = "_ blank"}:
+Tento projekt zahrnuje prvky z následujících částí výukového curricula [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Použij základní programovací konstrukce k vytvoření jednoduchých programů ](https://www.raspberrypi.org/curriculum/programming/creator) {:target = "_blank"}
 
