@@ -17,7 +17,7 @@ Každý obrázek v tomto projektu má své jméno (nebo **`id`**). Kupříkladu 
 
 Můžeš také použít `id` obrázku a symbolu `#`, abys pomocí CSS stylů dodal obrázku vlastní styl. To ti umožňuje upravovat obrázky jeden po druhém.
 
-Klikni na soubor `style.css`. Všimni si rozdílu ve velikost obličeje robota a jeho ostatními součáskami. Jsou přirozeně velké?
+Klikni na soubor `style.css`. Vidíš jak se liší velikost robotova obličeje a ostatních obrázků?
 
 ![screenshot](images/robot-id.png)
 
@@ -32,7 +32,7 @@ Všimni si, že upravuješ pouze obrázek `eyes1`, a to právě díky `#eyes1` v
 
 ![screenshot](images/robot-eyes-width.png)
 
-Všiml sis, že jsou obrázky zobrazeny jeden za druhým? Tomuto se říká **relativní** pozicování. Chceš-li prohlížeči přesně říct, kam umístit robotovi oči, budeš namísto toho potřebovat použít **absolutní pozicování**.
+Všiml sis, že jsou obrázky zobrazeny jeden za druhým? Tomuto se říká **relativní** pozicování. Chceš-li prohlížeči přesně říct, kam umístit robotovi oči, budeš namísto toho potřebovat použít **absolutní** pozicování.
 
 + Přidej tyto tři řádky CSS kódu pro obrázek `eyes1`:
     
