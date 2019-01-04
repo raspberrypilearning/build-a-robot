@@ -10,9 +10,9 @@ Pojďme přidělat tvému robotovi nějaké oči!
 
 Každý obrázek v tomto projektu má své jméno (nebo **`id`**). Kupříkladu HTML kód, který představuje jednotlivé obrázky pro obličej a oči ('face', 'eyes1' a 'eyes2', začínající ve tvém kódu na řádku 8) vypadá takto:
 
-    <img id="face" ...>
-    <img id="eyes1" ...>
-    <img id="eyes2" ...>
+    &lt;img id="face" ...&gt;
+    &lt;img id="eyes1" ...&gt;
+    &lt;img id="eyes2" ...&gt;
     
 
 Můžeš také použít `id` obrázku a symbolu `#`, abys pomocí CSS stylů dodal obrázku vlastní styl. To ti umožňuje upravovat obrázky jeden po druhém.
