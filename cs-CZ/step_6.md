@@ -4,7 +4,7 @@
 
 Umíš si vytvořit obrázky, které přidáš k robotovi a umístíš na své webové stránce?
 
-+ Jestli nemáš nástroj na kreslení, můžeš pro namalování nových součástek robota využít malování v **režimu bitmapy** ve Scratchi. Použij **uložit do lokálního souboru** k uložení tebou vytvořeného kostýmu do obrázkového formátu `.png`.
++ Jestli nemáš nástroj na kreslení, můžeš pro namalování nových součástek robota využít malování v režimu **bitmapy** ve Scratchi. Použij **uložit do lokálního souboru** k uložení tebou vytvořeného kostýmu do obrázkového formátu `.png`.
     
     ![screenshot](images/robot-scratch-paint.png)
 
