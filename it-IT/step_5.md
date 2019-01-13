@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: your own design
+## Sfida: il tuo disegno
 
-Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+Usa ciò che hai imparato per finire di progettare il tuo robot. Ecco alcuni esempi di come potrebbe apparire il tuo robot:
 
 ![screenshot](images/robot-examples.png)
 
