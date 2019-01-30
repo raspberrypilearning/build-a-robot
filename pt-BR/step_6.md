@@ -4,21 +4,21 @@
 
 Você pode criar imagens para adicionar ao seu robô e posicioná-las na sua página da Web?
 
-+ Se você não tiver uma ferramenta de software de desenho, você pode usar a ferramenta de desenho Scratch no modo **Bitmap** para desenhar algumas novas peças do robô. Use **salvar em arquivo local** para salvar uma fantasia como uma imagem `.png`.
-    
-    ![screenshot](images/robot-scratch-paint.png)
+Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
 
-+ Então carregue a imagem `.png` em seu trinket:
-    
-    ![screenshot](images/robot-image-add.png)
+![screenshot](images/robot-eyes-edit.png)
 
-+ Adicione a imagem ao `index.html`:
-    
-        <img id="purpleeyes" src="purpleeyes.png">
-        
++ Then upload the `.png` image into your trinket:
 
-+ E adicione o código CSS ao `style.css` para posicioná-lo:
+![screenshot](images/robot-image-add.png)
+
++ Add the image to `index.html`: 
+
+    <img id="purpleeyes" src="purpleeyes.png">
     
-    ![screenshot](images/robot-use-purple-eyes.png)
+
++ And add CSS code to `style.css` to position it:
+
+![screenshot](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
