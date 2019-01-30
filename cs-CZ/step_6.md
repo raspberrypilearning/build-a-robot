@@ -4,21 +4,21 @@
 
 Umíš si vytvořit obrázky, které přidáš k robotovi a umístíš na své webové stránce?
 
-+ Jestli nemáš nástroj na kreslení, můžeš pro namalování nových součástek robota využít malování v režimu **bitmapy** ve Scratchi. Použij **uložit do lokálního souboru** k uložení tebou vytvořeného kostýmu do obrázkového formátu `.png`.
-    
-    ![screenshot](images/robot-scratch-paint.png)
+Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
 
-+ Poté nahraj `.png` obrázek do svého trinket projektu:
-    
-    ![screenshot](images/robot-image-add.png)
+![screenshot](images/robot-eyes-edit.png)
 
-+ Přidej obrázek do `index.html`:
-    
-        <img id="purpleeyes" src="purpleeyes.png">
-        
++ Then upload the `.png` image into your trinket:
 
-+ A také přidej CSS kód do `style.css` k umístění součástky na správné místo:
+![screenshot](images/robot-image-add.png)
+
++ Add the image to `index.html`: 
+
+    <img id="purpleeyes" src="purpleeyes.png">
     
-    ![screenshot](images/robot-use-purple-eyes.png)
+
++ And add CSS code to `style.css` to position it:
+
+![screenshot](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
