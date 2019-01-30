@@ -4,21 +4,21 @@
 
 Чи можете ви створити зображення, щоб додати їх до свого робота, і розмістити на своїй веб-сторінці?
 
-+ Якщо у вас немає software для малювання, ви можете використати Scratch в режимі **Bitmap**, щоб намалювати деякі нові частини робота. Використовуйте **save as local file**, щоб зберегти костюм як `.png`.
-    
-    ![скріншот](images/robot-scratch-paint.png)
+Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
 
-+ Потім завантажте зображення `.png`:
-    
-    ![скріншот](images/robot-image-add.png)
+![screenshot](images/robot-eyes-edit.png)
 
-+ Додайте зображення до `index.html`:
-    
-        <img id="purpleeyes" src="purpleeyes.png">
-        
++ Then upload the `.png` image into your trinket:
 
-+ І додати CSS-код в `style.css`, щоб помістити його:
+![screenshot](images/robot-image-add.png)
+
++ Add the image to `index.html`: 
+
+    <img id="purpleeyes" src="purpleeyes.png">
     
-    ![скріншот](images/robot-use-purple-eyes.png)
+
++ And add CSS code to `style.css` to position it:
+
+![screenshot](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
