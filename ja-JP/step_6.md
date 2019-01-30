@@ -4,21 +4,21 @@
 
 ロボットに加えるイメージを作成し、またウェブページに配置できますか?
 
-+ もし描画ツールを持っていなければスクラッチのペイントツールを使って**Bitmap**モードでなにか新しいロボットのパーツを作画してもいいです。 **ローカルファイルとして保存**を使って`.png`イメージとしてコスチュームを保存します。
-    
-    ![スクリーンショット](images/robot-scratch-paint.png)
+Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
 
-+ そして`.png`イメージをあなたのtrinketにアップロードします。
-    
-    ![スクリーンショット](images/robot-image-add.png)
+![screenshot](images/robot-eyes-edit.png)
 
-+ そのイメージを`index.html`に加えます。
-    
-        <img id="purpleeyes" src="purpleeyes.png">
-        
++ Then upload the `.png` image into your trinket:
 
-+ そして、位置決めするためにCSSコードを`style.css`に加えます。
+![screenshot](images/robot-image-add.png)
+
++ Add the image to `index.html`: 
+
+    <img id="purpleeyes" src="purpleeyes.png">
     
-    ![スクリーンショット](images/robot-use-purple-eyes.png)
+
++ And add CSS code to `style.css` to position it:
+
+![screenshot](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
