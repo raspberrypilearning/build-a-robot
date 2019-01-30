@@ -4,21 +4,21 @@
 
 Μπορείς να δημιουργήσεις εικόνες για να τις προσθέσεις στο ρομπότ σου και να τις τοποθετήσεις στην ιστοσελίδα σου;
 
-+ Αν δεν διαθέτεις λογισμικό σχεδίασης, μπορείς να χρησιμοποιήσεις το εργαλείο ζωγραφικής του Scratch σε λειτουργία **Bitmap** για να ζωγραφίσεις μερικά νέα εξαρτήματα ρομπότ. Χρησιμοποίησε την **αποθήκευση ως τοπικό αρχείο** για να σώσεις μία ενδυμασία σαν εικόνα `.png`.
-    
-    ![screenshot](images/robot-scratch-paint.png)
+Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
 
-+ Στη συνέχεια, ανέβασε την εικόνα `.png` στο trinket σου:
-    
-    ![screenshot](images/robot-image-add.png)
+![screenshot](images/robot-eyes-edit.png)
 
-+ Πρόσθεσε την εικόνα στο `index.html`:
-    
-        &lt;img id="purpleeyes" src="purpleeyes.png"&gt;
-        
++ Then upload the `.png` image into your trinket:
 
-+ Και πρόσθεσε τον κώδικα CSS στο αρχείο `style.css` για να την τοποθετήσεις:
+![screenshot](images/robot-image-add.png)
+
++ Add the image to `index.html`: 
+
+    <img id="purpleeyes" src="purpleeyes.png">
     
-    ![screenshot](images/robot-use-purple-eyes.png)
+
++ And add CSS code to `style.css` to position it:
+
+![screenshot](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
