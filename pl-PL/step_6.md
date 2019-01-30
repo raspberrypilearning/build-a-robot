@@ -4,21 +4,21 @@
 
 Potrafisz stworzyć grafiki i dodać je do twojego robota oraz wypozycjonować na stronie?
 
-+ Jeśli nie posiadasz oprogramowania do rysowania, możesz użyć narzędzi Scratcha do tworzenia **bitmap**, aby narysować nowe części robota. Użyj opcji **zapisz jako plik** aby zapisać kostium jako plik `.png`.
-    
-    ![zrzut ekranu](images/robot-scratch-paint.png)
+Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
 
-+ Następnie dodaj plik `.png` do trinketa:
-    
-    ![zrzut ekranu](images/robot-image-add.png)
+![screenshot](images/robot-eyes-edit.png)
 
-+ Dodaj grafikę do pliku `index.html`:
-    
-        <img id="purpleeyes" src="purpleeyes.png">
-        
++ Then upload the `.png` image into your trinket:
 
-+ Następnie dodaj kod pozycjonujący nową część w pliku `style.css`:
+![screenshot](images/robot-image-add.png)
+
++ Add the image to `index.html`: 
+
+    <img id="purpleeyes" src="purpleeyes.png">
     
-    ![zrzut ekranu](images/robot-use-purple-eyes.png)
+
++ And add CSS code to `style.css` to position it:
+
+![screenshot](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
