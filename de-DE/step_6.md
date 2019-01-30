@@ -4,21 +4,21 @@
 
 Kannst du Bilder erstellen, die du zu deinem Roboter hinzufügst und auf deiner Webseite positionierst?
 
-+ Wenn du kein Zeichenprogramm hast, kannst du neue Roboterteile mit dem Scratch-Malwerkzeug im **Bitmap** Modus zeichnen. Verwende **als lokale Datei speichern**, um ein Kostüm als `.png ` Bild zu speichern. Zum Speichern klicke mit der rechten Maustaste auf das zu speichernde Kostüm in der Kostümübersicht.
-    
-    ![Screenshot](images/robot-scratch-paint.png)
+Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
 
-+ Dann lade die `.png` Datei hoch in dein Trinket:
-    
-    ![Screenshot](images/robot-image-add.png)
+![screenshot](images/robot-eyes-edit.png)
 
-+ Füge das Bild zu ` index.html` hinzu:
-    
-        <img id="purpleeyes" src="purpleeyes.png">
-        
++ Then upload the `.png` image into your trinket:
 
-+ Und füge CSS-Code zu `style.css` hinzu, um es zu positionieren.
-    
-    ![Screenshot](images/robot-use-purple-eyes.png)
+![screenshot](images/robot-image-add.png)
 
-Und ergänze den CSS-Code in <0>style.css</0>, um das Bild zu positionieren.
++ Add the image to `index.html`: 
+
+    <img id="purpleeyes" src="purpleeyes.png">
+    
+
++ And add CSS code to `style.css` to position it:
+
+![screenshot](images/robot-use-purple-eyes.png)
+
+\--- /challenge \---
