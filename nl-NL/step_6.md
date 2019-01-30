@@ -4,21 +4,21 @@
 
 Kun je afbeeldingen maken die je aan je robot toevoegt en ze op je webpagina plaatsen?
 
-+ Als je geen tekenprogramma hebt kun je in Scratch tekenen, in de **Afbeeldingsmodus**. Kies voor **opslaan naar lokaal bestand** om de afbeelding op te slaan als `.png` afbeelding.
-    
-    ![screenshot](images/robot-scratch-paint.png)
+Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
 
-+ Upload dan de `.png` -afbeelding naar je trinket:
-    
-    ![screenshot](images/robot-image-add.png)
+![screenshot](images/robot-eyes-edit.png)
 
-+ Voeg de afbeelding toe aan ` index.html `:
-    
-        <img id="purpleeyes" src="purpleeyes.png">
-        
++ Then upload the `.png` image into your trinket:
 
-+ En voeg CSS-code toe aan ` style.css ` om het op zijn plek te zetten:
+![screenshot](images/robot-image-add.png)
+
++ Add the image to `index.html`: 
+
+    <img id="purpleeyes" src="purpleeyes.png">
     
-    ![screenshot](images/robot-use-purple-eyes.png)
+
++ And add CSS code to `style.css` to position it:
+
+![screenshot](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
