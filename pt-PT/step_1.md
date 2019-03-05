@@ -1,10 +1,10 @@
-## Introduction
+## Introdução
 
-In this project, you’ll learn how to position images to design your own robot!
+Neste projecto, você vai aprender como se posiciona imagens para criar o seu robô!
 
-### What you will make
+### O que você fará
 
-Use CSS to position robot parts to assemble your own robot.
+Use CSS para posicionar as partes do robô para criar o seu próprio robô.
 
 ![screenshot](images/robot-final.png)
 
