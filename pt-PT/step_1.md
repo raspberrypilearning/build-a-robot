@@ -8,7 +8,7 @@ Use CSS para posicionar as partes do robô para criar o seu próprio robô.
 
 ![screenshot](images/robot-final.png)
 
-### What you will learn
+### O que irá aprender
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
