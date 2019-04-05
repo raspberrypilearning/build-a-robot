@@ -10,7 +10,7 @@ curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Izrada robota
 description: Saznajte kako postaviti slike kako biste dizajnirali svoj robot
 original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
-interests: umjetnost
+interests: art
 technologies: html-css-javascript
 site_areas: projekti
 hardware: ''
@@ -19,13 +19,13 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Uvod
+    title: Sretan rođendan
   - 
     title: Ono što će vam trebati
   - 
     title: Dajte robotu oči
   - 
-    title: Dajte robotu usta
+    title: Davanje vašem robotu usta
   - 
     title: 'Izazov: vaš vlastiti dizajn'
   - 
