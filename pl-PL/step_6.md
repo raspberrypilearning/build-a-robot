@@ -6,19 +6,19 @@ Potrafisz stworzyć grafiki i dodać je do twojego robota oraz wypozycjonować n
 
 Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
 
-![screenshot](images/robot-eyes-edit.png)
+![zrzut ekranu](images/robot-eyes-edit.png)
 
-+ Then upload the `.png` image into your trinket:
++ Następnie dodaj plik `.png` do trinketa:
 
-![screenshot](images/robot-image-add.png)
+![zrzut ekranu](images/robot-image-add.png)
 
-+ Add the image to `index.html`: 
++ Dodaj grafikę do pliku `index.html`: 
 
     <img id="purpleeyes" src="purpleeyes.png">
     
 
-+ And add CSS code to `style.css` to position it:
++ Następnie dodaj kod pozycjonujący nową część w pliku `style.css`:
 
-![screenshot](images/robot-use-purple-eyes.png)
+![zrzut ekranu](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
