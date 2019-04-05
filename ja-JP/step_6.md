@@ -6,19 +6,19 @@
 
 Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
 
-![screenshot](images/robot-eyes-edit.png)
+![スクリーンショット](images/robot-eyes-edit.png)
 
-+ Then upload the `.png` image into your trinket:
++ そして`.png`イメージをあなたのtrinketにアップロードします。
 
 ![screenshot](images/robot-image-add.png)
 
-+ Add the image to `index.html`: 
++ そのイメージを`index.html`に加えます。 
 
     <img id="purpleeyes" src="purpleeyes.png">
     
 
-+ And add CSS code to `style.css` to position it:
++ そして、位置決めするためにCSSコードを`style.css`に加えます。
 
-![screenshot](images/robot-use-purple-eyes.png)
+![スクリーンショット](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
