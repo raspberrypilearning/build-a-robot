@@ -8,17 +8,17 @@ Use whatever drawing software you have on your computer to draw some new robot p
 
 ![screenshot](images/robot-eyes-edit.png)
 
-+ Then upload the `.png` image into your trinket:
++ Dann lade die `.png` Datei hoch in dein Trinket:
 
-![screenshot](images/robot-image-add.png)
+![Screenshot](images/robot-image-add.png)
 
-+ Add the image to `index.html`: 
++ Füge das Bild zu ` index.html` hinzu: 
 
     <img id="purpleeyes" src="purpleeyes.png">
     
 
-+ And add CSS code to `style.css` to position it:
++ Und füge CSS-Code zu `style.css` hinzu, um es zu positionieren.
 
-![screenshot](images/robot-use-purple-eyes.png)
+![Screenshot](images/robot-use-purple-eyes.png)
 
-\--- /challenge \---
+Und ergänze den CSS-Code in <0>style.css</0>, um das Bild zu positionieren.
