@@ -14,7 +14,7 @@ Let’s give your robot a mouth!
 
 Your robot’s mouth looks quite small, and it isn’t in the right place!
 
-![screenshot](images/robot-mouth.png)
+![स्क्रीनशॉट](images/robot-mouth.png)
 
 - Can you fix this by making changes to your CSS code?
 
@@ -22,4 +22,4 @@ Your robot’s mouth looks quite small, and it isn’t in the right place!
 
 Try different values until it looks the way you want. \--- /hint \--- \--- hint \--- You should have something like this:
 
-![screenshot](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+![स्क्रीनशॉट](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
