@@ -2,7 +2,7 @@
 
 U ovom ćete projektu saznati kako postaviti slike kako biste dizajnirali svoj robot!
 
-### Što ćete učiniti
+### Što ćete napraviti
 
 Koristite CSS za postavljanje dijelova robota za sastavljanje vlastitog robota.
 
@@ -16,6 +16,6 @@ Ovaj projekt pokriva elemente iz sljedećih dijelova kurikuluma [Raspberry Pi Di
 
 ### Dodatne informacije za voditelje kluba
 
-Ako trebate ispisati ovaj projekt, koristite [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:Target="_ blank"}.
+Ako trebate ispisati ovaj projekt, koristite [ verziju koja je prilagođena za pisač ](https://projects.raspberrypi.org/en/projects/build-a-robot/print) {: Target = "_ blank"}.
 
 Koristi poveznicu u podnožju za pristup GitHup repozitoriju ovog projekta koji sadrži sve materijale (uključujući i primjer gotovog projekta) u mapi 'en/resources'.
