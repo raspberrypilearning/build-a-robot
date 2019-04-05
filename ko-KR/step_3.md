@@ -4,7 +4,7 @@
 
 + 이 [trinket](http://jumpto.cc/web-robot)을 열어 주십시오.
     
-    Trinket을 열면 아래와 같은 프로젝트가 보일 것입니다.
+    프로젝트는 아래와 같이 보일 것입니다:
     
     ![스크린샷](images/robot-starter.png)
 
@@ -19,7 +19,7 @@
 
 `style.css` 파일을 클릭해 주십시오. 로봇의 얼굴 이미지와 다른 이미지들의 크기는 서로 다릅니다. 이게 어떻게 가능한 걸까요?
 
-![스크린샷](images/robot-id.png)
+![screenshot](images/robot-id.png)
 
 + 아래의 CSS 코드로 로봇의 눈을 스타일링합니다.
     
@@ -43,7 +43,7 @@
 
 로봇의 눈이 올바른 위치로 이동한 것을 볼 수 있습니다.
 
-![스크린샷](images/robot-eyes-position.png)
+![<0>#outside-pic</0> CSS 코드에서 <0>width</0>(너비) 와 <0>height</0>(높이) 값을 수정하여, 바깥 쪽에 있는 이미지를 <0>200px</0>로 수정해보세요. (<0>px</0>는 픽셀을 의미합니다.)](images/robot-eyes-position.png)
 
 이 CSS 코드는 브라우저에 이미지를 표시할 때, 왼쪽 위 모퉁이에서부터 얼마나 멀리 떨어진 위치에 배치해야 하는지 알려줍니다.
 
