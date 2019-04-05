@@ -1,4 +1,4 @@
-## Davanje vašem robotu usta
+## Dajte robotu usta
 
 Dajmo vašem robotu usta!
 
