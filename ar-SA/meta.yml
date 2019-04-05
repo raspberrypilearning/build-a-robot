@@ -12,16 +12,16 @@ description: Learn how to position images to design your own robot
 original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
 interests: art
 technologies: html-css-javascript
-site_areas: projects
+site_areas: codeclub, python
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: What you will need
+    title: ما ستحتاج إليه
   - 
     title: Giving your robot eyes
   - 
