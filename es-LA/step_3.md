@@ -6,7 +6,7 @@ Let’s give your robot some eyes!
     
     The project should look like this:
     
-    ![screenshot](images/robot-starter.png)
+    ![captura de pantalla](images/robot-starter.png)
 
 Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
 
@@ -19,7 +19,7 @@ You can use an image’s `id` to give it its own style, using CSS and the `#` sy
 
 Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
 
-![screenshot](images/robot-id.png)
+![captura de pantalla](images/robot-id.png)
 
 + Add this CSS code to style the robot’s eyes:
     
@@ -30,7 +30,7 @@ Click on the `style.css` file. Notice how the size of the robot’s face and the
 
 Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
 
-![screenshot](images/robot-eyes-width.png)
+![captura de pantalla](images/robot-eyes-width.png)
 
 Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
 
@@ -43,10 +43,10 @@ Notice how each image is displayed one after the other? This is called **relativ
 
 You should see that your robot’s eyes move to the correct place on your robot.
 
-![screenshot](images/robot-eyes-position.png)
+![captura de pantalla](images/robot-eyes-position.png)
 
 This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
 
-![screenshot](images/robot-eyes-position2.png)
+![captura de pantalla](images/robot-eyes-position2.png)
 
 You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
