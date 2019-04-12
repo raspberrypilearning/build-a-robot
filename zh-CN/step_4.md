@@ -2,9 +2,9 @@
 
 让我们来给你的机器人装上嘴巴！
 
-- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+- 将下列CSS编码添加到`style.css`底部来创造你的机器人`嘴巴`图像:
     
-        #mouth1 {
+        #嘴巴1 {
             width: 50px;
             position: absolute;
             top: 200px;
@@ -12,14 +12,14 @@
         }
         
 
-你的机器人嘴巴看上去太小了，并且它不在正确的位置上。
+你的机器人的嘴巴看起来很小，并且它不在正确的位置！
 
-![screenshot](images/robot-mouth.png)
+![截图](images/robot-mouth.png)
 
-- 你能通过改变CSS编码来解决这个问题吗？
+- 你能通过更改CSS代码来解决这个问题吗？
 
-\--- hints \--- \--- hint \--- You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+\--- hints \--- \--- hint \--- 你需要改变`style.css`中机器人`嘴巴`的`宽度`及其距`上端`及`左侧`的位置.
 
-Try different values until it looks the way you want. \--- /hint \--- \--- hint \--- You should have something like this:
+尝试不同数值知道它看起来是你想要的那样 \--- /hint \--- \--- hint \--- 你可以这样进行调整:
 
-![screenshot](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+![截图](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
