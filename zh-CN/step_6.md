@@ -4,21 +4,21 @@
 
 您可以创建图片将其添加到你得机器人上，并将它们放在您的网页上吗？
 
-Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
+使用您电脑上的任何一款绘图软件来绘制一些新的机器人零件，并保存为`.png`格式的图片。
 
-![screenshot](images/robot-eyes-edit.png)
+![截图](images/robot-eyes-edit.png)
 
-+ Then upload the `.png` image into your trinket:
++ 然后上传`.png`格式的图片到您的trinket中：
 
-![screenshot](images/robot-image-add.png)
+![截图](images/robot-image-add.png)
 
-+ Add the image to `index.html`: 
++ 将图片添加至`index.html`文件中： 
 
     <img id="purpleeyes" src="purpleeyes.png">
     
 
-+ And add CSS code to `style.css` to position it:
++ 并且将CSS代码添加至`style.css`中将机器人放入你设定的位置上:
 
-![screenshot](images/robot-use-purple-eyes.png)
+![截图](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
