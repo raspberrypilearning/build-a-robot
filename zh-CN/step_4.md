@@ -12,11 +12,11 @@
         }
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+你的机器人嘴巴看上去太小了，并且它不在正确的位置上。
 
 ![screenshot](images/robot-mouth.png)
 
-- Can you fix this by making changes to your CSS code?
+- 你能通过改变CSS编码来解决这个问题吗？
 
 \--- hints \--- \--- hint \--- You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
 
