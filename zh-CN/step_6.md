@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: add your own images
+## 挑战：添加你自己的图片
 
-Can you create images to add to your robot, and position them on your webpage?
+您可以创建图片将其添加到你得机器人上，并将它们放在您的网页上吗？
 
 Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
 
