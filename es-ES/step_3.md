@@ -15,7 +15,7 @@ Cada imagen en este proyecto tiene su proprio nombre (o **`id`**). Por ejemplo, 
     <img id="eyes2" ...>
     
 
-Puedes usar el `id` de una imagen para darle su propio estilo, usando CSS y el símbolo ` # `. Esto te permite diseñar cada imagen por separado.
+Puedes usar el `id` de una imagen para darle su propio estilo, usando CSS y el símbolo `#`. Esto te permite diseñar cada imagen por separado.
 
 Haga clic en el fichero `style.css`. ¿Observas que el tamaño de la cara del robot y las otras imágenes son diferentes?
 
