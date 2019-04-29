@@ -47,6 +47,6 @@ Você verá que os olhos do seu robô se movem para o lugar descrito.
 
 Este código CSS informa ao navegador a que distância do canto superior esquerdo da página da Web deve exibir a imagem.
 
-![screenshot](images/robot-eyes-position2.png)
+![screenshot](imagens/robot-eyes-position2.png)
 
 Você pode usar `bottom` ao invés de `top` para dizer ao navegador o quão longe da parte inferior da tela deve mostrar a imagem, bem como `right` ao invés de `left`.

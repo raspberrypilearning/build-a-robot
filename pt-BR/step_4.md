@@ -1,4 +1,4 @@
-## Dando uma boca ao seu robô
+## Dê uma boca ao seu robô
 
 Vamos dar uma boca ao seu robô!
 
@@ -18,8 +18,13 @@ A boca do seu robô esta um tanto pequena e não está no lugar certo!
 
 - Você pode consertar isso fazendo alterações no seu código CSS?
 
---- hints --- --- hint --- Você vai precisar alterar a largura `width` e as posições `top` e `left` para `mouth1` em `style.css`.
+--- hints ---
+ --- hint --- Você vai precisar alterar a largura `width` e as posições `top` e `left` para `mouth1` em ` style.css `.
 
-Experimente valores diferentes até ficar do jeito que você deseja. --- /hint --- --- hint --- Você deve ter algo parecido com isto:
+Experimente valores diferentes até ficar do jeito que você deseja.
+--- /hint ---
+ --- hint --- Você deve ter algo parecido com isto:
 
-![screenshot](images/robot-mouth-code.png) --- /hint --- --- /hints ---
+![screenshot](images/robot-mouth-code.png)
+--- /hint ---
+--- /hints ---
