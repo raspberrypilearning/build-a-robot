@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Desafio: adicione suas próprias imagens
+## Desafio: Adicione suas próprias imagens
 
 Você pode criar imagens para adicionar ao seu robô e posicioná-las na sua página da Web?
 
@@ -14,8 +14,9 @@ Use whatever drawing software you have on your computer to draw some new robot p
 
 + Adicione a imagem ao `index.html`: 
 
-    <img id="purpleeyes" src="purpleeyes.png">
-    
+```
+<img id="purpleeyes" src="purpleeyes.png">
+```
 
 + E adicione o código CSS ao `style.css` para posicioná-lo:
 
