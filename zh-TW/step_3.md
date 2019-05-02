@@ -2,7 +2,7 @@
 
 讓我們來給你的機器人裝上一些眼睛吧！
 
-+ 打開 [this trinket](http://jumpto.cc/web-robot)。
++ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
     檔案應該像這樣︰
     
