@@ -2,7 +2,7 @@
 
 Dajmo vašem robotu neke oči!
 
-+ Otvorite [ ovaj trik ](http://jumpto.cc/web-robot).
++ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
     Projekt bi trebao izgledati ovako:
     
