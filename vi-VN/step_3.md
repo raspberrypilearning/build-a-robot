@@ -2,7 +2,7 @@
 
 Hãy thêm mắt cho robot của bạn!
 
-+ Mở [trinket này](http://jumpto.cc/web-robot).
++ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
     Dự án sẽ trông giống như thế này:
     
