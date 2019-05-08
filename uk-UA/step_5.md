@@ -6,4 +6,4 @@
 
 ![скріншот](images/robot-examples.png)
 
--- /challenge ---
+--- /challenge ---
