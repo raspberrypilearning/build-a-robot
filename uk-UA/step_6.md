@@ -1,4 +1,4 @@
--- challenge ---
+--- challenge ---
 
 ## Завдання: додайте ваші власні зображення
 
@@ -6,11 +6,11 @@
 
 Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
 
-![скріншот](images/robot-eyes-edit.png)
+![screenshot](images/robot-eyes-edit.png)
 
 + Потім завантажте зображення `.png`:
 
-![скріншот](images/robot-image-add.png)
+![screenshot](images/robot-image-add.png)
 
 + Додайте зображення до `index.html`: 
 
@@ -19,7 +19,7 @@ Use whatever drawing software you have on your computer to draw some new robot p
 
 + І додати CSS-код в `style.css`, щоб помістити його:
 
-![скріншот](images/robot-use-purple-eyes.png)
+![screenshot](images/robot-use-purple-eyes.png)
 
 --- /challenge ---
 
