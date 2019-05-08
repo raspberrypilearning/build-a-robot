@@ -1,30 +1,30 @@
---- challenge ---
+-- challenge ---
 
 ## Завдання: додайте ваші власні зображення
 
 Чи можете ви створити зображення, щоб додати їх до свого робота, і розмістити на своїй веб-сторінці?
 
-+ Якщо у вас немає software для малювання, ви можете використати Scratch в режимі **Bitmap**, щоб намалювати деякі нові частини робота. Використовуйте **save as local file**, щоб зберегти костюм як `.png`.
+Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
+
+![скріншот](images/robot-eyes-edit.png)
+
++ Потім завантажте зображення `.png`:
+
+![скріншот](images/robot-image-add.png)
+
++ Додайте зображення до `index.html`: 
+
+    <img id="purpleeyes" src="purpleeyes.png">
     
-    ![скріншот](images/robot-scratch-paint.png) 
-    
-    + Потім завантажте зображення `.png`:
-        
-        ![скріншот](images/robot-image-add.png)
-    
-    + Додайте зображення до `index.html`:
-        
-            <img id="purpleeyes" src="purpleeyes.png">
-            
-    
-    + І додати CSS-код в `style.css`, щоб помістити його:
-        
-        ![скріншот](images/robot-use-purple-eyes.png) 
-    
-    --- /challenge ---
-***
-### Переклад спільноти волонтерів
-    
-Цей проект переклали: **Валентина Мостова** і перевірили: **Тетяна Сковронська**. 
+
++ І додати CSS-код в `style.css`, щоб помістити його:
+
+![скріншот](images/robot-use-purple-eyes.png)
+
+--- /challenge ---
+
+Переклад спільноти волонтерів
+
+Цей проект переклали: Валентина Мостова і перевірили: Тетяна Сковронська.
 
 Наші чудові добровольці з питань перекладу допомагають нам надати дітям у всьому світі можливість навчитися програмувати. Ви можете допомогти нам охопити більше дітей, перекладаючи наші проекти - подробиці на [rpf.io/translators](https://rpf.io/translators).
