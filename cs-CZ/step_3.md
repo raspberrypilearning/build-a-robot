@@ -2,7 +2,7 @@
 
 Pojďme přidělat tvému robotovi nějaké oči!
 
-+ Otevřete [tento trinket](http://jumpto.cc/web-robot).
++ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
     Projekt by měl vypadat přibližně takto:
     
