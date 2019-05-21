@@ -2,7 +2,7 @@
 
 Ας δώσουμε στο ρομπότ σου μάτια!
 
-+ Άνοιξε [αυτό το trinket](http://jumpto.cc/web-robot).
++ Άνοιξε [αυτό το trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
     Το έργο/σχέδιο πρέπει να μοιάζει έτσι:
     
