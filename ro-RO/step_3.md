@@ -2,7 +2,7 @@
 
 Haideți sa-inpunem robotului niște ochi!
 
-+ Deschide [this trinket](http://jumpto.cc/web-robot).
++ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
     Proiectul ar trebui să arate astfel:
     
