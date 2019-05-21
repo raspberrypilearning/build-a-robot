@@ -2,7 +2,7 @@
 
 Laten we je robot een paar ogen geven!
 
-+ Open [deze trinket](http://jumpto.cc/web-robot).
++ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
     Het project zou er als volgt uit moeten zien:
     
