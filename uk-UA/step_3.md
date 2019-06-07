@@ -2,7 +2,7 @@
 
 Давайте дамо Вашому роботу очі!
 
-+ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ Відкрийте [цей трінкет](http://jumpto.cc/web-robot){:target="_blank"}.
     
     Проект повинен виглядати так:
     
