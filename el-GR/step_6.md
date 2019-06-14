@@ -4,7 +4,7 @@
 
 Μπορείς να δημιουργήσεις εικόνες για να τις προσθέσεις στο ρομπότ σου και να τις τοποθετήσεις στην ιστοσελίδα σου;
 
-Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
+Χρησιμοποίησε οποιοδήποτε λογισμικό σχεδίασης έχεις στον υπολογιστή σου για να σχεδιάσεις μερικά νέα εξαρτήματα ρομπότ και αποθήκευσέ το ως `.png` εικόνα.
 
 ![screenshot](images/robot-eyes-edit.png)
 
