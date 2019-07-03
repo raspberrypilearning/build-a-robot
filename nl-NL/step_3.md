@@ -2,7 +2,7 @@
 
 Laten we je robot een paar ogen geven!
 
-+ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ Open [deze trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
     Het project zou er als volgt uit moeten zien:
     
@@ -49,4 +49,4 @@ Deze CSS-code geeft door aan de browser hoe ver van de linkerbovenhoek van de we
 
 ![screenshot](images/robot-eyes-position2.png)
 
-Je kunt ` bottom ` gebruiken, in plaats van ` top ` om aan de browser door te geven hoe ver van onder aan het scherm de afbeelding wordt weergegeven. Zoiets kun je ook doen met ` right ` in plaats van ` left `.
+Je kunt `bottom` gebruiken, in plaats van `top` om aan de browser door te geven hoe ver van onder aan het scherm de afbeelding wordt weergegeven. Zoiets kun je ook doen met `right` in plaats van `left`.
