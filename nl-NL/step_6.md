@@ -12,12 +12,12 @@ Use whatever drawing software you have on your computer to draw some new robot p
 
 ![screenshot](images/robot-image-add.png)
 
-+ Voeg de afbeelding toe aan ` index.html `: 
++ Voeg de afbeelding toe aan `index.html`: 
 
     <img id="purpleeyes" src="purpleeyes.png">
     
 
-+ En voeg CSS-code toe aan ` style.css ` om het op zijn plek te zetten:
++ En voeg CSS-code toe aan `style.css` om het op zijn plek te zetten:
 
 ![screenshot](images/robot-use-purple-eyes.png)
 
