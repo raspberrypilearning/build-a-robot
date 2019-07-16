@@ -16,25 +16,25 @@ img {
   top: 250px;
   left: 170px;
 }      
-#mouth1 {
+#bocca1 {
   width: 100px;
   position: absolute;
   top: 330px;
   left: 150px;
 }
-#hat {
+#cappello {
   width: 300px;
   position: absolute;
   top: 0px;
   left: 60px;
 }
-#bowtie {
+#farfallino {
   width: 150px;
   position: absolute;
   top: 380px;
   left: 120px;        
 }
-#bird {
+#uccello {
   width: 100px;
   position: absolute;
   top: 0px;
