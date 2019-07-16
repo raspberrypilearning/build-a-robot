@@ -1,16 +1,16 @@
 img {
   width: 50px;
 }
-#face {
+#volto {
   width: 400px;
 }
-#eyes1 {
+#occhi1 {
   width: 200px;
   position: absolute;
   top: 200px;
   left: 100px;
 }
-#nose1 {
+#naso1 {
   width: 50px;
   position: absolute;
   top: 250px;
