@@ -1,4 +1,4 @@
-## Disegna la bocca del robot
+## Disegnare la bocca del robot
 
 Diamo la bocca al tuo robot!
 
