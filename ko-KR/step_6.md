@@ -8,11 +8,11 @@
 
 ![스크린샷](images/robot-eyes-edit.png)
 
-+ 저장한 `.png` 이미지를 당신의 trinket에 업로드해 주십시오.
++ 저장한 `.png` 이미지를 trinket에 업로드해주세요.
 
 ![screenshot](images/robot-image-add.png)
 
-+ 업로드한 이미지를 `index.html`에 추가해 주십시오. 
++ 업로드한 이미지를 `index.html`에 추가해주세요. 
 
     <img id="purpleeyes" src="purpleeyes.png">
     
