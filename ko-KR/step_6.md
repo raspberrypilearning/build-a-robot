@@ -1,10 +1,10 @@
-\--- 도전 \---
+\--- challenge \---
 
 ## 도전 과제: 나만의 이미지 추가하기
 
 로봇에 추가할 이미지를 만들고, 웹 페이지에 배치해 볼까요?
 
-Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
+원하는 그림 소프트웨어를 사용하여 로봇의 부품을 그린 후, `.png` 이미지로 저장하세요.
 
 ![스크린샷](images/robot-eyes-edit.png)
 
