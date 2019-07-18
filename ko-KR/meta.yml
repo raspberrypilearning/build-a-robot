@@ -19,7 +19,7 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 소개
+    title: 들어가며
   - 
     title: 준비물
   - 
