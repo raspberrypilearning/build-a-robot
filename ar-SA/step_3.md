@@ -28,11 +28,11 @@
         }
         
 
-لاحظ انك تغير شكل صورة العين الاولى فقط eyes1, بأستعمال eyes1 # في ملف الCSS. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+لاحظ انك تغير شكل صورة العين الاولى فقط eyes1, بأستعمال eyes1 # في ملف الCSS. إذا كنت تفضل عيونًا مختلفة ، يمكنك استخدام # eyes2 أو # eyes3 بدلا من eyes1!
 
 ![لقطة الشاشة](images/robot-eyes-width.png)
 
-Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+لاحظ كيف يتم عرض كل صورة واحدة تلو الأخرى؟ هذا يسمى بالموقع النسبي relative positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
 
 + Add these three lines to the CSS code for your `eyes1` image:
     
