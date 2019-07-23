@@ -6,7 +6,7 @@
 
 CSS로 로봇의 부품들을 배치하고, 나만의 로봇을 조립합니다.
 
-![screenshot](images/robot-final.png)
+![스크린샷](images/robot-final.png)
 
 ### 배울 지식
 
