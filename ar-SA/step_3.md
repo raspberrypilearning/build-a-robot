@@ -17,18 +17,18 @@
 
 يمكنك استعمال ال id الخاص باحدى الصوره لأعطاء الشكل لها, باستعمال CSS و رمز #. هذا يتيح لك لاعطاء الشكل لكل صوره بشكل منفصل.
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+انقر على ملف "style.css". لاحظ كيف يختلف حجم وجه الروبوت و حجم الصور الاخرى؟
 
 ![لقطة الشاشة](images/robot-id.png)
 
-+ Add this CSS code to style the robot’s eyes:
++ ضع كود ال CSS هذا لتعديل شكل عيون الروبوت:
     
         #eyes1 {
         width: 200px;
         }
         
 
-Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+لاحظ انك تغير شكل صورة العين الاولى فقط eyes1, بأستعمال eyes1 # في ملف الCSS. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
 
 ![لقطة الشاشة](images/robot-eyes-width.png)
 
