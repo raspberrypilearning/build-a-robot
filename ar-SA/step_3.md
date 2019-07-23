@@ -1,4 +1,4 @@
-## Giving your robot eyes
+## أعطي روبوتك عيون
 
 Let’s give your robot some eyes!
 
