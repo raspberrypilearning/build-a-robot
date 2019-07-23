@@ -8,14 +8,14 @@
     
     ![لقطة الشاشة](images/robot-starter.png)
 
-كل صوره في المشروع تملك اسماً خاصاً (او id). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+كل صوره في المشروع تملك اسماً خاصاً (او id). على سبيل المثال, كود الHTML الذي يحدد صور الوجه والعين (‘face’, ‘eyes1’, ‘eyes2 يبدا في السطر 8 من الكود الخاص بك) يبدوا مثل هذا:
 
     <img id="face" ...>
     <img id="eyes1" ...>
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+يمكنك استعمال ال id الخاص باحدى الصوره لأعطاء الشكل لها, باستعمال CSS و رمز #. هذا يتيح لك لاعطاء الشكل لكل صوره بشكل منفصل.
 
 Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
 
