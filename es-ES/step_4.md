@@ -18,13 +18,16 @@
 
 - ¿Puedes solucionarlo haciendo cambios al código CSS?
 
---- hints ---
- --- hint --- Necesitarás cambiar las posiciones de `width` y `top` y `left` para `mouth1` en `style.css`.
+--- collapse ---
+---
+title: Necesito una pista
+---
+
+Necesitarás cambiar las posiciones de `width` y `top` y `left` para `mouth1` en `style.css`.
 
 Prueba valores diferentes hasta que sea como quieres.
---- /hint ---
- --- hint --- Deberías tener algo así:
+ 
+Deberías tener algo así:
 
 ![captura de pantalla](images/robot-mouth-code.png)
---- /hint ---
---- /hints ---
+--- /collapse ---

@@ -14,8 +14,9 @@ Use whatever drawing software you have on your computer to draw some new robot p
 
 + Añade la imagen a `index.html`: 
 
-    <img id="purpleeyes" src="purpleeyes.png">
-    
+```
+<img id="purpleeyes" src="purpleeyes.png">
+```  
 
 + Y añade el código CSS a `style.css` para colocarla:
 

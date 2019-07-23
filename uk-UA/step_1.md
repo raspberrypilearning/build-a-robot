@@ -12,10 +12,10 @@
 
 Цей проект охоплює елементи з наступних напрямків [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [ Використайте основні конструкції програмування для створення простих програм ](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Використайте основні конструкції програмування для створення простих програм](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
 ### Додаткова інформація для лідерів клубу
 
 Якщо вам потрібно роздрукувати цей проект, будь ласка скористайтеся [версією для друку](https://projects.raspberrypi.org/uk-UA/projects/build-a-robot/print){:target="_blank"}.
 
-Скористайтеся посиланням у нижньому колонтитулі, щоб отримати доступ до Репо GitHub для цього проекту, який містить усі resources (включаючи приклад готового проекту) в папці uk-UA/resources.
+Скористайтеся посиланням у нижньому колонтитулі, щоб отримати доступ до Репо GitHub для цього проекту, який містить усі resources (включаючи приклад готового проекту) в папці en/resources.
