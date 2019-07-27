@@ -8,7 +8,7 @@ Hai să îi punem robotului tău niște ochi!
     
     ![captură de ecran](images/robot-starter.png)
 
-Fiecare imagine din acest proiect are propriul ei nume (sau **`id`**). Spre exemplu, codul HTML pentru accesarea imaginilor care reprezintă față sau ochii (‘face’, ‘eyes1’, and ‘eyes2’, începând de pe linia 8 a codului tău) arată astfel:
+Fiecare imagine din acest proiect are propriul ei nume (sau **`id`**). Spre exemplu, codul HTML pentru accesarea imaginilor care reprezintă față sau ochii („face”, „eyes1” și „eyes2”, începând de pe linia 8 a codului tău) arată astfel:
 
     <img id="face" ...>
     <img id="eyes1" ...>
@@ -17,7 +17,7 @@ Fiecare imagine din acest proiect are propriul ei nume (sau **`id`**). Spre exem
 
 Poți folosi `id`-ul unei imagini pentru a-i crea propriul stil, folosind CSS și simbolul `#`. Acest lucru îți va permite să stilizezi fiecare imagine separat.
 
-Apasă pe fișierul `style.css`. Ai observat că exista o diferență între dimensiunea feței robotului și alte imagini?
+Dă click pe fișierul `style.css`. Ai observat că exista o diferență între dimensiunea feței robotului și alte imagini?
 
 ![captură de ecran](images/robot-id.png)
 
@@ -32,7 +32,7 @@ Observă cum modelezi doar imaginea `eyes1`, folosind `#eyes1` în codul tău CS
 
 ![captură de ecran](images/robot-eyes-width.png)
 
-Observi cum fiecare imagine este afișată una după alta? Aceasta se numește poziționare**relative**. Dacă vrei să-i spui browserului exact unde vrei să pui ochii robotului, va trebui sa folosești poziționarea **absolute**.
+Observi cum fiecare imagine este afișată una după alta? Aceasta se numește poziționare relativă (**relative**). Dacă vrei să-i spui browserului exact unde vrei să pui ochii robotului, va trebui sa folosești poziționarea absolută (**absolute**).
 
 + Adaugă aceste trei linii codului tău CSS pentru imaginea ochilor `eyes1`:
     
@@ -45,7 +45,7 @@ Ar trebui să vezi că ochii robotului se mișcă către poziția corectă.
 
 ![captură de ecran](images/robot-eyes-position.png)
 
-Acest cod CSS indică browserului cât de departe să afișeze imaginea față de colțul din stânga sus al paginii web.
+Acest cod CSS indică browser-ului cât de departe să afișeze imaginea față de colțul din stânga sus al paginii web.
 
 ![captură de ecran](images/robot-eyes-position2.png)
 
