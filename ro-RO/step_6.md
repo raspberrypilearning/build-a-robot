@@ -4,21 +4,21 @@
 
 Poți să creezi imagini pe care să le adaugi robotului tău, și să le poziționezi în pagina web?
 
-Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
+Folosește oricare program de desenare pe care îl ai pe calculatorul tău pentru a desena părți noi pentru robotul tău, și salvează-le ca fișier `.png`.
 
-![screenshot](images/robot-eyes-edit.png)
+![captură de ecran](images/robot-eyes-edit.png)
 
-+ Then upload the `.png` image into your trinket:
++ Apoi încarcă imaginea `.png` în trinket:
 
-![screenshot](images/robot-image-add.png)
+![captură de ecran](images/robot-image-add.png)
 
-+ Add the image to `index.html`: 
++ Adaugă imaginea la `index.html`: 
 
     <img id="purpleeyes" src="purpleeyes.png">
     
 
-+ And add CSS code to `style.css` to position it:
++ Adaugă și codul CSS la `style.css` pentru a o poziționa:
 
-![screenshot](images/robot-use-purple-eyes.png)
+![captură de ecran](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
