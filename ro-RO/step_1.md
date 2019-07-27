@@ -12,7 +12,7 @@ Vei utiliza CSS pentru a poziționa părțile robotului și pentru a-ți asambla
 
 Acest proiect acoperă elemente din următoarele componente ale curriculumului [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Folosește elemente de bază ale programării pentru a creea programe simple](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Folosește elemente de bază ale programării pentru a crea programe simple](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
 ### Informații suplimentare pentru conducătorii de club
 
