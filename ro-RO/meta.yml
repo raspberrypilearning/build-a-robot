@@ -16,14 +16,14 @@ site_areas: proiecte
 hardware: ''
 software: html-css-javascript
 version: 3
-last_tested: 01-01-2017
+last_tested: 2017-01-01
 steps:
   - 
     title: Introducere
   - 
     title: De ce vei avea nevoie
   - 
-    title: Pune-i ochi robotului tău
+    title: Pune-i ochii robotului tău
   - 
     title: Pune-i gura robotului tău
   - 
