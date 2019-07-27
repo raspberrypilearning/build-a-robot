@@ -10,12 +10,12 @@ Vei utiliza CSS pentru a poziționa părțile robotului și pentru a-ți asambla
 
 ### Ce vei învăța
 
-Acest proiect acoperă elemente din următoarele componente ale curriculumului [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Acest proiect acoperă elemente din următoarele componente ale curriculumului [Raspberry Pi Digital Making](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Folosește elemente de bază ale programării pentru a crea programe simple](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Folosirea elementelor de bază ale programării pentru a crea programe simple](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Informații suplimentare pentru conducătorii de club
+### Informații suplimentare pentru liderii de club
 
-Dacă doriți să printați acest proiect, folosiți[printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
+Dacă vrei să printezi acest proiect, folosește [versiunea printabilă](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
 
-Utilizaţi link-ul de subsol pentru a accesa repo-ul GitHub pentru acest proiect, care conţine toate resursele (inclusiv un exemplu finalizat) în folderul ‘en/resources’.
+Folosește link-ul din subsolul paginii pentru a accesa referința GitHub pentru acest proiect, care conține toate resursele (inclusiv un exemplu de proiect finalizat) în folder-ul „en/resources”.
