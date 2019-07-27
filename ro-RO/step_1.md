@@ -4,7 +4,7 @@
 
 ### Ce vei face
 
-Utilizați CSS pentru a poziționa părțile robotului și pentru a vă asambla propriul robot.
+Vei utiliza CSS pentru a poziționa părțile robotului și pentru a-ți asambla propriul robot.
 
 ![captură de ecran](images/robot-final.png)
 
