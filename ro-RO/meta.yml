@@ -1,5 +1,5 @@
 ---
-Title: Build a robot
+Title: Construiește un robot
 hero_image: images/build-a-robot.png
 theme: violet
 duration: 2
@@ -7,26 +7,26 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Build a robot
-description: Learn how to position images to design your own robot
+title: Construiește un robot
+description: Află cum să poziționezi imaginile pentru a-ți proiecta propriul robot
 original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
-interests: art
+interests: artă
 technologies: html-css-javascript
-site_areas: projects
+site_areas: proiecte
 hardware: ''
 software: html-css-javascript
 version: 3
-last_tested: 2017-01-01
+last_tested: 01-01-2017
 steps:
   - 
-    title: Introduction
+    title: Introducere
   - 
-    title: What you will need
+    title: De ce vei avea nevoie
   - 
-    title: Giving your robot eyes
+    title: Pune-i ochi robotului tău
   - 
-    title: Giving your robot a mouth
+    title: Pune-i gura robotului tău
   - 
-    title: 'Challenge: your own design'
+    title: 'Provocare: modelul tău propriu'
   - 
-    title: 'Challenge: add your own images'
+    title: 'Provocare: adaugă propriile tale imagini'
