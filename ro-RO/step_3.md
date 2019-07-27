@@ -1,51 +1,51 @@
-## Pune-i robotului tău, ochii
+## Pune-i ochi robotului tău
 
-Haideți sa-inpunem robotului niște ochi!
+Hai sa îi punem robotului tău niște ochi!
 
-+ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ Deschide [acest fișier trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
     Proiectul ar trebui să arate astfel:
     
     ![captură de ecran](images/robot-starter.png)
 
-Fiecare imagine din acest proiect are propriul ei nume (or **`id`**). Spre exemplu, codul HTML pentru accesarea imaginilor cu față sau ochi (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) arată astfel:
+Fiecare imagine din acest proiect are propriul ei nume (sau **`id`**). Spre exemplu, codul HTML pentru accesarea imaginilor care reprezintă față sau ochii (‘face’, ‘eyes1’, and ‘eyes2’, începând de pe linia 8 a codului tău) arată astfel:
 
     <img id="face" ...>
     <img id="eyes1" ...>
     <img id="eyes2" ...>
     
 
-Poți folosi imaginea `id` penttu a creea stilul tău peopriu, folosind CSS și simbolul `#` symbol. Asta îți va permite să modifici fiecare imagine separat.
+Poți folosi `id`-ul unei imagini pentru a-i crea propriul stil, folosind CSS și simbolul `#`. Acest lucru îți va permite să stilizezi fiecare imagine separat.
 
-Apasă pe fișierul `style.css`. Ai observat diferența dintre dimensiunea feței robotului și alte imagini sunt diferite?
+Apasă pe fișierul `style.css`. Ai observat că exista o diferență între dimensiunea feței robotului și alte imagini?
 
 ![captură de ecran](images/robot-id.png)
 
-+ Adăugați acest cod CSS pentru a modela ochii robotului:
++ Adaugă acest cod CSS pentru a modela ochii robotului:
     
         #eyes1 {
         width: 200px;
         }
         
 
-Observi ca modelezi doar imaginea `eyes1`, folosind `#eyes1` în codul tăuin CSS. Dacă preferi alți ochi, folosește în schimb `#eyes2` or `#eyes3`!
+Observă cum modelezi doar imaginea `eyes1`, folosind `#eyes1` în codul tău CSS. Dacă preferi alți ochi, folosește în schimb `#eyes2` sau `#eyes3`!
 
 ![captură de ecran](images/robot-eyes-width.png)
 
-Observați cum este afișată fiecare imagine una după alta? Aceasta se numește pozitionare**relative**. Dacă vrei să-i spui browserului exact unde vrei sa pui ochii robotului, va trebui sa dolosești pozitionarea **absolute**.
+Observi cum fiecare imagine este afișată una după alta? Aceasta se numește poziționare**relative**. Dacă vrei să-i spui browserului exact unde vrei să pui ochii robotului, va trebui sa folosești poziționarea **absolute**.
 
-+ Adaugă aceste trei linii codului tău CSS pentru imaginea `eyes1`:
++ Adaugă aceste trei linii codului tău CSS pentru imaginea ochilor `eyes1`:
     
         position: absolute;
         top: 200px;
         left: 100px;
         
 
-Ar trebui să veI că ochii robotului se mișcă către poziția corectă.
+Ar trebui să vezi că ochii robotului se mișcă către poziția corectă.
 
 ![captură de ecran](images/robot-eyes-position.png)
 
-Acest cod CSS indică browserului cât de departe este, față de colțul din stânga sus al paginii web, pentru a afișa imaginea.
+Acest cod CSS indică browserului cât de departe să afișeze imaginea față de colțul din stânga sus al paginii web.
 
 ![captură de ecran](images/robot-eyes-position2.png)
 
