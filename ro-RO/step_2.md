@@ -1,4 +1,4 @@
-## Ce vei avea nevoie
+## De ce vei avea nevoie
 
 ### Dispozitive
 
