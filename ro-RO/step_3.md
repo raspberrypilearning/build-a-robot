@@ -49,4 +49,4 @@ Acest cod CSS indică browserului cât de departe să afișeze imaginea față d
 
 ![captură de ecran](images/robot-eyes-position2.png)
 
-Poți folosi `bottom` în loc de `top` pentru a-i spune browserului cât de departe este, față de partea de jos a ecranului, pentru a afișa imaginea, la fel și pentru `right` în loc de `left`.
+Poți folosi `bottom` în loc de `top` pentru a-i spune browserului cât de departe să afișeze imaginea, față de partea de jos a ecranului; la fel poți folosi și `right` în loc de `left`.
