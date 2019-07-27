@@ -1,8 +1,8 @@
-## Pune-i ochi robotului tău
+## Pune-i ochii robotului tău
 
-Hai sa îi punem robotului tău niște ochi!
+Hai să îi punem robotului tău niște ochi!
 
-+ Deschide [acest fișier trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ Deschide [acest trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
     Proiectul ar trebui să arate astfel:
     
