@@ -12,7 +12,7 @@ CSS로 로봇의 부품들을 배치하고, 나만의 로봇을 조립합니다.
 
 이 프로젝트는 [라즈베리 파이 디지털 메이킹 교육과정](http://rpf.io/curriculum){:target="_blank"} 중 아래의 과정에 있는 요소들을 다룹니다.
 
-+ [기본 프로그래밍 구조를 사용하여 간단한 프로그램 작성](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [ 기본 프로그래밍 구조를 사용하여 간단한 프로그램 작성 ](https://www.raspberrypi.org/curriculum/programming/creator):target="_blank"}
 
 ### 클럽 지도자들을 위한 추가 정보
 

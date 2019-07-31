@@ -12,7 +12,7 @@
 
 ![스크린샷](images/robot-image-add.png)
 
-+ 업로드한 이미지를 `index.html`에 추가해주세요. 
++ 업로드한 이미지를 `index.html` 에 추가해주세요. 
 
     <img id="purpleeyes" src="purpleeyes.png">
     
