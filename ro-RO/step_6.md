@@ -14,8 +14,9 @@ Folosește oricare program de desenare pe care îl ai pe computer-ul tău pentru
 
 + Adaugă imaginea în `index.html`: 
 
-    <img id="purpleeyes" src="purpleeyes.png">
-    
+ ```
+<img id="purpleeyes" src="purpleeyes.png">
+```  
 
 + Adaugă și codul CSS în `style.css` pentru a o poziționa:
 
