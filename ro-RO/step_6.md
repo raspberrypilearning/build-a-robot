@@ -29,4 +29,4 @@ Folosește oricare program de desenare pe care îl ai pe computer-ul tău pentru
 
 Proiectul a fost tradus de **Cristina Draghici** și verificat de **Gelu Ungur**.
 
-Traducătorii noștri voluntari ne ajută să oferim copiilor din întreaga lume șansa de a învăța programarea. Poți ajuta și tu la traducerea proiectelor noastre – află mai multe pe rpf.io/translators.
+Traducătorii noștri voluntari ne ajută să oferim copiilor din întreaga lume șansa de a învăța să programeze. Ne poți ajuta să ajungem la mai mulți copii, ajutând la traducerea proiectelor noastre – află mai multe pe rpf.io/translators.
