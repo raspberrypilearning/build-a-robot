@@ -1,21 +1,21 @@
-## Giving your robot eyes
+## Задать роботу глаза
 
-Let’s give your robot some eyes!
+Давай дадим твоему роботу глаза!
 
-+ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ Открой [этот trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
-    The project should look like this:
+    Проект должен выглядеть следующим образом:
     
     ![screenshot](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+Каждое изображение в этом проекте имеет свое имя или **`id`** (идентификатор). Например, HTML-код для использования изображений лица и глаз ['face' (лицо на англ.), 'eyes1' (глаза1 на англ.) и 'eyes2', начиная со строки 8 вашего кода] выглядит следующим образом:
 
     <img id="face" ...>
     <img id="eyes1" ...>
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+Ты можешь использовать `id` изображения для того, чтобы задать его собственный стиль, используя CSS и символ `#`. Это позволит тебе стилизировать каждое изображение отдельно.
 
 Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
 
