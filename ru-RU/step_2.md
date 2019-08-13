@@ -1,6 +1,6 @@
-## What you will need
+## Что тебе понадобится
 
-### Hardware
+### Оборудование
 
 + A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
 
