@@ -4,13 +4,13 @@
 
 ### Что ты сделаешь
 
-Use CSS to position robot parts to assemble your own robot.
+Используй CSS для позиционирования частей робота, чтобы собрать своего собственного робота.
 
 ![screenshot](images/robot-final.png)
 
-### What you will learn
+### Чему ты научишься
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Этот проект включает в себя элементы из [учебного курса по цифровому изготовлению с Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
