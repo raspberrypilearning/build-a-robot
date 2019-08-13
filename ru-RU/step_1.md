@@ -1,8 +1,8 @@
 ## Введение
 
-In this project, you’ll learn how to position images to design your own robot!
+В этом проекте ты узнаешь, как позиционировать изображения для создания собственного робота!
 
-### What you will make
+### Что ты сделаешь
 
 Use CSS to position robot parts to assemble your own robot.
 
