@@ -1,4 +1,4 @@
-## Disegnare gli occhi del robot
+## Disegnare gli occhi al tuo robot
 
 Diamo al tuo robot degli occhi!
 
@@ -47,6 +47,6 @@ Dovresti vedere che gli occhi si spostano nella posizione corretta sul tuo robot
 
 Questo codice CSS indica al browser quanto deve essere lontana l'immagine da visualizzare dall'angolo in alto a sinistra della pagina web.
 
-![screenshot](images/robot-eyes-position2.png)
+![screenshot](images/robot-eyes-position.png)
 
 Puoi usare `bottom` al posto di `top` per dire al browser quanto lontana l'immagine deve essere dalla parte inferiore dello schermo, così come `right` al posto di `left`.
