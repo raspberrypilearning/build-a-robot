@@ -14,8 +14,9 @@
 
 + Πρόσθεσε την εικόνα στο `index.html`: 
 
-    <img id="purpleeyes" src="purpleeyes.png">
-    
+```
+<img id="purpleeyes" src="purpleeyes.png">
+```    
 
 + Και πρόσθεσε τον κώδικα CSS στο αρχείο `style.css` για να την τοποθετήσεις:
 

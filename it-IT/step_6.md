@@ -14,8 +14,9 @@ Usa qualsiasi software sul tuo computer per disegnare nuove parti del robot e sa
 
 + Aggiungi l'immagine a `index.html`: 
 
-    <img id="purpleeyes" src="purpleeyes.png">
-    
+```
+<img id="purpleeyes" src="purpleeyes.png">
+```    
 
 + E aggiungi il codice CSS a `style.css` per posizionarlo:
 
