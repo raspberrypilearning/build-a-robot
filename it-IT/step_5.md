@@ -1,9 +1,9 @@
 --- challenge ---
-## Sfida: Aggiungi le tue immagini
-Riusciresti a trovare altre immagini da aggiungere al robot posizionandole sulla pagina Web? Puoi anche sostituire il volto del robot con il tuo!
 
-```
-<img id="face" src="myFace.png">
-```
+## Sfida: il tuo progetto
+
+Usa ciò che hai imparato per finire di progettare il tuo robot. Ecco alcuni esempi di come potrebbe apparire:
+
+![screenshot](images/robot-examples.png)
 
 --- /challenge ---
