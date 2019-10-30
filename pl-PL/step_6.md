@@ -4,7 +4,7 @@
 
 Potrafisz stworzyć grafiki i dodać je do twojego robota oraz wypozycjonować na stronie?
 
-Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
+Użyj dowolnego oprogramowania do rysowania, które masz na komputerze, aby narysować nowe części robota, zapisz je jako obraz `.png`.
 
 ![zrzut ekranu](images/robot-eyes-edit.png)
 
