@@ -2,7 +2,7 @@
 
 Dajmo vašem robotu neke oči!
 
-+ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ Otvorite [ovaj trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
     Projekt bi trebao izgledati ovako:
     
@@ -15,9 +15,9 @@ Svaka slika u ovom projektu ima svoje ime (ili **`id`**). Na primjer, HTML kôd 
     <img id="eyes2" ...>
     
 
-Možete koristiti slike u `id` dati svoj vlastiti stil, koristeći CSS i `#` simbol. Ovo vam omogućava stilu svaku sliku zasebno.
+Možete koristiti `id` slike kako bi im dali svoj vlastiti stil, koristeći CSS i `#` simbol. Ovo vam omogućava oblikovati svaku sliku zasebno.
 
-Kliknite na `style.css` datoteke. Primijetiti kako su različite veličine robot's lice i druge slike?
+Kliknite na `style.css` datoteke. Primijetite kako su veličine robotova lica i drugih slika različite.
 
 ![screenshot](images/robot-id.png)
 
@@ -28,11 +28,11 @@ Kliknite na `style.css` datoteke. Primijetiti kako su različite veličine robot
         }
         
 
-Primijetiti da ste stil samo `eyes1` slike, koristeći `#eyes1` u vaš CSS kod. Ako želite različite oči, možete koristiti `#eyes2` ili `#eyes3` umjesto!
+Primijetite da oblikujete samo sliku `eyes1` koristeći `#eyes1` u vašem CSS kodu. Ako želite različite oči, možete koristiti `#eyes2` ili `#eyes3` umjesto toga!
 
 ![screenshot](images/robot-eyes-width.png)
 
-Primijetite kako se svaka slika prikazuje jedan za drugim? To se zove **relativan** smještaj. Ako želite reći da je preglednik točno gdje želite smjestiti vaš robot oči, morat ćete koristiti **absolute** pozicioniranje umjesto toga.
+Primijetite kako se svaka slika prikazuje jedna za drugom. To se zove **relativan** položaj. Ako želite reći da je preglednik točno gdje želite smjestiti vaš robot oči, morat ćete koristiti **absolute** pozicioniranje umjesto toga.
 
 + Ove tri linije dodati CSS kod za sliku `eyes1`:
     
