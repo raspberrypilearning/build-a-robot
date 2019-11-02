@@ -32,16 +32,16 @@ Primijetite da oblikujete samo sliku `eyes1` koristeći `#eyes1` u vašem CSS ko
 
 ![screenshot](images/robot-eyes-width.png)
 
-Primijetite kako se svaka slika prikazuje jedna za drugom. To se zove **relativan** položaj. Ako želite reći da je preglednik točno gdje želite smjestiti vaš robot oči, morat ćete koristiti **absolute** pozicioniranje umjesto toga.
+Primijetite kako se svaka slika prikazuje jedna za drugom. To se zove **relativan** položaj. Ako želite reći pregledniku gdje da točno postavi oči vašeg robota, morat ćete umjesto toga koristiti **apsolutan** položaj.
 
-+ Ove tri linije dodati CSS kod za sliku `eyes1`:
++ Ove tri linije dodati CSS kodu za sliku `eyes1`:
     
         position: absolute;
         top: 200px;
         left: 100px;
         
 
-Trebali biste vidjeti da se oči vašeg robota kreću na ispravno mjesto na vašem robotu.
+Trebali biste vidjeti da se oči vašeg robota pomiču na ispravno mjesto na vašem robotu.
 
 ![screenshot](images/robot-eyes-position.png)
 
