@@ -2,13 +2,13 @@
 
 ## Izazov: Dodajte svoje vlastite slike
 
-Možete li izraditi slike koje želite dodati robotu i postaviti ih na svoju web stranicu?
+Možete li sami napraviti slike koje želite dodati robotu i postaviti ih na svoju web stranicu?
 
-Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
+Možete koristiti softver za crtanje po želji da nacrtate neke nove dijelove robote, a zatim ih spremite kao `.png` datoteku.
 
 ![screenshot](images/robot-eyes-edit.png)
 
-+ Zatim prenesite `.png` sliku u svoj nakit:
++ Zatim prenesite `.png` sliku u svoj trinket:
 
 ![screenshot](images/robot-image-add.png)
 
