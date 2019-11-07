@@ -13,9 +13,9 @@ Użyj dowolnego oprogramowania do rysowania, które masz na komputerze, aby nary
 ![zrzut ekranu](images/robot-image-add.png)
 
 + Dodaj grafikę do pliku `index.html`: 
-
-    <img id="purpleeyes" src="purpleeyes.png">
-    
+```
+<img id="purpleeyes" src="purpleeyes.png">
+```   
 
 + Następnie dodaj kod pozycjonujący nową część w pliku `style.css`:
 
