@@ -2,7 +2,7 @@
 
 Dodajmy robotowi oczy!
 
-+ Otwórz [edytor trinket](http://jumpto.cc/web-robot).
++ Otwórz [ten trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
     Projekt powinien wyglądać następująco:
     
