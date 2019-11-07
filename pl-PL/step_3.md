@@ -2,7 +2,7 @@
 
 Dodajmy robotowi oczy!
 
-+ Otwórz [edytor trinket](http://jumpto.cc/web-robot).
++ Otwórz [ten trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
     Projekt powinien wyglądać następująco:
     
@@ -32,7 +32,7 @@ Zauważ, że używając `#eyes1` w swoim kodzie CSS ostylujesz tylko grafikę `e
 
 ![zrzut ekranu](images/robot-eyes-width.png)
 
-Widzisz, jak obrazki są wyświetlane jeden po drugim? To nazywa się pozycjonowanie **relatywne (ang. relative)**. Aby poinstruować przeglądarkę, gdzie dokładnie powinny zostać umieszczone oczy robota, trzeba użyć pozycjonowania **absolutnego (and. absolute)**.
+Widzisz, jak obrazki są wyświetlane jeden po drugim? To nazywa się pozycjonowanie **relatywne (ang. relative)**. Aby poinstruować przeglądarkę, gdzie dokładnie powinny zostać umieszczone oczy robota, trzeba użyć pozycjonowania **absolutnego (ang. absolute)**.
 
 + Dodaj te trzy linie do kodu CSS w odniesieniu do grafiki `eyes1`:
     
