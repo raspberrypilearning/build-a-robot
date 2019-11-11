@@ -1,38 +1,38 @@
-## Giving your robot eyes
+## Dando olhos ao teu robô
 
-Let’s give your robot some eyes!
+Vamos dar olhos ao teu robô!
 
-+ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ Abre [este trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
-    The project should look like this:
+    O projeto deverá parecer-se com isto:
     
     ![screenshot](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+Cada imagem neste projeto tem o seu próprio nome (ou **`id`**). Por exemplo, o código HTML para endereçar as imagens do rosto e olhos ('face', 'eyes1' e 'eyes2', iniciando na linha 8 do teu código) tem a seguinte aparência:
 
     <img id="face" ...>
     <img id="eyes1" ...>
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+Podes usar o `ID` de uma imagem para lhe dares o seu próprio estilo, usando CSS e o símbolo ` # `. Isso permite que possas estilizar cada imagem separadamente.
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+Clica no ficheiro ` style.css `. Observas como o tamanho do rosto do robô e as outras imagens são diferentes?
 
 ![screenshot](images/robot-id.png)
 
-+ Add this CSS code to style the robot’s eyes:
++ Adiciona este código CSS para estilizar os olhos do robô:
     
-        #eyes1 {
+        # eyes1 {
         width: 200px;
         }
         
 
-Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+Nota que estás a estilar apenas a imagem `eyes1`, ao usar `#eyes1` no teu código CSS. Se preferires olhos diferentes, podes usar ` # eyes2 ` ou ` # eyes3 `!
 
 ![screenshot](images/robot-eyes-width.png)
 
-Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+Notas como cada imagem é exibida uma após a outra? Isto é chamado posicionamento **relativo**. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
 
 + Add these three lines to the CSS code for your `eyes1` image:
     
