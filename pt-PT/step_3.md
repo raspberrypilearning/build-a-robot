@@ -32,9 +32,9 @@ Nota que estás a estilar apenas a imagem `eyes1`, ao usar `#eyes1` no teu códi
 
 ![screenshot](images/robot-eyes-width.png)
 
-Notas como cada imagem é exibida uma após a outra? Isto é chamado posicionamento **relativo**. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+Notas como cada imagem é exibida uma após a outra? Isto é chamado posicionamento **relativo**. Se quiseres dizer ao navegador exatamente onde colocar os olhos do teu robô, vais precisar de usar posicionamento **absoluto**.
 
-+ Add these three lines to the CSS code for your `eyes1` image:
++ Adiciona estas três linhas ao código CSS para a tua imagem `eyes1`:
     
         position: absolute;
         top: 200px;
