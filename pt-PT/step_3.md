@@ -6,7 +6,7 @@ Vamos dar olhos ao teu robô!
     
     O projeto deverá parecer-se com isto:
     
-    ![screenshot](images/robot-starter.png)
+    ![captura de ecrã](images/robot-starter.png)
 
 Cada imagem neste projeto tem o seu próprio nome (ou **`id`**). Por exemplo, o código HTML para endereçar as imagens do rosto e olhos ('face', 'eyes1' e 'eyes2', iniciando na linha 8 do teu código) tem a seguinte aparência:
 
@@ -19,7 +19,7 @@ Podes usar o `ID` de uma imagem para lhe dares o seu próprio estilo, usando CSS
 
 Clica no ficheiro ` style.css `. Observas como o tamanho do rosto do robô e as outras imagens são diferentes?
 
-![screenshot](images/robot-id.png)
+![captura de ecrã](images/robot-id.png)
 
 + Adiciona este código CSS para estilizar os olhos do robô:
     
@@ -30,7 +30,7 @@ Clica no ficheiro ` style.css `. Observas como o tamanho do rosto do robô e as 
 
 Nota que estás a estilar apenas a imagem `eyes1`, ao usar `#eyes1` no teu código CSS. Se preferires olhos diferentes, podes usar ` # eyes2 ` ou ` # eyes3 `!
 
-![screenshot](images/robot-eyes-width.png)
+![captura de ecrã](images/robot-eyes-width.png)
 
 Notas como cada imagem é exibida uma após a outra? Isto é chamado posicionamento **relativo**. Se quiseres dizer ao navegador exatamente onde colocar os olhos do teu robô, vais precisar de usar posicionamento **absoluto**.
 
@@ -41,12 +41,12 @@ Notas como cada imagem é exibida uma após a outra? Isto é chamado posicioname
         left: 100px;
         
 
-You should see that your robot’s eyes move to the correct place on your robot.
+Deverás notar que os olhos do teu robô se movem para o local correto.
 
-![screenshot](images/robot-eyes-position.png)
+![captura de ecrã](images/robot-eyes-position.png)
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+Este código CSS indica ao navegador a que distância do canto superior esquerdo da página é exibida a imagem.
 
-![screenshot](images/robot-eyes-position2.png)
+![captura de ecrã](images/robot-eyes-position2.png)
 
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
+Podes usar ` bottom ` (inferior) em vez de ` top ` (topo) para indicar ao navegador a que distância da parte inferior do ecrã deverá mostrar a imagem, bem como ` right `(direita) em vez de ` left ` (esquerda).
