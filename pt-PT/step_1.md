@@ -1,21 +1,21 @@
 ## Introdução
 
-Neste projecto, você vai aprender como se posiciona imagens para criar o seu robô!
+Neste projeto, vais aprender como se posicionam imagens para criar o teu robô!
 
-### O que você fará
+### O que irás fazer
 
-Use CSS para posicionar as partes do robô para criar o seu próprio robô.
+Usar CSS para posicionar as partes do robô para criares o teu próprio robô.
 
 ![screenshot](images/robot-final.png)
 
-### O que irá aprender
+### O que irás aprender
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Este projeto abrange elementos das seguintes vertentes do [currículo de Marketing Digital do Raspberry Pi ](http://rpf.io/curriculum) {: target = "_ blank"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Usar construções básicas de programação para criar programas simples](https://www.raspberrypi.org/curriculum/programming/creator){:target = "_ blank"}
 
-### Additional information for club leaders
+### Informações adicionais para lideres de clubes
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
+Se precisas de imprimir este projeto, por favor, utiliza a [versão para impressão](https://projects.raspberrypi.org/en/projects/build-a-robot/print){: target = "_ blank"}.
 
 Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
