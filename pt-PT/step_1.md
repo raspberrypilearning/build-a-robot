@@ -6,7 +6,7 @@ Neste projeto, vais aprender como se posicionam imagens para criar o teu robô!
 
 Usar CSS para posicionar as partes do robô para criares o teu próprio robô.
 
-![screenshot](images/robot-final.png)
+![captura de ecrã](images/robot-final.png)
 
 ### O que irás aprender
 
@@ -18,4 +18,4 @@ Este projeto abrange elementos das seguintes vertentes do [currículo de Marketi
 
 Se precisas de imprimir este projeto, por favor, utiliza a [versão para impressão](https://projects.raspberrypi.org/en/projects/build-a-robot/print){: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Use o link no rodapé para aceder ao repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo do projeto finalizado) na pasta 'en/resources'.
