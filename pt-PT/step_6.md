@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: add your own images
+## Desafio: adiciona as tuas imagens
 
 Can you create images to add to your robot, and position them on your webpage?
 
