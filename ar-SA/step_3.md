@@ -45,8 +45,8 @@
 
 ![لقطة الشاشة](images/robot-eyes-position.png)
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+كود الـ CSS هذا يخبر المتصفح ما هو بعد الصورة عن الزاوية العليا اليمينية لصفحة الويب ليعرضها هناك.
 
 ![لقطة الشاشة](images/robot-eyes-position2.png)
 
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
+بإمكانك استخدام `bottom` بدلاً من `top` لتخبر المتصفح كم يجب أن تبعد الصورة عن أسفل الشاشة، كذلك أيضاً يمكن استخدام `right` عوضاً عن `left`.
