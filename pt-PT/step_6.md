@@ -6,19 +6,19 @@ Podes criar imagens para adicionar ao teu robô e posicioná-las na tua página?
 
 Usa qualquer software de desenho que tenhas no teu computador para desenhar algumas novas peças para o robô e guarda-las como uma imagem `.png`.
 
-![screenshot](images/robot-eyes-edit.png)
+![captura de ecrã](images/robot-eyes-edit.png)
 
-+ Then upload the `.png` image into your trinket:
++ Faz depois o upload da imagem `.png` para o teu trinket:
 
-![screenshot](images/robot-image-add.png)
+![captura de ecrã](images/robot-image-add.png)
 
-+ Add the image to `index.html`: 
++ Adiciona a imagem a ` index.html `: 
 
     <img id="purpleeyes" src="purpleeyes.png">
     
 
-+ And add CSS code to `style.css` to position it:
++ E adiciona o código CSS ao ` style.css ` para posicionar:
 
-![screenshot](images/robot-use-purple-eyes.png)
+![captura de ecrã](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
