@@ -2,8 +2,8 @@
 
 ## Desafio: o teu próprio desenho
 
-Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+Usa o que aprendeste para terminar de desenhar o teu próprio robô. Aqui estão alguns exemplos de como o teu robô poderá ficar:
 
-![screenshot](images/robot-examples.png)
+![captura de ecrã](images/robot-examples.png)
 
 \--- /challenge \---
