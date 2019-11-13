@@ -2,9 +2,9 @@
 
 ## Desafio: adiciona as tuas imagens
 
-Can you create images to add to your robot, and position them on your webpage?
+Podes criar imagens para adicionar ao teu robô e posicioná-las na tua página?
 
-Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
+Usa qualquer software de desenho que tenhas no teu computador para desenhar algumas novas peças para o robô e guarda-las como uma imagem `.png`.
 
 ![screenshot](images/robot-eyes-edit.png)
 
