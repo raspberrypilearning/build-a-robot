@@ -14,12 +14,12 @@
 
 يبدو أن هذا الفم صغير جداً، كما أنه ليس في مكانه الصحيح!
 
-![لقطة شاشة](images/robot-mouth.png)
+![لقطة الشاشة](images/robot-mouth.png)
 
-- Can you fix this by making changes to your CSS code?
+- هل بإمكانك إصلاح ذلك بإجراء بعض التعديلات على كود الـ CSS؟
 
-\--- hints \--- \--- hint \--- You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+\--- hints \--- \--- hint \--- سوف تحتاج لتغيير العرض `width` وقيم كل من الموضعين `top` و`left` للفم `mouth1` في ملف `style.css`.
 
-Try different values until it looks the way you want. \--- /hint \--- \--- hint \--- You should have something like this:
+استمر بتجربة قيم مختلفة حتى تبدو في الشكل الذي تريده. \--- /hint \--- \--- hint \--- يجب أن تحصل على نتيجة مشابهة للتالي:
 
 ![لقطة الشاشة](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
