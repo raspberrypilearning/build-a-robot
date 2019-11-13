@@ -41,7 +41,7 @@
         left: 100px;
         
 
-You should see that your robot’s eyes move to the correct place on your robot.
+سترى الآن أن أعين الروبوت انتقلت إلى المكان الصحيح في وجه روبوتك.
 
 ![لقطة الشاشة](images/robot-eyes-position.png)
 
