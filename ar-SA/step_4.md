@@ -1,8 +1,8 @@
-## Giving your robot a mouth
+## أعطِ روبوتك فماً
 
-Let’s give your robot a mouth!
+لنقم بإضافة فم لروبوتك!
 
-- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+- أضف الكود التالي في أسفل `style.css` لتنسيق صورة الفم `mouth1`:
     
         #mouth1 {
             width: 50px;
@@ -12,7 +12,7 @@ Let’s give your robot a mouth!
         }
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+يبدو أن هذا الفم صغير جداً، كما أنه ليس في مكانه الصحيح!
 
 ![لقطة شاشة](images/robot-mouth.png)
 
