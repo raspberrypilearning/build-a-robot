@@ -1,3 +1,21 @@
-Ovo je starija verzija **Napravi robota**. Trenutačno ne uključuje najnovije sadržaje ni korisničke značajke web stranice projekata.  Projekt će biti privremeno dostupan u [ovom](images/Build a Robot.pdf) formatu prije nego se arhivira.
+## Uvod
 
-Trebamo vašu pomoć kako bi ažurirali i preveli ovakve projekte!  Ako ste nam u mogućnosti pomoći, molimo [javite nam se ovdje](https://rpf.io/translators).
+U ovom ćete projektu saznati kako postaviti slike kako biste dizajnirali svog vlastitog robota!
+
+### Što ćete napraviti
+
+Koristite CSS za postavljanje dijelova robota kako bi sastavili vlastitog robota.
+
+![screenshot](images/robot-final.png)
+
+### Što ćete naučiti
+
+Ovaj projekt pokriva elemente iz sljedećih dijelova kurikuluma [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+
++ [Korištenje osnova programiranja za izradu jednostavnih programa](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
+
+### Dodatne informacije za voditelje kluba
+
+Ako trebate ispisati ovaj projekt, koristite [printer-friendly version](https://projects.raspberrypi.org/hr-HR/projects/build-a-robot/print){:target="_blank"}.
+
+Koristi poveznicu u podnožju za pristup GitHub repozitoriju ovog projekta koji sadrži sve materijale (uključujući i primjer gotovog projekta) u mapi 'en/resources'.
