@@ -18,4 +18,4 @@ Ovaj projekt pokriva elemente iz sljedećih dijelova kurikuluma [Raspberry Pi Di
 
 Ako trebate ispisati ovaj projekt, koristite [printer-friendly version](https://projects.raspberrypi.org/hr-HR/projects/build-a-robot/print){:target="_blank"}.
 
-Koristi poveznicu u podnožju za pristup GitHub repozitoriju ovog projekta koji sadrži sve materijale (uključujući i primjer gotovog projekta) u mapi 'en/resources'.
+Koristi poveznicu u podnožju za pristup GitHub repozitoriju ovog projekta koji sadrži sve materijale (uključujući i primjer gotovog projekta) u mapi 'hr-HR/resources'.
