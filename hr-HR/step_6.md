@@ -14,7 +14,9 @@ Možete koristiti softver za crtanje po želji da nacrtate neke nove dijelove ro
 
 + Dodajte sliku u `index.html`: 
 
-    <img id="purpleeyes" src="purpleeyes.png">
+```
+<img id="purpleeyes" src="purpleeyes.png">
+```
     
 
 + Dodajte CSS kôd u `style.css` da ga postavite:
