@@ -1,4 +1,4 @@
-## 你會需要
+## 你需要些什麼
 
 ### 硬體
 
@@ -6,4 +6,4 @@
 
 ### 軟體
 
-你可以直接在 網頁瀏覽器中 使用[trinket.io](https://trinket.io){：target =“_ blank”}完成這個專案。
+此專案可以直接在網頁瀏覽器中使用[trinket.io](https://trinket.io){：target =“_ blank”}完成。
