@@ -1,14 +1,14 @@
-## 給機器人裝上眼睛
+## 給你的機器人一雙眼睛
 
-讓我們來給你的機器人裝上一些眼睛吧！
+給你的機器人裝上眼睛吧！
 
-+ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ 打開 [這個 trinket](http://jumpto.cc/web-robot)。
     
-    檔案應該像這樣︰
+    檔案應該看起來像這樣︰
     
     ![截圖](images/robot-starter.png)
 
-在此項目中的每個圖像都有他們自己的名字（或 **`id`**）。 例如，代表臉和眼睛圖像的HTML代碼（從程式的第8行開始找'face'，'eyes1'和'eyes2'）會是像以下所顯示的：
+此專案中的每個圖案都有自己的名字（又稱為 **`id`** ）。 例如，代表臉和眼睛圖像的HTML代碼（從程式的第8行開始找'face'，'eyes1'和'eyes2'）會是像以下所顯示的：
 
     <img id="face" ...>
     <img id="eyes1" ...>
