@@ -2,9 +2,9 @@
 
 ## 挑戰：添加自己的圖片
 
-你可以創造不同的圖案用來加到你的機器人身上，然後放置在您的網頁上嗎？
+你能為自己的機器人製作一些圖案，並擺在網頁上嗎？
 
-Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
+用電腦上的繪圖軟體來畫一些新的機器人零件，並將其儲存為 `.png`圖檔。
 
 ![screenshot](images/robot-eyes-edit.png)
 
