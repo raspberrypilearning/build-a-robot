@@ -17,7 +17,7 @@
     <img id="purpleeyes" src="purpleeyes.png">
     
 
-+ And add CSS code to `style.css` to position it:
++ 接著在 `style.css` 裡加入這些CSS程式碼來固定它：
 
 ![截圖](images/robot-use-purple-eyes.png)
 
