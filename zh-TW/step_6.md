@@ -8,11 +8,11 @@
 
 ![截圖](images/robot-eyes-edit.png)
 
-+ 將 `.png` 圖檔上傳到你的 trinket 裡：
++ 將 `.png` 圖檔上傳到你的 trinket 中：
 
 ![截圖](images/robot-image-add.png)
 
-+ Add the image to `index.html`: 
++ 將圖片加入 `index.html`： 
 
     <img id="purpleeyes" src="purpleeyes.png">
     
