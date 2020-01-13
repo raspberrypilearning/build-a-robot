@@ -4,7 +4,7 @@
 
 Kannst du Bilder erstellen, die du zu deinem Roboter hinzufügst und auf deiner Webseite positionierst?
 
-Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
+Verwenden irgendeine Zeichensoftware, die du auf deinem Computer hast, um neue Roboterteile zu zeichnen, und speichere diese als `.png` Bild.
 
 ![screenshot](images/robot-eyes-edit.png)
 
