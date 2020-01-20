@@ -18,8 +18,22 @@ Gura robotului tău pare cam mică, și nu este chiar în locul potrivit!
 
 - Poți corecta lucrul acesta modificând codul CSS?
 
-\--- hints \--- \--- hint \--- Modifică `width` și pozițiile `top` și `left` pentru `mouth1` în fișierul `style.css`.
+\--- hints \---
 
-Încearcă diferite valori până când aceasta arată așa cum dorești. \--- /hint \--- \--- hint \--- Ar trebui să ai ceva de genul acesta:
+\--- hint \---
 
-![captură de ecran](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+
+Try different values until it looks the way you want.
+
+\--- /hint \---
+
+\--- hint \---
+
+You should have something like this:
+
+![screenshot](images/robot-mouth-code.png)
+
+\--- /hint \---
+
+\--- /hints \---
