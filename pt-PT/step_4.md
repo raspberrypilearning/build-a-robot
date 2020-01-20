@@ -18,8 +18,22 @@ A boca do teu robô parece bem pequena e não está no lugar certo!
 
 - Podes corrigir isso fazendo alterações ao teu código CSS?
 
-\--- hints \--- \--- hint \--- Precisas de alterar as posições da `(largura) width`, o `(topo) top` e a `(esquerda) left` para `mouth1` n ` style.css `.
+\--- hints \---
 
-Tenta valores diferentes até que pareçam da maneira que tu desejas. \--- /hint \--- \--- hint \--- Deverás ter algo parecido com isto:
+\--- hint \---
 
-![captura de ecrã](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+
+Try different values until it looks the way you want.
+
+\--- /hint \---
+
+\--- hint \---
+
+You should have something like this:
+
+![screenshot](images/robot-mouth-code.png)
+
+\--- /hint \---
+
+\--- /hints \---
