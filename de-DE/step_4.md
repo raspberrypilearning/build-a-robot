@@ -18,8 +18,22 @@ Der Mund deines Roboters ist zu klein, und er ist nicht am richtigen Ort!
 
 - Kannst du das beheben, indem du deinem CSS-Code änderst?
 
-\--- hints \--- \--- hint \--- In `style.css` musst du die `width` sowie die `top` und `left` Positionen des `mouth1` anpassen.
+\--- hints \---
 
-Probiere verschiedene Werte aus, bis es so aussieht, wie du es möchtest. \--- /hint \--- \--- hint \--- Du solltest so etwas haben:
+\--- hint \---
 
-![Screenshot](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+
+Try different values until it looks the way you want.
+
+\--- /hint \---
+
+\--- hint \---
+
+You should have something like this:
+
+![screenshot](images/robot-mouth-code.png)
+
+\--- /hint \---
+
+\--- /hints \---
