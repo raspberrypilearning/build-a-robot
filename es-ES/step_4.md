@@ -18,8 +18,22 @@
 
 - ¿Puedes solucionarlo haciendo cambios al código CSS?
 
-\--- hints \--- \--- hint \--- Necesitarás cambiar las posiciones de `width` y `top` y `left` para `mouth1` en `style.css`.
+\--- hints \---
 
-Prueba valores diferentes hasta que sea como quieres. \--- /hint \--- \--- hint \--- Deberías tener algo así:
+\--- hint \---
 
-![captura de pantalla](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+
+Try different values until it looks the way you want.
+
+\--- /hint \---
+
+\--- hint \---
+
+You should have something like this:
+
+![screenshot](images/robot-mouth-code.png)
+
+\--- /hint \---
+
+\--- /hints \---
