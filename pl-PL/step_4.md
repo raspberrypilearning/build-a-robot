@@ -18,8 +18,22 @@ Usta robota są dość małe i w nieodpowiednim miejscu!
 
 - Potrafisz to naprawić wprowadzając zmiany do kodu CSS?
 
-\--- hints \--- \--- hint \--- Trzeba zmienić właściwości `width` (z ang. szerokość) oraz `top` (z ang. góra) i `left` (z ang. lewa strona) elementu `mouth1` w pliku `style.css`.
+\--- hints \---
 
-Popróbuj różnych wartości, aż całość będzie wyglądała tak, jak tego oczekujesz. \--- /hint \--- \--- hint \--- Efekt powinien być taki:
+\--- hint \---
 
-![zrzut ekranu](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+
+Try different values until it looks the way you want.
+
+\--- /hint \---
+
+\--- hint \---
+
+You should have something like this:
+
+![screenshot](images/robot-mouth-code.png)
+
+\--- /hint \---
+
+\--- /hints \---
