@@ -18,8 +18,22 @@ Miệng robot của bạn trông khá nhỏ và không đúng chỗ!
 
 - Bạn có thể khắc phục điều này bằng cách thay đổi mã CSS của bạn không?
 
-\--- hints \--- \--- hint \--- Bạn sẽ cần thay đổi `width`, độ rộng và `top`, phía đầu và vị trí `left`, bên trái cho `mouth1` trong `style.css`.
+\--- hints \---
 
-Hãy thử các giá trị khác nhau cho đến khi nó trông giống như bạn muốn. \--- /hint \--- \--- hint \--- Bạn nên có một kết quả trông như thế này:
+\--- hint \---
 
-![ảnh chụp màn hình](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+
+Try different values until it looks the way you want.
+
+\--- /hint \---
+
+\--- hint \---
+
+You should have something like this:
+
+![screenshot](images/robot-mouth-code.png)
+
+\--- /hint \---
+
+\--- /hints \---
