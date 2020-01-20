@@ -18,8 +18,22 @@
 
 - Μπορείς να το διορθώσεις κάνοντας αλλαγές στον κώδικα CSS;
 
-\--- hints \--- \--- hint \--- Θα χρειαστεί να αλλάξεις το μήκος `width` και τις θέσεις `top` και `left` για την εικόνα `mouth1` στο αρχείο `style.css`.
+\--- hints \---
 
-Δοκίμασε διαφορετικές τιμές μέχρι να φανεί όπως θέλεις. \--- / hint \--- \--- hint \--- Θα πρέπει να έχεις κάτι τέτοιο:
+\--- hint \---
 
-![screenshot](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+
+Try different values until it looks the way you want.
+
+\--- /hint \---
+
+\--- hint \---
+
+You should have something like this:
+
+![screenshot](images/robot-mouth-code.png)
+
+\--- /hint \---
+
+\--- /hints \---
