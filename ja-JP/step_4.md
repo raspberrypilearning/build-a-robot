@@ -18,8 +18,22 @@
 
 - CSSコードを変更してこれを修正できますか？
 
-\--- hints \--- \--- hint \--- `style.css`の`mouth1`の設定で`width`と`top`と`left`の位置を変更する必要があります。
+\--- hints \---
 
-あなたのお望みになるように値を変えてみてください。 \--- /hint \--- \--- hint \--- このようにします。
+\--- hint \---
 
-![スクリーンショット](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+
+Try different values until it looks the way you want.
+
+\--- /hint \---
+
+\--- hint \---
+
+You should have something like this:
+
+![screenshot](images/robot-mouth-code.png)
+
+\--- /hint \---
+
+\--- /hints \---
