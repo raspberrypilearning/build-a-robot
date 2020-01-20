@@ -18,8 +18,22 @@
 
 - Ви можете це виправити, внісши зміни до вашого CSS-коду?
 
-\--- hint \---\--- hint \--- Вам потрібно буде змінити позицію `width` і `top` і `left` для `mouth1` в `style.css `.
+\--- hints \---
 
-Спробуйте різні значення, доки він не буде виглядати так, як захочете.\--- hint \---\--- hint \--- Ви повинні мати щось на зразок цього:
+\--- hint \---
 
-![скріншот](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+
+Try different values until it looks the way you want.
+
+\--- /hint \---
+
+\--- hint \---
+
+You should have something like this:
+
+![screenshot](images/robot-mouth-code.png)
+
+\--- /hint \---
+
+\--- /hints \---
