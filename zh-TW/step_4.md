@@ -18,8 +18,22 @@
 
 - 你有辦法修改一下CSS程式碼來解決這個問題嗎？
 
-\--- hints \--- \--- hint \--- 你會需要修改 `style.css` 裡的 `mouth1`； 修改 `width` 以及 `top` 和 `left` 的位置。
+\--- hints \---
 
-試著輸入不同的數字，直到它看起來和你想像中的一樣。 \--- /hint \--- \--- hint \--- 機器人最後應該會看起來像是這樣：
+\--- hint \---
 
-![截圖](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+
+Try different values until it looks the way you want.
+
+\--- /hint \---
+
+\--- hint \---
+
+You should have something like this:
+
+![screenshot](images/robot-mouth-code.png)
+
+\--- /hint \---
+
+\--- /hints \---
