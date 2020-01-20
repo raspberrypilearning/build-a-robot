@@ -18,8 +18,22 @@
 
 - CSS 코드를 수정하여 이 문제를 해결해 볼까요?
 
-\--- hints \--- \--- hint \--- `style.css` 파일의 `mouth1` 안에서, `width`로 너비를, `top`, `left`로 위치를 변경하면 이 문제를 해결할 수 있습니다.
+\--- hints \---
 
-원하는 모양이 나올 때까지 여러 값들을 시도해 봅시다. \--- /hint \--- \--- hint \--- 당신은 다음과 같은 것을 만들어야 됩니다.
+\--- hint \---
 
-![스크린샷](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+
+Try different values until it looks the way you want.
+
+\--- /hint \---
+
+\--- hint \---
+
+You should have something like this:
+
+![screenshot](images/robot-mouth-code.png)
+
+\--- /hint \---
+
+\--- /hints \---
