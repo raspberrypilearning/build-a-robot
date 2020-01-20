@@ -18,8 +18,22 @@ Pusa tvého robota je velmi malá a také je i na špatném místě!
 
 - Dokážeš to opravit tím, že upravíš svůj CSS kód?
 
-\--- hints \--- \--- hint \--- Měl bys upravit vlastnosti `width`, `top` a `left` v souboru `style.css` ke správnému napozicování pusy `mouth1`.
+\--- hints \---
 
-Zkoušej různé hodnoty, dokud nebudeš s výsledkem spokojen. \--- /hint \--- \--- hint \--- Měl bys ve výsledku dostat něco takového:
+\--- hint \---
 
-![screenshot](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+
+Try different values until it looks the way you want.
+
+\--- /hint \---
+
+\--- hint \---
+
+You should have something like this:
+
+![screenshot](images/robot-mouth-code.png)
+
+\--- /hint \---
+
+\--- /hints \---
