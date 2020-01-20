@@ -18,8 +18,22 @@
 
 - هل بإمكانك إصلاح ذلك بإجراء بعض التعديلات على كود الـ CSS؟
 
-\--- hints \--- \--- hint \--- سوف تحتاج لتغيير العرض `width` وقيم كل من الموضعين `top` و`left` للفم `mouth1` في ملف `style.css`.
+\--- hints \---
 
-استمر بتجربة قيم مختلفة حتى تبدو في الشكل الذي تريده. \--- /hint \--- \--- hint \--- يجب أن تحصل على نتيجة مشابهة للتالي:
+\--- hint \---
 
-![لقطة الشاشة](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+
+Try different values until it looks the way you want.
+
+\--- /hint \---
+
+\--- hint \---
+
+You should have something like this:
+
+![screenshot](images/robot-mouth-code.png)
+
+\--- /hint \---
+
+\--- /hints \---
