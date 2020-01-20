@@ -18,8 +18,22 @@
 
 - 你能通过更改CSS代码来解决这个问题吗？
 
-\--- hints \--- \--- hint \--- 你需要改变`style.css`中机器人`嘴巴`的`宽度`及其距`上端`及`左侧`的位置.
+\--- hints \---
 
-尝试不同数值知道它看起来是你想要的那样 \--- /hint \--- \--- hint \--- 你可以这样进行调整:
+\--- hint \---
 
-![截图](images/robot-mouth-code.png) \--- /hint \--- \--- /hints \---
+You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+
+Try different values until it looks the way you want.
+
+\--- /hint \---
+
+\--- hint \---
+
+You should have something like this:
+
+![screenshot](images/robot-mouth-code.png)
+
+\--- /hint \---
+
+\--- /hints \---
