@@ -30,9 +30,9 @@ Versuche verschiedene Werte, bis es so aussieht, wie du willst.
 
 \--- hint \---
 
-You should have something like this:
+Du solltest so etwas haben:
 
-![screenshot](images/robot-mouth-code.png)
+![Screenshot](images/robot-mouth-code.png)
 
 \--- /hint \---
 
