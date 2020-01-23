@@ -22,9 +22,9 @@ Der Mund deines Roboters ist zu klein, und er ist nicht am richtigen Ort!
 
 \--- hint \---
 
-You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+Du musst `width` (also die Breite) sowie die `top` und `left` Positionen des `mouth1` in `sytle.css` ändern.
 
-Try different values until it looks the way you want.
+Versuche verschiedene Werte, bis es so aussieht, wie du willst.
 
 \--- /hint \---
 
