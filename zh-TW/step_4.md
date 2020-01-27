@@ -22,15 +22,15 @@
 
 \--- hint \---
 
-You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+你會需要修改 `style.css` 裡的 `mouth1`； 修改 `width` 以及 `top` 和 `left` 的位置。
 
-Try different values until it looks the way you want.
+調整數值直到變成你想要的樣子。
 
 \--- /hint \---
 
 \--- hint \---
 
-You should have something like this:
+你應該會得到像這樣的東西：
 
 ![screenshot](images/robot-mouth-code.png)
 
