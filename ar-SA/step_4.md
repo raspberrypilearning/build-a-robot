@@ -22,7 +22,7 @@
 
 \--- hint \---
 
-You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+سوف تحتاج لتغيير العرض `width` وقيم كل من الموضعين `top` و`left` للفم `mouth1` في ملف `style.css`.
 
 Try different values until it looks the way you want.
 
@@ -32,7 +32,7 @@ Try different values until it looks the way you want.
 
 You should have something like this:
 
-![screenshot](images/robot-mouth-code.png)
+![لقطة الشاشة](images/robot-mouth-code.png)
 
 \--- /hint \---
 
