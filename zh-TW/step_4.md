@@ -32,7 +32,7 @@
 
 你應該會得到像這樣的東西：
 
-![screenshot](images/robot-mouth-code.png)
+![截圖](images/robot-mouth-code.png)
 
 \--- /hint \---
 
