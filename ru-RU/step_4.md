@@ -1,8 +1,8 @@
-## Задать роботу рот
+## Giving your robot a mouth
 
-Давай дадим твоему роботу рот!
+Let’s give your robot a mouth!
 
-- Добавь следующий CSS-код в нижнюю часть `style.css`, чтобы стилизовать своё изображение `mouth1`:
+- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
     
         #mouth1 {
             width: 50px;
@@ -12,17 +12,17 @@
         }
         
 
-Рот твоего робота выглядит совсем маленьким, к тому же он не в том месте!
+Your robot’s mouth looks quite small, and it isn’t in the right place!
 
-![снимок экрана](images/robot-mouth.png)
+![screenshot](images/robot-mouth.png)
 
-- Можешь ли ты исправить это, внеся изменения в свой CSS-код?
+- Can you fix this by making changes to your CSS code?
 
 \--- hints \---
 
 \--- hint \---
 
-Тебе нужно будет изменить `width` и позиции `top` и `left` для `mouth1` в файле `style.css`.
+You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
 
 Try different values until it looks the way you want.
 
