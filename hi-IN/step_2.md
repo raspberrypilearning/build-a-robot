@@ -1,9 +1,9 @@
-## आपको किन चीज़ों की आवश्यकता होगी
+## What you will need
 
-### हार्डवेयर
+### Hardware
 
-+ एक कंप्यूटर जो [trinket.io](https://trinket.io){:target="_blank"} वेबसाइट तक पहुँचने में सक्षम हो
++ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
 
-### सॉफ्टवेयर
+### Software
 
-इस प्रोजेक्ट को [trinket.io](https://trinket.io){:target="_blank"} का उपयोग करके किसी वेब ब्राउज़र में पूरा किया जा सकता है।
+This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}.
