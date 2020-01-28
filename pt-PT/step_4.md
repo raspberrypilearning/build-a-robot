@@ -22,7 +22,7 @@ A boca do teu robô parece bem pequena e não está no lugar certo!
 
 \--- hint \---
 
-You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+Precisas de alterar as posições da `(largura) width`, o `(topo) top` e a `(esquerda) left` para `mouth1` n ` style.css `.
 
 Try different values until it looks the way you want.
 
