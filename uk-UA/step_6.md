@@ -6,19 +6,19 @@
 
 Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
 
-![скріншот](images/robot-eyes-edit.png)
+![screenshot](images/robot-eyes-edit.png)
 
-+ Потім завантажте зображення `.png`:
++ Then upload the `.png` image into your trinket:
 
-![скріншот](images/robot-image-add.png)
+![screenshot](images/robot-image-add.png)
 
-+ Додайте зображення до `index.html`: 
++ Add the image to `index.html`: 
 
     <img id="purpleeyes" src="purpleeyes.png">
     
 
-+ І додати CSS-код в `style.css`, щоб помістити його:
++ And add CSS code to `style.css` to position it:
 
-![скріншот](images/robot-use-purple-eyes.png)
+![screenshot](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
