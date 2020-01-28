@@ -1,21 +1,21 @@
-## Введение
+## Introduction
 
-В этом проекте ты узнаешь, как позиционировать изображения для создания собственного робота!
+In this project, you’ll learn how to position images to design your own robot!
 
-### Что ты сделаешь
+### What you will make
 
-Используй CSS для позиционирования частей робота, чтобы собрать своего собственного робота.
+Use CSS to position robot parts to assemble your own robot.
 
-![снимок экрана](images/robot-final.png)
+![screenshot](images/robot-final.png)
 
-### Чему ты научишься
+### What you will learn
 
-Этот проект включает в себя элементы из [учебного курса по цифровому изготовлению с Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Используйте базовые конструкции программирования для создания простых программ](https://www.raspberrypi.org/curriculum/programming/creator){: target = "_ blank"}
++ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Дополнительная информация для руководителей клуба
+### Additional information for club leaders
 
-Если вы хотите напечатать этот проект, то воспользуйтесь [версией для печати](https://projects.raspberrypi.org/en/projects/build-a-robot/print) {:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
 
-Используйте ссылку внизу страницы для доступа к репозиторию GitHub, который содержит все ресурсы (включая пример готового проекта) в папке 'en/resources'.
+Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
