@@ -1,5 +1,5 @@
 ---
-Title: Построй робота
+Title: Build a robot
 hero_image: images/build-a-robot.png
 theme: violet
 duration: 2
@@ -7,8 +7,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Построй робота
-description: Узнай, как позиционировать изображения для создания собственного робота
+title: Build a robot
+description: Learn how to position images to design your own robot
 original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
 interests: art
 technologies: html-css-javascript
@@ -19,14 +19,14 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Введение
+    title: Introduction
   - 
-    title: Что тебе понадобится
+    title: What you will need
   - 
-    title: Задать роботу глаза
+    title: Giving your robot eyes
   - 
-    title: Задать роботу рот
+    title: Giving your robot a mouth
   - 
-    title: 'Задача: твой собственный дизайн'
+    title: 'Challenge: your own design'
   - 
-    title: 'Задача: добавить твои собственные изображения'
+    title: 'Challenge: add your own images'
