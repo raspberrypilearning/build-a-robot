@@ -1,32 +1,32 @@
 ---
-Title: Xây dựng một robot
+Title: Build a robot
 hero_image: images/build-a-robot.png
-theme: màu tím
+theme: violet
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, thiết kế-1, lập trình-0, Phys-comp-0, sản xuất-0, cộng đồng-0
-title: Xây dựng một robot
-description: Tìm hiểu cách định vị hình ảnh để thiết kế robot của riêng bạn
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Build a robot
+description: Learn how to position images to design your own robot
 original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
-interests: nghệ thuật
+interests: art
 technologies: html-css-javascript
-site_areas: các dự án
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Giới thiệu
+    title: Introduction
   - 
-    title: Những thứ bạn sẽ cần
+    title: What you will need
   - 
-    title: Thêm mắt cho robot của bạn
+    title: Giving your robot eyes
   - 
-    title: Thêm miệng cho robot của bạn
+    title: Giving your robot a mouth
   - 
-    title: 'Thử thách: tạo thiết kế riêng của bạn'
+    title: 'Challenge: your own design'
   - 
-    title: 'Thử thách: thêm hình ảnh của riêng bạn'
+    title: 'Challenge: add your own images'
