@@ -8,16 +8,16 @@ Use whatever drawing software you have on your computer to draw some new robot p
 
 ![screenshot](images/robot-eyes-edit.png)
 
-+ Poté nahraj `.png` obrázek do svého trinket projektu:
++ Then upload the `.png` image into your trinket:
 
 ![screenshot](images/robot-image-add.png)
 
-+ Přidej obrázek do `index.html`: 
++ Add the image to `index.html`: 
 
     <img id="purpleeyes" src="purpleeyes.png">
     
 
-+ A také přidej CSS kód do `style.css` k umístění součástky na správné místo:
++ And add CSS code to `style.css` to position it:
 
 ![screenshot](images/robot-use-purple-eyes.png)
 
