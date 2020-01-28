@@ -1,52 +1,52 @@
-## Задать роботу глаза
+## Giving your robot eyes
 
-Давай дадим твоему роботу глаза!
+Let’s give your robot some eyes!
 
-+ Открой [этот trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
-    Проект должен выглядеть следующим образом:
+    The project should look like this:
     
-    ![снимок экрана](images/robot-starter.png)
+    ![screenshot](images/robot-starter.png)
 
-Каждое изображение в этом проекте имеет свое имя или **`id`** (идентификатор). Например, HTML-код для использования изображений лица и глаз ['face' (лицо на англ.), 'eyes1' (глаза1 на англ.) и 'eyes2', начиная со строки 8 вашего кода] выглядит следующим образом:
+Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
 
     <img id="face" ...>
     <img id="eyes1" ...>
     <img id="eyes2" ...>
     
 
-Ты можешь использовать `id` изображения для того, чтобы задать его собственный стиль, используя CSS и символ `#`. Это позволит тебе стилизовать каждое изображение отдельно.
+You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
 
-Нажми на файл `style.css`. Заметь, как различаются размеры лица робота и другие изображения.
+Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
 
-![снимок экрана](images/robot-id.png)
+![screenshot](images/robot-id.png)
 
-+ Добавь этот CSS-код для стилизации глаз робота:
++ Add this CSS code to style the robot’s eyes:
     
         #eyes1 {
         width: 200px;
         }
         
 
-Обратите внимание, что ты стилизуешь только изображение `eyes1`, используя `#eyes1` в твоём CSS-коде. Если тебе не нравятся эти глаза, ты можешь использовать вместо них `#eyes2` или `#eyes3`!
+Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
 
-![снимок экрана](images/robot-eyes-width.png)
+![screenshot](images/robot-eyes-width.png)
 
-Обрати внимание, как каждое изображение отображается одно за другим. Это называется **относительным** позиционированием. Если ты хочешь указать браузеру точные координаты для размещения глаз твоего робота, тебе нужно использовать **абсолютное** позиционирование.
+Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
 
-+ Добавь эти три строки в CSS-код для твоего изображения `eyes1`:
++ Add these three lines to the CSS code for your `eyes1` image:
     
         position: absolute;
         top: 200px;
         left: 100px;
         
 
-Ты должен увидеть, что глаза твоего робота будут перемещены в правильное место на нём.
+You should see that your robot’s eyes move to the correct place on your robot.
 
-![снимок экрана](images/robot-eyes-position.png)
+![screenshot](images/robot-eyes-position.png)
 
-Этот CSS-код сообщает браузеру, как далеко от верхнего левого угла веб-страницы располагается изображение.
+This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
 
-![снимок экрана](images/robot-eyes-position2.png)
+![screenshot](images/robot-eyes-position2.png)
 
-Ты можешь использовать `bottom` (дно) вместо `top` (вершина), чтобы сообщить браузеру, как далеко от нижней части экрана показывать изображение, а также `right` вместо `left`.
+You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
