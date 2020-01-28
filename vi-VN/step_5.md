@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Thử thách: tạo thiết kế riêng của bạn
+## Challenge: your own design
 
-Sử dụng những gì bạn đã học để hoàn thành thiết kế robot của riêng bạn. Dưới đây là một số ví dụ về cách robot của bạn có thể trông giống:
+Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
 
-![ảnh chụp màn hình](images/robot-examples.png)
+![screenshot](images/robot-examples.png)
 
 \--- /challenge \---
