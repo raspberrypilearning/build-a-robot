@@ -14,7 +14,7 @@ Let’s give your robot a mouth!
 
 Your robot’s mouth looks quite small, and it isn’t in the right place!
 
-![captura de pantalla](images/robot-mouth.png)
+![screenshot](images/robot-mouth.png)
 
 - Can you fix this by making changes to your CSS code?
 
