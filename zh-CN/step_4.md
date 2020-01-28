@@ -1,10 +1,10 @@
-## 给你的机器人装上嘴巴
+## Giving your robot a mouth
 
-让我们来给你的机器人装上嘴巴！
+Let’s give your robot a mouth!
 
-- 将下列CSS编码添加到`style.css`底部来创造你的机器人`嘴巴`图像:
+- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
     
-        #嘴巴1 {
+        #mouth1 {
             width: 50px;
             position: absolute;
             top: 200px;
@@ -12,11 +12,11 @@
         }
         
 
-你的机器人的嘴巴看起来很小，并且它不在正确的位置！
+Your robot’s mouth looks quite small, and it isn’t in the right place!
 
-![截图](images/robot-mouth.png)
+![screenshot](images/robot-mouth.png)
 
-- 你能通过更改CSS代码来解决这个问题吗？
+- Can you fix this by making changes to your CSS code?
 
 \--- hints \---
 
