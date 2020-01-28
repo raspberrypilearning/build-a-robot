@@ -1,21 +1,21 @@
-## Giới thiệu
+## Introduction
 
-Trong dự án này, bạn sẽ học cách định vị hình ảnh để thiết kế robot của riêng bạn!
+In this project, you’ll learn how to position images to design your own robot!
 
-### Những thứ bạn sẽ làm
+### What you will make
 
-Sử dụng CSS để định vị các bộ phận robot để lắp ráp robot của bạn.
+Use CSS to position robot parts to assemble your own robot.
 
-![ảnh chụp màn hình](images/robot-final.png)
+![screenshot](images/robot-final.png)
 
-### Những gì bạn sẽ học
+### What you will learn
 
-Dự án này bao gồm các phần và kiến thức trong [Giáo trình Raspberry Pi Digital Making](http://rpf.io/curriculum){:target="_blank"} sau đây:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Sử dụng cấu trúc lập trình cơ bản để tạo ra các chương trình đơn giản](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Thông tin bổ sung cho lãnh đạo của các câu lạc bộ
+### Additional information for club leaders
 
-Nếu bạn cần in dự án này, vui lòng sử dụng [bản in](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
 
-Sử dụng đường link ở cuối trang để truy cập vào repo GitHub cho dự án này, nơi chứa tất cả các tài nguyên (bao gồm một dự án mẫu đã hoàn thành) trong thư mục 'en/resources'.
+Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
