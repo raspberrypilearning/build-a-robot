@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Izazov: dodaj svoje slike
+## Challenge: add your own images
 
-Možeš li da izradiš slike koje ćeš dodati svom robotu i pozicionirati ih na svojoj veb-stranici?
+Can you create images to add to your robot, and position them on your webpage?
 
 Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
 
