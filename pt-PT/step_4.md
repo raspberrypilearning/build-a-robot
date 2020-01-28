@@ -24,15 +24,15 @@ A boca do teu robô parece bem pequena e não está no lugar certo!
 
 Precisas de alterar as posições da `(largura) width`, o `(topo) top` e a `(esquerda) left` para `mouth1` n ` style.css `.
 
-Tente valores diferentes até que pareçam da maneira que tu desejas.
+Try different values until it looks the way you want.
 
 \--- /hint \---
 
 \--- hint \---
 
-Deves ver algo parecido com isto:
+You should have something like this:
 
-![captura de ecrã](images/robot-mouth-code.png)
+![screenshot](images/robot-mouth-code.png)
 
 \--- /hint \---
 
