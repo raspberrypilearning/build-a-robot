@@ -1,22 +1,22 @@
-## Thêm miệng cho robot của bạn
+## Giving your robot a mouth
 
-Hãy thêm miệng cho robot của bạn!
+Let’s give your robot a mouth!
 
-- Thêm mã CSS sau vào cuối `style.css` để tạo kiểu hình ảnh cho `mouth1` của bạn:
+- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
     
-        # mouth1 {
-            chiều rộng: 50px;
-            vị trí: tuyệt đối;
-            đầu: 200px;
-            trái: 200px;
+        #mouth1 {
+            width: 50px;
+            position: absolute;
+            top: 200px;
+            left: 200px;
         }
         
 
-Miệng robot của bạn trông khá nhỏ và không đúng chỗ!
+Your robot’s mouth looks quite small, and it isn’t in the right place!
 
-![ảnh chụp màn hình](images/robot-mouth.png)
+![screenshot](images/robot-mouth.png)
 
-- Bạn có thể khắc phục điều này bằng cách thay đổi mã CSS của bạn không?
+- Can you fix this by making changes to your CSS code?
 
 \--- hints \---
 
