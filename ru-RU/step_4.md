@@ -22,7 +22,7 @@
 
 \--- hint \---
 
-You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+Тебе нужно будет изменить `width` и позиции `top` и `left` для `mouth1` в файле `style.css`.
 
 Try different values until it looks the way you want.
 
