@@ -1,52 +1,52 @@
-## أعطِ روبوتك عيوناً
+## Giving your robot eyes
 
-لنعطِ روبوتك بعض العيون!
+Let’s give your robot some eyes!
 
-+ افتح [هذا الـ trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
-    يجب أن يظهر المشروع بالشكل التالي:
+    The project should look like this:
     
-    ![لقطة الشاشة](images/robot-starter.png)
+    ![screenshot](images/robot-starter.png)
 
-كل صورة في هذا المشروع تملك اسماً خاصاً (أو **`id`**). فمثلاً، كود الـ HTML اللازم لتحديد صور الوجه والعين (‘face’, ‘eyes1’, ‘eyes2 ابتداءً من السطر 8 من الكود الخاص بك) سيكون كالتالي:
+Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
 
     <img id="face" ...>
     <img id="eyes1" ...>
     <img id="eyes2" ...>
     
 
-يمكنك استعمال `id` أي صورة لتعطيها تنسيقها الخاص، وذلك باستخدام CSS ورمز الـ `#`. يتيح لك هذا تنسيق كل صورة بشكل منفصل.
+You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
 
-اضغط على ملف `style.css`. هل لاحظت الاختلاف بين حجم وجه الروبوت وأحجام الصور الأخرى؟
+Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
 
-![لقطة الشاشة](images/robot-id.png)
+![screenshot](images/robot-id.png)
 
-+ أضف كود الـ CSS التالي لتعديل تصميم عيون الروبوت:
++ Add this CSS code to style the robot’s eyes:
     
         #eyes1 {
         width: 200px;
         }
         
 
-لاحظ أنك تقوم بتعديل تصميم صورة العين الأولى `eyes1` فقط عند استخدام `#eyes1` في كود الـ CSS. إذا كنت تفضل أعيناً مختلفة، بإمكانك استخدام `#eyes2` أو `#eyes3` بدلاً من ذلك!
+Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
 
-![لقطة الشاشة](images/robot-eyes-width.png)
+![screenshot](images/robot-eyes-width.png)
 
-هل لاحظت كيف تم عرض كل صورة تلو الأخرى؟ هذا يسمى بالتوضّع **النسبي (relative)**. إذا أردت إخبار المتصفح أين يجب أن تظهر أعين الروبوت بالتحديد، يجب أن تستخدم التوضّع **المطلق (absolute)** بدلاً من ذلك.
+Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
 
-+ قم بإضافة الأسطر الثلاثة التالية لكود الـ CSS الخاص بصورة العين `eyes1`:
++ Add these three lines to the CSS code for your `eyes1` image:
     
         position: absolute;
         top: 200px;
         left: 100px;
         
 
-سترى الآن أن أعين الروبوت انتقلت إلى المكان الصحيح في وجه روبوتك.
+You should see that your robot’s eyes move to the correct place on your robot.
 
-![لقطة الشاشة](images/robot-eyes-position.png)
+![screenshot](images/robot-eyes-position.png)
 
-كود الـ CSS هذا يخبر المتصفح ما هو بعد الصورة عن الزاوية العليا اليمينية لصفحة الويب ليعرضها هناك.
+This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
 
-![لقطة الشاشة](images/robot-eyes-position2.png)
+![screenshot](images/robot-eyes-position2.png)
 
-بإمكانك استخدام `bottom` بدلاً من `top` لتخبر المتصفح كم يجب أن تبعد الصورة عن أسفل الشاشة، كذلك أيضاً يمكن استخدام `right` عوضاً عن `left`.
+You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
