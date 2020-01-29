@@ -14,7 +14,7 @@
 
 Рот твоего робота выглядит совсем маленьким, к тому же он не в том месте!
 
-![screenshot](images/robot-mouth.png)
+![снимок экрана](images/robot-mouth.png)
 
 - Можешь ли ты исправить это, внеся изменения в свой CSS-код?
 
@@ -22,18 +22,18 @@
 
 \--- hint \---
 
-You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+Тебе нужно будет изменить `width` и позиции `top` и `left` для `mouth1` в файле `style.css`.
 
-Try different values until it looks the way you want.
+Попробуй разные значения, пока все не будет выглядеть так, как ты бы хотел.
 
-\--- /hint \---
+\--- подсказка \---
 
-\--- hint \---
+\--- подсказка \---
 
-You should have something like this:
+У тебя должно получиться что-то вроде этого:
 
-![screenshot](images/robot-mouth-code.png)
+![снимок экрана](images/robot-mouth-code.png)
 
-\--- /hint \---
+\--- подсказка \---
 
-\--- /hints \---
+\--- подсказки \---
