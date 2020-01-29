@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: your own design
+## Задача: твой собственный дизайн
 
-Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+Используй то, что ты сегодня узнал, чтобы закончить разработку собственного робота. Вот несколько примеров того, как твой робот может выглядеть:
 
-![screenshot](images/robot-examples.png)
+![снимок экрана](images/robot-examples.png)
 
 \--- /challenge \---
