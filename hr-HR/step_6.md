@@ -26,9 +26,10 @@ Možete koristiti softver za crtanje po želji da nacrtate neke nove dijelove ro
 --- /challenge ---
 
 ***
+Ovaj su projekt preveli volonteri:
 
-## Prijevod članova zajednice 
+**Marin Vitaljić**
 
-Ovaj je projekt preveo/la **Marin Vitaljić** i pregledao/la **Ivana Vezjak**. 
+**Ivana Vezjak**
 
-Naši nevjerojatni volonteri prevoditelji pomažu nam da djeci širom svijeta pružimo priliku da nauče programirati. Možete nam pomoći da dosegnemo više djece prevođenjem naših projekata - pročitajte više na [rpf.io/translate](https://rpf.io/translate).
+Zahvaljujući volonterima, možemo pružiti ljudima širom svijeta priliku da uče na svom jeziku. Možete nam pomoći da dođemo do većeg broja ljudi tako da postanete volonter prevoditelj. Više informacija možete pronaći na [rpf.io/translate](https://rpf.io/translate).
