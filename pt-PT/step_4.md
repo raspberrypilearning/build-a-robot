@@ -30,7 +30,7 @@ Try different values until it looks the way you want.
 
 \--- hint \---
 
-You should have something like this:
+Deves ver algo parecido com isto:
 
 ![screenshot](images/robot-mouth-code.png)
 
