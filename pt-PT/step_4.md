@@ -1,6 +1,6 @@
-## Giving your robot a mouth
+## Dando uma boca ao teu robô
 
-Let’s give your robot a mouth!
+Vamos dar uma boca ao teu robô!
 
 - Adicione o seguinte código CSS no final do ficheiro ` style.css ` para estilizar a imagem ` mouth1 `:
     
@@ -12,11 +12,11 @@ Let’s give your robot a mouth!
         }
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+A boca do teu robô parece bem pequena e não está no lugar certo!
 
 ![captura de ecrã](images/robot-mouth.png)
 
-- Can you fix this by making changes to your CSS code?
+- Podes corrigir isso fazendo alterações ao teu código CSS?
 
 \--- hints \---
 
@@ -24,15 +24,15 @@ Your robot’s mouth looks quite small, and it isn’t in the right place!
 
 Precisas de alterar as posições da `(largura) width`, o `(topo) top` e a `(esquerda) left` para `mouth1` n ` style.css `.
 
-Try different values until it looks the way you want.
+Experimenta valores diferentes até que fique da maneira que queres.
 
 \--- /hint \---
 
 \--- hint \---
 
-You should have something like this:
+Deves ver algo parecido com isto:
 
-![screenshot](images/robot-mouth-code.png)
+![captura de ecrã](images/robot-mouth-code.png)
 
 \--- /hint \---
 
