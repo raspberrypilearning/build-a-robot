@@ -14,7 +14,7 @@
 
 + 將圖片加入 `index.html`： 
 
-    <img id="purpleeyes" src="purpleeyes.png">
+        <img id="purpleeyes" src="purpleeyes.png">
     
 
 + 接著在 `style.css` 裡加入這些CSS程式碼來固定它：
