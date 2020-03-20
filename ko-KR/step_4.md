@@ -22,17 +22,17 @@
 
 \--- hint \---
 
-You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+`style.css` 파일의 `mouth1` 안에서, `width`로 너비를, `top`, `left`로 위치를 변경하면 이 문제를 해결할 수 있습니다.
 
-Try different values until it looks the way you want.
+원하는 모양으로 보일 때까지 다른 값을 사용해보세요. 
 
 \--- /hint \---
 
 \--- hint \---
 
-You should have something like this:
+아래와 같이 보일 것입니다:
 
-![screenshot](images/robot-mouth-code.png)
+![스크린샷](images/robot-mouth-code.png)
 
 \--- /hint \---
 
