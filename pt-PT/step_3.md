@@ -28,7 +28,7 @@ Clica no ficheiro ` style.css `. Observas como o tamanho do rosto do robô e as 
         }
         
 
-Nota que estás a estilar apenas a imagem `eyes1`, ao usar `#eyes1` no teu código CSS. Se preferires olhos diferentes, podes usar ` # eyes2 ` ou ` # eyes3 `!
+Nota que estás a estilar apenas a imagem `eyes1`, ao usar `#eyes1` no teu código CSS. Se preferires olhos diferentes, podes usar `#eyes2` ou `#eyes3`!
 
 ![captura de ecrã](images/robot-eyes-width.png)
 
@@ -49,4 +49,4 @@ Este código CSS indica ao navegador a que distância do canto superior esquerdo
 
 ![captura de ecrã](images/robot-eyes-position2.png)
 
-Podes usar ` bottom ` (inferior) em vez de ` top ` (topo) para indicar ao navegador a que distância da parte inferior do ecrã deverá mostrar a imagem, bem como ` right `(direita) em vez de ` left ` (esquerda).
+Podes usar `bottom` (inferior) em vez de `top` (topo) para indicar ao navegador a que distância da parte inferior do ecrã deverá mostrar a imagem, bem como `right`(direita) em vez de `left` (esquerda).

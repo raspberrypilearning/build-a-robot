@@ -12,12 +12,11 @@ Usa qualquer software de desenho que tenhas no teu computador para desenhar algu
 
 ![captura de ecrã](images/robot-image-add.png)
 
-+ Adiciona a imagem a ` index.html `: 
++ Adiciona a imagem a `index.html`: 
 
-    <img id="purpleeyes" src="purpleeyes.png">
+<img id="purpleeyes" src="purpleeyes.png">
     
-
-+ E adiciona o código CSS ao ` style.css ` para posicionar:
++ E adiciona o código CSS ao `style.css` para posicionar:
 
 ![captura de ecrã](images/robot-use-purple-eyes.png)
 

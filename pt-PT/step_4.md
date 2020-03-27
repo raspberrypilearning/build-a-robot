@@ -2,7 +2,7 @@
 
 Vamos dar uma boca ao teu robô!
 
-- Adicione o seguinte código CSS no final do ficheiro ` style.css ` para estilizar a imagem ` mouth1 `:
+- Adicione o seguinte código CSS no final do ficheiro `style.css` para estilizar a imagem `mouth1`:
     
         #mouth1 {
             width: 50px;
@@ -22,7 +22,7 @@ A boca do teu robô parece bem pequena e não está no lugar certo!
 
 --- hint ---
 
-Precisas de alterar as posições da `(largura) width`, o `(topo) top` e a `(esquerda) left` para `mouth1` n ` style.css `.
+Precisas de alterar as posições da `(largura) width`, o `(topo) top` e a `(esquerda) left` para `mouth1` n `style.css`.
 
 Experimenta valores diferentes até que fique da maneira que queres.
 
