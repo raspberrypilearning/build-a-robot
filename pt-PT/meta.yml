@@ -1,0 +1,26 @@
+---
+Title: Constrói um robô
+hero_image: images/build-a-robot.png
+theme: violet
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Constrói um robô
+description: Aprende a posicionar imagens para desenhar o teu próprio robô
+original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Introdução
+  - title: O que vais precisar
+  - title: Dando olhos ao teu robô
+  - title: Dando uma boca ao teu robô
+  - title: 'Desafio: o teu próprio desenho'
+  - title: 'Desafio: adiciona as tuas imagens'
