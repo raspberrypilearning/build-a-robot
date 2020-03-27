@@ -14,7 +14,9 @@ Usa qualquer software de desenho que tenhas no teu computador para desenhar algu
 
 + Adiciona a imagem a `index.html`: 
 
+```
 <img id="purpleeyes" src="purpleeyes.png">
+```
     
 + E adiciona o código CSS ao `style.css` para posicionar:
 
