@@ -1,14 +1,14 @@
 ## Giving your robot eyes
 
-Let’s give your robot some eyes!
+لنعطِ روبوتك بعض العيون!
 
-+ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ افتح [هذا الـ trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
-    The project should look like this:
+    يجب أن يظهر المشروع بالشكل التالي:
     
     ![screenshot](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+كل صورة في هذا المشروع تملك اسماً خاصاً (أو **`id`**). فمثلاً، كود الـ HTML اللازم لتحديد صور الوجه والعين (‘face’, ‘eyes1’, ‘eyes2 ابتداءً من السطر 8 من الكود الخاص بك) سيكون كالتالي:
 
     <img id="face" ...>
     <img id="eyes1" ...>
