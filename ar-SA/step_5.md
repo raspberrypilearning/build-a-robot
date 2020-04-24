@@ -1,9 +1,9 @@
 \--- تحدي \---
 
-## Challenge: your own design
+## تحدي: تصميمك الخاص
 
-Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+باستخدام ما تعلمته، قم بتصميم روبوتك الخاص. إليك بعض الأمثلة حول كيف من الممكن أن يبدو شكل الروبوت:
 
-![screenshot](images/robot-examples.png)
+![لقطة شاشة](images/robot-examples.png)
 
 \--- /challenge \---
