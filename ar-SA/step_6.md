@@ -13,9 +13,9 @@
 ![لقطة الشاشة](images/robot-image-add.png)
 
 + أضف الصورة إلى ملف `index.html`: 
-
+```
     <img id="purpleeyes" src="purpleeyes.png">
-    
+```    
 
 + وأضف رمز CSS إلى `style.css` لوضعه:
 
