@@ -1,8 +1,8 @@
-## Giving your robot a mouth
+## أعطِ روبوتك فماً
 
-Let’s give your robot a mouth!
+لنقم بإضافة فم لروبوتك!
 
-- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+- أضف الكود التالي في أسفل `style.css` لتنسيق صورة الفم `mouth1`:
     
         #mouth1 {
             width: 50px;
@@ -12,27 +12,27 @@ Let’s give your robot a mouth!
         }
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+يبدو أن هذا الفم صغير جداً، كما أنه ليس في مكانه الصحيح!
 
-![screenshot](images/robot-mouth.png)
+![لقطة الشاشة](images/robot-mouth.png)
 
-- Can you fix this by making changes to your CSS code?
+- هل بإمكانك إصلاح ذلك بإجراء بعض التعديلات على كود الـ CSS؟
 
 \--- hints \---
 
 \--- hint \---
 
-You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+ستحتاج إلى تغيير `العرض ` و `الأعلى ` و `اليسار ` لمواقع `mouth1` في `style.css`.
 
-Try different values until it looks the way you want.
+جرب قيما مختلفة حتى تبدو كما تريد.
 
 \--- /hint \---
 
 \--- hint \---
 
-You should have something like this:
+يجب أن يكون لديك شيء كهذا:
 
-![screenshot](images/robot-mouth-code.png)
+![لقطة الشاشة](images/robot-mouth-code.png)
 
 \--- /hint \---
 
