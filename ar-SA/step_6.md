@@ -1,24 +1,24 @@
 \--- challenge \---
 
-## Challenge: add your own images
+## تحدي: أضف صورك الخاصة
 
-Can you create images to add to your robot, and position them on your webpage?
+هل يمكنك إنشاء صور لإضافتها إلى الروبوت، ووضعها على صفحة الويب الخاصة بك؟
 
-Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
+استخدم أي برنامج رسم لديك على جهاز الكمبيوتر الخاص بك لرسم بعض قطع الروبوت الجديدة، وحفظها كصورة `.png`.
 
-![screenshot](images/robot-eyes-edit.png)
+![لقطة الشاشة](images/robot-eyes-edit.png)
 
-+ Then upload the `.png` image into your trinket:
++ ومن ثم قم بتحميل ملف الـ `.png` للصورة إلى صفحة الـ trinket:
 
-![screenshot](images/robot-image-add.png)
+![لقطة الشاشة](images/robot-image-add.png)
 
-+ Add the image to `index.html`: 
++ أضف الصورة إلى ملف `index.html`: 
 
     <img id="purpleeyes" src="purpleeyes.png">
     
 
-+ And add CSS code to `style.css` to position it:
++ وأضف رمز CSS إلى `style.css` لوضعه:
 
-![screenshot](images/robot-use-purple-eyes.png)
+![لقطة الشاشة](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
