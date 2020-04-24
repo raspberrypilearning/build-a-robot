@@ -1,12 +1,12 @@
-## Introduction
+## مقدمة
 
-In this project, you’ll learn how to position images to design your own robot!
+في هذا المشروع، سوف تتعلم كيفية وضع الصور لتصميم روبوتك الخاص!
 
 ### ما الذي ستصنعه
 
-Use CSS to position robot parts to assemble your own robot.
+ستستخدم الـ CSS لترتيب أجزاء الروبوت وتصميم الروبوت الخاص بك.
 
-![screenshot](images/robot-final.png)
+![لقطة شاشة](images/robot-final.png)
 
 ### ما الذي ستتعلمه
 
@@ -18,4 +18,4 @@ Use CSS to position robot parts to assemble your own robot.
 
 إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء استخدام [نسخة متوافقة مع الطابعة](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+استخدم الرابط الموجود في تذييل الصفحة للوصول إلى مستودع GitHub الخاص بهذا المشروع، والذي يضم كل الموارد (بما في ذلك مثال لنموذج مكتمل) في مجلد ‘ar-Sa/resources’.
