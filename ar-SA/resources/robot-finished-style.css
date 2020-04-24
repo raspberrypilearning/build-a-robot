@@ -4,7 +4,7 @@ img {
 #face {
   width: 400px;
 }
-#eyes1 {
+# eyes1 {
   width: 200px;
   position: absolute;
   top: 200px;
@@ -16,7 +16,7 @@ img {
   top: 250px;
   left: 170px;
 }      
-#mouth1 {
+# mouth1 {
   width: 100px;
   position: absolute;
   top: 330px;
