@@ -1,21 +1,21 @@
-## Introduction
+## પરિચય
 
-In this project, you’ll learn how to position images to design your own robot!
+આ પ્રોજેક્ટમાં, તમે તમારા પોતાના રોબોટની રચના કરવા માટે છબીઓ કેવી રીતે ગોઠવવી તે શીખી શકશો!
 
-### What you will make
+### તમે શું બનાવશો
 
-Use CSS to position robot parts to assemble your own robot.
+તમારા પોતાના રોબોટને એસેમ્બલ કરવા માટે રોબોટના ભાગોને સ્થિત કરવા માટે CSS નો ઉપયોગ કરો.
 
-![screenshot](images/robot-final.png)
+![સ્ક્રીનશોટ](images/robot-final.png)
 
-### What you will learn
+### તમે શું શીખી શકશો
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+આ પ્રોજેક્ટમાં [રાસ્પબરી પી ડિજિટલ મેકિંગ](http://rpf.io/curriculum){:target="_blank"}: અભ્યાસક્રમના નીચેના સેરના તત્વોનો સમાવેશ કરવામાં આવ્યો છે:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [ સરળ પ્રોગ્રામ બનાવવા માટે મૂળભૂત પ્રોગ્રામિંગ કન્સ્ટ્રક્ચર્સનો ઉપયોગ કરો ](https://www.raspberrypi.org/curriculum/programming/creator) {:target="_blank"}
 
-### Additional information for club leaders
+### ક્લબ નેતાઓ માટે વધારાની માહિતી
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
+જો તમારે આ પ્રોજેક્ટને છાપવાની જરૂર હોય, તો કૃપા કરીને આનો ઉપયોગ કરો [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+આ પ્રોજેક્ટ માટેના ગિટહબ રેપોને વાપરવા માટે ફૂટરમાંની લિંકનો ઉપયોગ કરો, જેમાં ‘en/resources’ ફોલ્ડરમાં બધા સંસાધનો (ઉદાહરણ તરીકે સમાપ્ત પ્રોજેક્ટ સહિત) શામેલ છે.
