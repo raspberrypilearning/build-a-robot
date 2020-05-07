@@ -1,52 +1,52 @@
-## Giving your robot eyes
+## Thêm mắt cho robot của bạn
 
-Let’s give your robot some eyes!
+Hãy thêm mắt cho robot của bạn!
 
-+ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ Mở [trinket này](http://jumpto.cc/web-robot) {:target ="_blank"}.
     
-    The project should look like this:
+    Dự án sẽ trông giống như thế này:
     
-    ![screenshot](images/robot-starter.png)
+    ![ảnh chụp màn hình](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+Mỗi hình ảnh trong dự án này có tên riêng (hoặc **`id`**). Ví dụ: mã HTML để xử lý các hình ảnh khuôn mặt và mắt ('face', 'eyes1' và 'eyes2', bắt đầu từ dòng 8 của mã của bạn) trông như thế này:
 
     <img id="face" ...>
     <img id="eyes1" ...>
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+Bạn có thể sử dụng `id` của hình ảnh để tạo cho nó phong cách riêng, bằng cách sử dụng CSS và ký hiệu `#`. Điều này cho phép bạn tạo phong cách riêng cho từng hình ảnh.
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+Nhấp vào tập tin `style.css`. Chú ý kích thước khuôn mặt của robot và các hình ảnh khác nhau như thế nào?
 
-![screenshot](images/robot-id.png)
+![ảnh chụp màn hình](images/robot-id.png)
 
-+ Add this CSS code to style the robot’s eyes:
++ Thêm mã CSS này để tạo kiểu mắt cho robot:
     
         #eyes1 {
         width: 200px;
         }
         
 
-Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+Lưu ý rằng bạn đang tạo kiểu chỉ cho hình ảnh `eyes1`, bằng cách sử dụng `#eyes1` trong mã CSS của bạn. Nếu bạn thích đôi mắt khác nhau, bạn có thể sử dụng `#eyes2` hoặc `#eyes3` thay thế!
 
-![screenshot](images/robot-eyes-width.png)
+![ảnh chụp màn hình](images/robot-eyes-width.png)
 
-Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+Bạn có thấy cách mỗi hình ảnh được hiển thị lần lượt? Điều này được gọi là định vị tương đối **relative**. Nếu bạn muốn cho trình duyệt biết chính xác nơi đặt mắt robot của bạn, bạn sẽ cần sử dụng định vị tuyệt đối **absolute** thay thế.
 
-+ Add these three lines to the CSS code for your `eyes1` image:
++ Thêm ba dòng này vào mã CSS cho hình ảnh `eyes1` của bạn:
     
         position: absolute;
         top: 200px;
         left: 100px;
         
 
-You should see that your robot’s eyes move to the correct place on your robot.
+Bạn sẽ thấy mắt của robot di chuyển đến đúng vị trí trên robot của bạn.
 
-![screenshot](images/robot-eyes-position.png)
+![ảnh chụp màn hình](images/robot-eyes-position.png)
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+Mã CSS này cho trình duyệt biết vị trí hiển thị hình ảnh cách góc trên bên trái của trang web bao xa.
 
-![screenshot](images/robot-eyes-position2.png)
+![ảnh chụp màn hình](images/robot-eyes-position2.png)
 
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
+Bạn có thể sử dụng `bottom` thay vì `top` để cho trình duyệt biết hiển thị hình ảnh cách cuối màn hình bao xa, cũng như `right` phải, hay `left`, trái.
