@@ -1,24 +1,24 @@
-\--- challenge \---
+\--- thử thách \---
 
-## Challenge: add your own images
+## Thử thách: thêm hình ảnh của riêng bạn
 
-Can you create images to add to your robot, and position them on your webpage?
+Bạn có thể tạo hình ảnh để thêm vào robot của bạn và đặt chúng trên trang web của bạn không?
 
-Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
+Sử dụng bất kỳ phần mềm vẽ nào bạn có trên máy tính để vẽ một số bộ phận robot mới và lưu nó dưới dạng file hình ảnh `.png`.
 
-![screenshot](images/robot-eyes-edit.png)
+![ảnh chụp màn hình](images/robot-eyes-edit.png)
 
-+ Then upload the `.png` image into your trinket:
++ Sau đó tải lên hình ảnh `.png` vào trinket của bạn:
 
-![screenshot](images/robot-image-add.png)
+![ảnh chụp màn hình](images/robot-image-add.png)
 
-+ Add the image to `index.html`: 
++ Thêm hình ảnh vào `index.html`: 
 
     <img id="purpleeyes" src="purpleeyes.png">
     
 
-+ And add CSS code to `style.css` to position it:
++ Và thêm mã CSS vào `style.css` để định vị nó:
 
-![screenshot](images/robot-use-purple-eyes.png)
+![ảnh chụp màn hình](images/robot-use-purple-eyes.png)
 
-\--- /challenge \---
+\--- /thử thách \---
