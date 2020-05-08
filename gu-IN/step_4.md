@@ -1,8 +1,8 @@
 ## Giving your robot a mouth
 
-Let’s give your robot a mouth!
+ચાલો તમારા રોબોટને મોં આપીએ!
 
-- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+- તમારી `mouth1` છબીને સ્ટાઇલ કરવા માટે આ `style.css` સીએસએસ કોડને તળિયે ઉમેરો:
     
         #mouth1 {
             width: 50px;
@@ -12,27 +12,27 @@ Let’s give your robot a mouth!
         }
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+તમારા રોબોટનું મોં એકદમ નાનું લાગે છે, અને તે યોગ્ય જગ્યાએ નથી!
 
-![screenshot](images/robot-mouth.png)
+![સ્ક્રીનશોટ](images/robot-mouth.png)
 
-- Can you fix this by making changes to your CSS code?
+- શું તમે તમારા સીએસએસ કોડમાં ફેરફાર કરીને તેને ઠીક કરી શકો છો?
 
 \--- hints \---
 
 \--- hint \---
 
-You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+તમારે `style.css` માં `mouth1`` માટે <code>width` અને `top` અને <0>left</code> પોઝિશન/સ્થિતિમાં ફેરફાર કરવાની જરૂર પડશે.
 
-Try different values until it looks the way you want.
+વિવિધ મૂલ્યો અજમાવો જ્યાં સુધી તમને જે જોઈએ છે તે દેખાવ ન મળે ત્યાં સુધી.
 
 \--- /hint \---
 
 \--- hint \---
 
-You should have something like this:
+તમારી પાસે આવું કંઈક હોવું જોઈએ:
 
-![screenshot](images/robot-mouth-code.png)
+![સ્ક્રીનશોટ](images/robot-mouth-code.png)
 
 \--- /hint \---
 
