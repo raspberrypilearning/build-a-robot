@@ -1,27 +1,27 @@
-## Giving your robot eyes
+## রোবটটি কে চোখ দান করুন 
 
-Let’s give your robot some eyes!
+আসুন আপনার রোবটটি কে চোখ দিন!
 
-+ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ [এই ট্রিংকেটটি খুলুন](http://jumpto.cc/web-robot) {:target="_ blank"}।
     
-    The project should look like this:
+    আপনার প্রকল্প এমন দেখতে হওয়া উচিত:
     
-    ![screenshot](images/robot-starter.png)
+    ![স্ক্রীনশট](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+এই প্রকল্পের প্রতিটি চিত্রের নিজস্ব নাম আছে (অথবা **`id`**)। উদাহরণস্বরূপ, মুখ এবং চোখের চিত্রগুলিকে সম্বোধনের জন্য এইচটিএমএল কোড ('চেহারা', 'চোখ 1', এবং 'চোখ 2') এর মতো দেখাচ্ছে যা আপনার কোডের ৮ নাম্বার লাইন এ দেখা যাচ্ছে: 
 
     <img id="face" ...>
     <img id="eyes1" ...>
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+সিএসএস (CSS) এবং `#` চিন্হ ব্যবহার করে একটা ছবির `id` দিয়ে আপনার নিজস্ব ধরণ দিতে পারেন। আপনি প্রতিটা ছবির আলাদা আলাদা ধরণ বানাতে পারেন।
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+`style.css` ফাইলটির ওপর ক্লিক করুন। লক্ষ্য করুন রোবটের মুখের আকার এবং অন্যান্য চিত্রগুলি কিভাবে আলাদা।
 
-![screenshot](images/robot-id.png)
+![স্ক্রীনশট](images/robot-id.png)
 
-+ Add this CSS code to style the robot’s eyes:
++ রোবটের চোখের স্টাইল করতে এই সিএসএস (CSS) কোড যোগ করুন:
     
         #eyes1 {
         width: 200px;
