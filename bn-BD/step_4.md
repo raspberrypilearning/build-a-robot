@@ -1,6 +1,6 @@
-## Giving your robot a mouth
+## আপনার রোবটকে একটি মুখ দিন 
 
-Let’s give your robot a mouth!
+আসুন আপনার রোবটকে একটি মুখ দিন!
 
 - Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
     
