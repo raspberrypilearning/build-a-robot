@@ -4,6 +4,6 @@
 
 + [trinket.io](https://trinket.io){:target="_blank"} ওয়েবসাইট খুলতে করতে সক্ষম একটি কম্পিউটার
 
-### Software
+### সফটওয়্যার
 
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}.
+এই প্রকল্পটি সম্পন্ন করা যাবে, ওয়েব ব্রাউজারে [trinket.io](https://trinket.io){:target="_blank"} লিঙ্কটি খুলে ।
