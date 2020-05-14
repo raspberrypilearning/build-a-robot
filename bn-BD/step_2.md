@@ -1,8 +1,8 @@
-## What you will need
+## যা যা প্রয়োজন
 
-### Hardware
+### হার্ডওয়্যার
 
-+ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
++ [trinket.io](https://trinket.io){:target="_blank"} ওয়েবসাইট খুলতে করতে সক্ষম একটি কম্পিউটার
 
 ### Software
 
