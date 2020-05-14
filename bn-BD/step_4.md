@@ -2,7 +2,7 @@
 
 আসুন আপনার রোবটকে একটি মুখ দিন!
 
-- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+- আপনার `মুখ1` ছবিটি স্টাইল করতে `style.css` এর নীচে, নীচের সিএসএস (CSS) কোড যোগ করুন:
     
         #mouth1 {
             width: 50px;
@@ -12,11 +12,11 @@
         }
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+আপনার রোবটের মুখ দেখতে বেশ ছোট দেখাচ্ছে এবং এটি সঠিক জায়গায় নেই!
 
-![screenshot](images/robot-mouth.png)
+![স্ক্রীনশট](images/robot-mouth.png)
 
-- Can you fix this by making changes to your CSS code?
+- আপনার সিএসএস (CSS) কোড পরিবর্তন করে আপনি কি এটি ঠিক করতে পারবেন?
 
 \--- hints \---
 
