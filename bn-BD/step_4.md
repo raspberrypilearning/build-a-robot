@@ -22,17 +22,17 @@
 
 \--- hint \---
 
-You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+`style.css` ফাইলে `মুখ1` এর স্থানের জন্য `প্রস্থ ` এবং ` শীর্ষ ` এবং `বাম` অবস্থানগুলি পরিবর্তন করতে হবে।
 
-Try different values until it looks the way you want.
+এটি আপনার পছন্দ মতো দেখতে না পাওয়া পর্যন্ত বিভিন্ন মান ব্যবহার করে দেখুন।
 
 \--- /hint \---
 
 \--- hint \---
 
-You should have something like this:
+আপনার এইরকম কিছু হওয়া উচিত:
 
-![screenshot](images/robot-mouth-code.png)
+![স্ক্রীনশট](images/robot-mouth-code.png)
 
 \--- /hint \---
 
