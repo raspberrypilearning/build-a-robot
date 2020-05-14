@@ -2,8 +2,8 @@
 
 ## চ্যালেঞ্জ: আপনার নিজস্ব নকশা
 
-Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+আপনার নিজের রোবোট ডিজাইনিং শেষ করতে আপনি যা শিখেছেন তা ব্যবহার করুন। আপনার রোবটটি কেমন দেখাতে পারে তার কয়েকটি উদাহরণ এখানে রয়েছে:
 
-![screenshot](images/robot-examples.png)
+![স্ক্রীনশট](images/robot-examples.png)
 
 \--- /challenge \---
