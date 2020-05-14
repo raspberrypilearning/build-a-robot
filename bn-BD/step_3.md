@@ -28,25 +28,25 @@
         }
         
 
-Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+লক্ষ্য করুন যে আপনি নিজের সিএসএস (CSS) কোডে `#চোখ1` ব্যবহার করে কেবল `চোখ1` এর ছবি স্টাইল করছেন। আপনি যদি অন্য চোখ পছন্দ করেন তবে পরিবর্তে `#চোখ2` বা `# চোখ3` ব্যবহার করতে পারেন!
 
-![screenshot](images/robot-eyes-width.png)
+![স্ক্রীনশট](images/robot-eyes-width.png)
 
-Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+প্রতিটি ছবি একের পর এক প্রদর্শিত হয় তা লক্ষ্য করুন? একে **আপেক্ষিক</ 0> অবস্থান বলা হয়। আপনি যদি নিজের রোবটের চোখ ঠিক কোথায় রাখবেন ব্রাউজারকে বলতে চান, তাহলে আপনাকে **নিশ্চিত** পজিশনিং ব্যবহার করতে হবে।</p> 
 
-+ Add these three lines to the CSS code for your `eyes1` image:
++ আপনার `চোখ1` ছবির জন্য সিএসএস (CSS) কোডে এই তিনটি লাইন যোগ করুন:
     
         position: absolute;
         top: 200px;
         left: 100px;
         
 
-You should see that your robot’s eyes move to the correct place on your robot.
+আপনার দেখতে পাওয়া উচিত যে আপনার রোবটের চোখ আপনার রোবটের সঠিক জায়গায় চলে গেছে।
 
-![screenshot](images/robot-eyes-position.png)
+![স্ক্রীনশট](images/robot-eyes-position.png)
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+এই সিএসএস কোডটি ব্রাউজারটিকে ওয়েবপৃষ্ঠার উপরের বাম দিকের কোণটি থেকে ঠিক কতটা দূরে চিত্রটি প্রদর্শন করতে হবে তা বলে দেয়।
 
-![screenshot](images/robot-eyes-position2.png)
+![স্ক্রীনশট](images/robot-eyes-position2.png)
 
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
+ব্রাউজারটিকে যদি জানাতে চান যে চিত্রটি পর্দার নীচ থেকে কত দূরে প্রদর্শন করতে হবে তাহলে আপনি `top` এর বদলে `bottom` ব্যবহার করতে পারেন| আপনি বামদিকের বদলে যদি ডান দিকে প্রদর্শন করতে চান তাহলে `left` এর পরিবর্তে `right` লিখুন |
