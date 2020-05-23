@@ -32,21 +32,21 @@ Ten en cuenta que estás diseñando solo la imagen `eyes1`, usando `#eyes1` en t
 
 ![captura de pantalla](images/robot-eyes-width.png)
 
-Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+¿Observas cómo las imágenes se muestran una tras otra? Esto se llama posicionamiento **relative**. Si quieres decirle al navegador exactamente dónde colocar los ojos de tu robot, necesitarás usar posicionamiento **absolute** en su lugar.
 
-+ Add these three lines to the CSS code for your `eyes1` image:
++ Agrega estas tres líneas al código CSS para tu imagen `eyes1`:
     
         position: absolute;
         top: 200px;
         left: 100px;
         
 
-You should see that your robot’s eyes move to the correct place on your robot.
+Deberías ver que los ojos de tu robot se mueven al lugar correcto en tu robot.
 
-![screenshot](images/robot-eyes-position.png)
+![captura de pantalla](images/robot-eyes-position.png)
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+Este código CSS indica al navegador cuán lejos de la esquina superior izquierda de la página web debe aparecer la imagen.
 
-![screenshot](images/robot-eyes-position2.png)
+![captura de pantalla](images/robot-eyes-position2.png)
 
 You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
