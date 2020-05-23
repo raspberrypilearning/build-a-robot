@@ -10,9 +10,9 @@ curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Construye un robot
 description: Aprende cómo colocar imágenes para diseñar tu propio robot
 original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
-interests: art
+interests: arte
 technologies: html-css-javascript
-site_areas: projects
+site_areas: proyectos
 hardware: ''
 software: html-css-javascript
 version: 3
@@ -27,6 +27,6 @@ steps:
   - 
     title: Dándole una boca a tu robot
   - 
-    title: 'Challenge: your own design'
+    title: 'Desafío: tu propio diseño'
   - 
-    title: 'Challenge: add your own images'
+    title: 'Desafío: añade tus propias imágenes'
