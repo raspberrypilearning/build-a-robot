@@ -6,15 +6,15 @@
 
 Usa CSS para colocar las piezas del robot para ensamblar tu propio robot.
 
-![screenshot](images/robot-final.png)
+![captura de pantalla](images/robot-final.png)
 
-### What you will learn
+### Lo que aprenderás
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Additional information for club leaders
+### Información adicional para los líderes del club
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
 
