@@ -1,14 +1,14 @@
 ## Giving your robot eyes
 
-Let’s give your robot some eyes!
+¡Vamos a darle ojos a tu robot!
 
-+ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ Abre [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
     
-    The project should look like this:
+    El proyecto debe verse así:
     
-    ![screenshot](images/robot-starter.png)
+    ![captura de pantalla](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+Cada imagen en este proyecto tiene su proprio nombre (or **`id`**). Por ejemplo, el código HTML para dirigirse a las imágenes de la cara y los ojos (‘face’, ‘eyes1’, y ‘eyes2’, a partir de la línea 8 de tu código) se parece a esto:
 
     <img id="face" ...>
     <img id="eyes1" ...>
