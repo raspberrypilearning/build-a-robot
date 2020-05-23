@@ -1,8 +1,8 @@
 ## Giving your robot a mouth
 
-Let’s give your robot a mouth!
+¡Vamos a darle una boca a tu robot!
 
-- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+- Añade el siguiente código CSS en la parte inferior de `style.css` para diseñar tu imagen `mouth1`:
     
         #mouth1 {
             width: 50px;
@@ -12,9 +12,9 @@ Let’s give your robot a mouth!
         }
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+¡La boca de tu robot se ve bastante pequeña y no está en el lugar correcto!
 
-![screenshot](images/robot-mouth.png)
+![captura de pantalla](images/robot-mouth.png)
 
 - Can you fix this by making changes to your CSS code?
 
@@ -22,17 +22,17 @@ Your robot’s mouth looks quite small, and it isn’t in the right place!
 
 \--- hint \---
 
-You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+Necesitarás cambiar `width` y las posiciones `top` y `left` para `mouth1` en `style.css`.
 
-Try different values until it looks the way you want.
+Prueba diferentes valores hasta que tenga el aspecto que deseas.
 
 \--- /hint \---
 
 \--- hint \---
 
-You should have something like this:
+Deberías tener algo como esto:
 
-![screenshot](images/robot-mouth-code.png)
+![captura de pantalla](images/robot-mouth-code.png)
 
 \--- /hint \---
 
