@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: add your own images
+## Desafío: añade tus propias imágenes
 
-Can you create images to add to your robot, and position them on your webpage?
+¿Puedes crear imágenes para añadir a tu robot y colocarlas en tu página web?
 
-Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
+Usa cualquier software de dibujo que tengas en tu computadora para dibujar algunas partes nuevas del robot y guárdalo como imagen `.png`.
 
-![screenshot](images/robot-eyes-edit.png)
+![captura de pantalla](images/robot-eyes-edit.png)
 
 + Then upload the `.png` image into your trinket:
 
