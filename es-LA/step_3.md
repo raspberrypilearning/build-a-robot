@@ -49,4 +49,4 @@ Este código CSS indica al navegador cuán lejos de la esquina superior izquierd
 
 ![captura de pantalla](images/robot-eyes-position2.png)
 
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
+Puedes usar `bottom` en lugar de `top` para indicar al navegador cuán lejos de la parte inferior de la pantalla debe aparecer la imagen, así como `right` en lugar de `left`.
