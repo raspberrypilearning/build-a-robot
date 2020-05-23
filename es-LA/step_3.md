@@ -15,22 +15,22 @@ Cada imagen en este proyecto tiene su proprio nombre (or **`id`**). Por ejemplo,
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+Puedes usar el `id` de una imagen para darle su propio estilo, usando CSS y el símbolo `#`. Esto te permite diseñar cada imagen por separado.
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+Haga clic en el archivo `style.css`. ¿Observas cómo el tamaño de la cara del robot y las otras imágenes son diferentes?
 
-![screenshot](images/robot-id.png)
+![captura de pantalla](images/robot-id.png)
 
-+ Add this CSS code to style the robot’s eyes:
++ Agrega este código CSS para diseñar los ojos del robot:
     
         #eyes1 {
         width: 200px;
         }
         
 
-Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+Ten en cuenta que estás diseñando solo la imagen `eyes1`, usando `#eyes1` en tu código CSS. ¡Si prefieres ojos diferentes, puedes usar `#eyes2` o `#eyes3` en su lugar!
 
-![screenshot](images/robot-eyes-width.png)
+![captura de pantalla](images/robot-eyes-width.png)
 
 Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
 
