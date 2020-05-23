@@ -1,5 +1,5 @@
 ---
-Title: Build a robot
+Title: Construye un robot
 hero_image: images/build-a-robot.png
 theme: violet
 duration: 2
@@ -23,7 +23,7 @@ steps:
   - 
     title: Lo que necesitarás
   - 
-    title: Giving your robot eyes
+    title: Dándole ojos a tu robot
   - 
     title: Dándole una boca a tu robot
   - 
