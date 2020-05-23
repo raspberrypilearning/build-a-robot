@@ -8,17 +8,17 @@ Usa cualquier software de dibujo que tengas en tu computadora para dibujar algun
 
 ![captura de pantalla](images/robot-eyes-edit.png)
 
-+ Then upload the `.png` image into your trinket:
++ Después sube la imagen `.png` a tu trinket:
 
-![screenshot](images/robot-image-add.png)
+![captura de pantalla](images/robot-image-add.png)
 
-+ Add the image to `index.html`: 
++ Añade la imagen a `index.html`: 
 
     <img id="purpleeyes" src="purpleeyes.png">
     
 
-+ And add CSS code to `style.css` to position it:
++ Y añade el código CSS a `style.css` para colocarla:
 
-![screenshot](images/robot-use-purple-eyes.png)
+![captura de pantalla](images/robot-use-purple-eyes.png)
 
 \--- /challenge \---
