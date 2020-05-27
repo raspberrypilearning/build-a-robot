@@ -1,0 +1,26 @@
+---
+Title: একটি রোবট তৈরি করুন
+hero_image: images/build-a-robot.png
+theme: violet
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: একটি রোবট তৈরি করুন
+description: আপনার নিজের রোবোট ডিজাইনের জন্য কীভাবে চিত্রগুলি অবস্থান করবেন তা শিখুন
+original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: ভূমিকা
+  - title: যা যা প্রয়োজন
+  - title: আপনার রোবটকে চোখ দিন 
+  - title: আপনার রোবটকে একটি মুখ দিন 
+  - title: 'চ্যালেঞ্জ: আপনার নিজস্ব নকশা'
+  - title: 'চ্যালেঞ্জ: আপনার নিজের ছবি যোগ করুন'
