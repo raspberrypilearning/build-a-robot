@@ -14,8 +14,9 @@ Sử dụng bất kỳ phần mềm vẽ nào bạn có trên máy tính để v
 
 + Thêm hình ảnh vào `index.html`: 
 
-    <img id="purpleeyes" src="purpleeyes.png">
-    
+```
+<img id="purpleeyes" src="purpleeyes.png">
+```
 
 + Và thêm mã CSS vào `style.css` để định vị nó:
 

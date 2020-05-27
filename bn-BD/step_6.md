@@ -14,8 +14,9 @@
 
 + চিত্রটি `index.html` এ যুক্ত করুন: 
 
-    <img id="purpleeyes" src="purpleeyes.png">
-    
+```
+<img id="purpleeyes" src="purpleeyes.png">
+```
 
 + এবং সিএসএস কোডটি `style.css` কোডে যোগ করুন তার স্থান নির্ধারণ করার জন্যে:
 
