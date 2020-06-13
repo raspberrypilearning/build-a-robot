@@ -1,4 +1,4 @@
-## Giving your robot eyes
+## Dándole ojos a tu robot
 
 ¡Vamos a darle ojos a tu robot!
 
