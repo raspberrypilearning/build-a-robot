@@ -1,4 +1,4 @@
-## Giving your robot a mouth
+## Dándole una boca a tu robot
 
 ¡Vamos a darle una boca a tu robot!
 
@@ -16,7 +16,7 @@
 
 ![captura de pantalla](images/robot-mouth.png)
 
-- Can you fix this by making changes to your CSS code?
+- ¿Puedes solucionar esto haciendo cambios al código CSS?
 
 \--- hints \---
 
