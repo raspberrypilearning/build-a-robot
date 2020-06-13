@@ -2,7 +2,7 @@
 
 ¡En este proyecto, aprenderás a colocar imágenes para diseñar tu propio robot!
 
-### What you will make
+### Lo que harás
 
 Usa CSS para colocar las piezas del robot para ensamblar tu propio robot.
 
