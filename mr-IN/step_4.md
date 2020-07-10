@@ -22,15 +22,15 @@
 
 \--- hint \---
 
-You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+तुम्हाला `mouth1` स्थितीसाठी `style.css` मध्ये `width` आणि `top` आणि `left` बदल करण्याची आवश्यकता आहे.
 
-Try different values until it looks the way you want.
+जोपर्यंत तुम्हाला अपेक्षित रोबोट दिसत नाही तोपर्यंत वेगवेगळ्या प्रमाणसंख्या वापरून पहा.
 
 \--- /hint \---
 
 \--- hint \---
 
-You should have something like this:
+तुमच्याकडे असे काहीतरी दिसायला हवे:
 
 ![screenshot](images/robot-mouth-code.png)
 
