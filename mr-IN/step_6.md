@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: add your own images
+## आव्हान: तुम्ही स्वतः बनवलेल्या प्रतिमा जोडा
 
-Can you create images to add to your robot, and position them on your webpage?
+तुम्ही तुमच्या रोबोटमध्ये जोडण्यासाठी प्रतिमा तयार करू शकता आणि त्या आपल्या वेबपृष्ठावर दाखवू शकता का?
 
 Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
 
