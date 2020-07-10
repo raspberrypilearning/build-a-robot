@@ -1,10 +1,10 @@
-## Giving your robot eyes
+## तुमच्या रोबोटला डोळे देवूया
 
-Let’s give your robot some eyes!
+चला तुमच्या रोबोटला काही डोळे दाखवू या !
 
-+ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ [हे trinket](http://jumpto.cc/web-robot){:target="_blank"} उघडा.
     
-    The project should look like this:
+    प्रकल्प असा दिसायला हवा:
     
     ![screenshot](images/robot-starter.png)
 
