@@ -18,4 +18,4 @@
 
 तुम्हाला हा प्रोजेक्ट प्रिंट करणे आवश्यक असल्यास, कृपया [प्रिन्टर अनुकूल आवृत्ती](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"} वापरा.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+या प्रकल्पाचे GitHub repository वापर करण्यासाठी फूटरमध्ये दिलेले link वापरा, ज्यात 'en/resources' फोल्डरमध्ये सर्व संसाधने (व उदाहरणार्थ पूर्ण झालेले प्रकल्प) समाविष्ट आहे.
