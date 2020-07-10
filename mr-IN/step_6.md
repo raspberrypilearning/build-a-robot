@@ -4,20 +4,20 @@
 
 तुम्ही तुमच्या रोबोटमध्ये जोडण्यासाठी प्रतिमा तयार करू शकता आणि त्या आपल्या वेबपृष्ठावर दाखवू शकता का?
 
-Use whatever drawing software you have on your computer to draw some new robot parts, and save it as a `.png` image.
+तुम्हाला रोबोटचे काही नवीन भाग चित्रित करण्यासाठी, तुमच्या संगणकावर जे कुठले रेखांकन सॉफ्टवेअर आहे ते वापरा आणि त्या भागाला `.png` प्रतिमा म्हणून जतन करा.
 
 ![screenshot](images/robot-eyes-edit.png)
 
-+ Then upload the `.png` image into your trinket:
++ नंतर `.png` प्रतिमा आपल्या ट्रिंकेटमध्ये अपलोड करा:
 
 ![screenshot](images/robot-image-add.png)
 
-+ Add the image to `index.html`: 
++ `index.html` वर प्रतिमा जोडा: 
 
     <img id="purpleeyes" src="purpleeyes.png">
     
 
-+ And add CSS code to `style.css` to position it:
++ आणि प्रतिमेचे स्थान ठरवण्यासाठी `style.css` मध्ये CSS कोड जोडा: 
 
 ![screenshot](images/robot-use-purple-eyes.png)
 
