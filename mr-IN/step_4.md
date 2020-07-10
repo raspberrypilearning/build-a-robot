@@ -1,8 +1,8 @@
-## Giving your robot a mouth
+## तुमच्या रोबोटला तोंड देवूया
 
-Let’s give your robot a mouth!
+चला तुमच्या रोबोटला तोंड दाखवू या!
 
-- Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+- तुमच्या `mouth1` प्रतिमेला शैली देण्यासाठी पुढील CSS कोड `style.css` च्या तळाशी जोडा:
     
         #mouth1 {
             width: 50px;
@@ -12,13 +12,13 @@ Let’s give your robot a mouth!
         }
         
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+तुमच्या रोबोटचे तोंड खूपच लहान दिसत आहे आणि ते योग्य ठिकाणी नाही!
 
 ![screenshot](images/robot-mouth.png)
 
-- Can you fix this by making changes to your CSS code?
+- तुमच्या CSS कोडमध्ये बदल करुन तुम्ही त्याचे निराकरण करू शकता?
 
-\--- hints \---
+\--- hint \---
 
 \--- hint \---
 
