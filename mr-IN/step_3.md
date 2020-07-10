@@ -32,21 +32,21 @@
 
 ![screenshot](images/robot-eyes-width.png)
 
-एकामागून एक प्रतिमा कशी दाखवली जाते ते पहा. This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+एकामागून एक प्रतिमा कशी दाखवली जाते ते पहा. याला **relative** स्थिती म्हणतात . जर तुम्हाला रोबोटचे डोळे नेमके कोठे ठेवायचे हे ब्राउझरला सांगायचे असल्यास, तर त्याऐवजी तुम्हाला **absolute** स्थिती वापरण्याची आवश्यकता आहे.
 
-+ Add these three lines to the CSS code for your `eyes1` image:
++ `eyes1` प्रतिमेसाठी आपल्या CSS कोडमध्ये या तीन ओळी जोडा:
     
         position: absolute;
         top: 200px;
         left: 100px;
         
 
-You should see that your robot’s eyes move to the correct place on your robot.
+तुम्ही पाहिले पाहिजे की तुमच्या रोबोटचे डोळे तुमच्या रोबोटच्या योग्य ठिकाणी सरकवले आहेत.
 
 ![screenshot](images/robot-eyes-position.png)
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+हा CSS कोड ब्राउझरला वेबपृष्ठाच्या डावीकडील ‍वरच्या कोपर्यापासून प्रतिमा दर्शविण्यास सांगत आहे.
 
 ![screenshot](images/robot-eyes-position2.png)
 
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
+तुम्ही ब्राउझरला सांगण्यासाठी प्रतिमा स्क्रीनच्या तळापासून किती दूर दर्शवण्यासाठी `bottom` ऐवजी `top` तसेच `right` ऐवजी `left` वापरू शकता.
