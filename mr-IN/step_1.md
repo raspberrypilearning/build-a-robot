@@ -1,8 +1,8 @@
-## Introduction
+## परिचय
 
-In this project, you’ll learn how to position images to design your own robot!
+या प्रकल्पात, तुम्ही शिकाल तुमच्या स्वत: च्या रोबोटची रचना करण्यासाठी प्रतिमा कश्याप्रकारे दर्शवता येतील!
 
-### What you will make
+### तुम्ही काय तयार करणार
 
 Use CSS to position robot parts to assemble your own robot.
 
