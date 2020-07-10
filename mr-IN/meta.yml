@@ -1,5 +1,5 @@
 ---
-Title: Build a robot
+Title: रोबोट तयार करा
 hero_image: images/build-a-robot.png
 theme: violet
 duration: 2
@@ -7,8 +7,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Build a robot
-description: Learn how to position images to design your own robot
+title: रोबोट तयार करा
+description: तुमच्या रोबोटची रचना करण्यासाठी प्रतिमा कश्याप्रकारे दर्शवावी ते शिका
 original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
 interests: art
 technologies: html-css-javascript
@@ -19,14 +19,14 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: What you will need
+    title: तुम्हाला कशाची आवश्यकता असेल
   - 
-    title: Giving your robot eyes
+    title: तुमच्या रोबोटला डोळे देवूया
   - 
-    title: Giving your robot a mouth
+    title: तुमच्या रोबोटला तोंड देवूया
   - 
-    title: 'Challenge: your own design'
+    title: 'आव्हान: तुमची स्वतःची रचना बनवा'
   - 
-    title: 'Challenge: add your own images'
+    title: 'आव्हान: तुमच्या स्वत: च्या प्रतिमा जोडा'
