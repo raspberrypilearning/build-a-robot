@@ -2,7 +2,7 @@
 
 ## आव्हान: तुमची स्वतःची रचना बनवा
 
-Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
+तुमच्या स्वत: च्या रोबोटची रचना पूर्ण करण्यासाठी तुम्ही जे शिकलात त्याचा वापर करा. तुमचा रोबोट कसा दिसेल याची काही उदाहरणे येथे आहेतः
 
 ![screenshot](images/robot-examples.png)
 
