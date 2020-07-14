@@ -4,7 +4,7 @@ In questo progetto, imparerai come posizionare le immagini per progettare il tuo
 
 ### Cosa creerai
 
-Usa CSS per posizionare le parti del robot e assemblare il tuo robot.
+Usa CSS per posizionare le parti del robot e assemblarlo.
 
 ![screenshot](images/robot-final.png)
 
