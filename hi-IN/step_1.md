@@ -1,16 +1,16 @@
-## Introduction
+## भूमिका
 
-In this project, you’ll learn how to position images to design your own robot!
+इस परियोजना में, आप अपना स्वयं का रोबोट बनाने के लिए छवियों की स्थिति निर्धारित करना सीखेंगे!
 
-### What you will make
+### आप क्या बनाएँगे
 
-Use CSS to position robot parts to assemble your own robot.
+रोबोट के भागों को स्थित करके अपने स्वयं के रोबोट को जोड़ने के लिए CSS का उपयोग करें।
 
 ![screenshot](images/robot-final.png)
 
-### What you will learn
+### आप क्या सीखेंगे
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+इस परियोजना में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum){: target = "_ blank"} के निम्नलिखित स्ट्रैंड्स के तत्व शामिल हैं:
 
 + [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
