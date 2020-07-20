@@ -6,47 +6,47 @@
     
     परियोजना इस तरह दिखनी चाहिए:
     
-    ![screenshot](images/robot-starter.png)
+    ![स्क्रीनशॉट](images/robot-starter.png)
 
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
+इस परियोजना में प्रत्येक छवि का अपना खुद​ का नाम (या **`id`** है)। उदाहरण के लिए, चेहरे और आंखों की छवियों को संबोधित करने के लिए HTML कोड ('face', 'eyes 1', और 'eyes 2', आपके कोड की लाइन 8 के शुरुआत मे) इस तरह दिखता है:
 
     <img id="face" ...>
     <img id="eyes1" ...>
     <img id="eyes2" ...>
     
 
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
+आप एक छवि के `id` का उपयोग कर सकते हैं इसे अपना खुद​ का स्टाइल देने के लिए, CSS और `#` प्रतीक का उपयोग करके। यह आपको प्रत्येक छवि को अलग से स्टाइल करने की अनुमति देता है।
 
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
+`style.css` फ़ाइल पर क्लिक करें। ध्यान दें कि रोबोट के चेहरे का आकार और अन्य छवियों का अकार कैसे भिन्न हैं?
 
-![screenshot](images/robot-id.png)
+![स्क्रीनशॉट](images/robot-id.png)
 
-+ Add this CSS code to style the robot’s eyes:
++ रोबोट की आँखों को स्टाइल करने के लिए इस CSS कोड को जोड़ें:
     
         #eyes1 {
         width: 200px;
         }
         
 
-Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
+ध्यान दें कि आप सिर्फ `eyes1` छवि को स्टाइल कर रहे हैं, `#eyes1` का उपयोग करके अपने CSS कोड में। यदि आप अलग आँखें पसंद करते हैं, तो आप इसके बजाय `#eyes2` या `#eyes3` का उपयोग कर सकते हैं!
 
-![screenshot](images/robot-eyes-width.png)
+![स्क्रीनशॉट](images/robot-eyes-width.png)
 
-Notice how each image is displayed one after the other? This is called **relative** positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use **absolute** positioning instead.
+ध्यान दें कि प्रत्येक छवि एक के बाद एक कैसे प्रदर्शित होती है? इसे **relative** पोजिशनिंग कहा जाता है। यदि आप ब्राउज़र को बताना चाहते हैं कि सही से आपके रोबोट की आँखें कहाँ रखनी हैं, तो आपको इसके बजाय **absolute** पोजिशनिंग का उपयोग करना होगा।
 
-+ Add these three lines to the CSS code for your `eyes1` image:
++ CSS कोड में इन तीन पंक्तियों को जोड़ें अपने `eyes1` छवि के लिए:
     
         position: absolute;
         top: 200px;
         left: 100px;
         
 
-You should see that your robot’s eyes move to the correct place on your robot.
+आपको यह देखना चाहिए कि आपके रोबोट की आँखें आपके रोबोट पर सही जगह पर जाएँ।
 
-![screenshot](images/robot-eyes-position.png)
+![स्क्रीनशॉट](images/robot-eyes-position.png)
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+यह CSS कोड ब्राउज़र को बताता है कि वेब पृष्ठ के ऊपरी बाएं कोने से कितनी दूर छवि को प्रदर्शित करना है।
 
-![screenshot](images/robot-eyes-position2.png)
+![स्क्रीनशॉट](images/robot-eyes-position2.png)
 
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
+आप `bottom` का उपयोग कर सकते हैं `top` के बजाय ब्राउज़र को यह बताने के लिए स्क्रीन के नीचे से कितनी दूर छवि को दिखाना है, साथ ही `right` के बजाय `left`।
