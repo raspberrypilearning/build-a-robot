@@ -6,16 +6,16 @@
 
 रोबोट के भागों को स्थित करके अपने स्वयं के रोबोट को जोड़ने के लिए CSS का उपयोग करें।
 
-![screenshot](images/robot-final.png)
+![स्क्रीनशॉट](images/robot-final.png)
 
 ### आप क्या सीखेंगे
 
 इस परियोजना में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum){: target = "_ blank"} के निम्नलिखित स्ट्रैंड्स के तत्व शामिल हैं:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [साधारण प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Additional information for club leaders
+### क्लब लीडर्स के लिए अतिरिक्त जानकारी
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
+अगर आपको इस परियोजना को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर अनुकूल वर्ज़न](https://projects.raspberrypi.org/en/projects/build-a-robot/print){: target = "_ blank"} का उपयोग करें।
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+इस परियोजना के लिए GitHub रेपो तक पहुंँचने के लिए फुटर में दिए लिंक का उपयोग करें, जिसके 'en/resources’ फोल्डर के अंदर सभी संसाधन (तैयार परियोजना के उदाहरण सहित) सम्मिलित हैं।
