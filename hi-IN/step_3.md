@@ -1,10 +1,10 @@
-## Giving your robot eyes
+## अपने रोबोट की आँखें बनाना
 
-Let’s give your robot some eyes!
+चलिए आपके रोबोट की आँखें बनाएँ!
 
-+ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ [इस trinket](http://jumpto.cc/web-robot){:target= "_ blank"} को खोलें।
     
-    The project should look like this:
+    परियोजना इस तरह दिखनी चाहिए:
     
     ![screenshot](images/robot-starter.png)
 
