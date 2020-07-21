@@ -6,17 +6,21 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: रोबोट बनाएँ
 description: अपना स्वयं का रोबोट बनाने के लिए छवियों की स्थिति निर्धारित करना सीखें।
 original_url: https://codeclubprojects.org/en-GB/webdev/build-a-robot
-interests: ''
-technologies: html/css
-site_areas: codeclub, webdev
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: htmp-css-javascript
+version: 3
+last_tested: 2017-01-01
 steps:
-- title: भूमिका
-- title: अपने रोबोट की आँखें बनाना
-- title: अपने रोबोट का मुंह बनाना
-- title: 'चुनौती: अपना स्वयं का रोबोट डिज़ाइन करें'
-- title: 'चुनौती: अपनी स्वयं के छवियाँ जोड़ें'
-
+  - title: भूमिका
+  - title: आपको किन चीज़ों की आवश्यकता होगी
+  - title: अपने रोबोट की आँखें बनाना
+  - title: अपने रोबोट का मुँह बनाना
+  - title: 'चुनौती: आपका खुद​ का डिज़ाइन'
+  - title: 'चुनौती: अपनी खुद की छवियाँ जोड़ें'
