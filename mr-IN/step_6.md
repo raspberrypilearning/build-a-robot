@@ -14,8 +14,9 @@
 
 + `index.html` वर प्रतिमा जोडा: 
 
-    <img id="purpleeyes" src="purpleeyes.png">
-    
+```
+<img id="purpleeyes" src="purpleeyes.png">
+```
 
 + आणि प्रतिमेचे स्थान ठरवण्यासाठी `style.css` मध्ये CSS कोड जोडा: 
 
