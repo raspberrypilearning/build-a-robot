@@ -10,7 +10,7 @@ Usar CSS para posicionar as partes do robô para criares o teu próprio robô.
 
 ### O que irás aprender
 
-Este projeto abrange elementos das seguintes vertentes do [currículo de Marketing Digital do Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Este projeto abrange elementos das seguintes vertentes do [currículo de Marketing Digital do Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Usar construções básicas de programação para criar programas simples](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

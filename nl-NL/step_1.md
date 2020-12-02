@@ -10,7 +10,7 @@ Gebruik CSS om robotonderdelen neer te zetten om je eigen robot samen te stellen
 
 ### Wat je gaat leren
 
-Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_ blank"}
+Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_ blank"}
 
 + [Gebruik basale programmeerconstructies om eenvoudige programma's te maken](https://www.raspberrypi.org/curriculum/programming/creator){:target="_ blank"}
 

@@ -10,7 +10,7 @@ Użyjesz CSS do pozycjonowania elementów potrzebnych do zmontowania własnego r
 
 ### Czego się nauczysz
 
-Ten projekt pokrywa elementy z następujących wątków z [Cyfrowego Programu Nauczania Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Ten projekt pokrywa elementy z następujących wątków z [Cyfrowego Programu Nauczania Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Użycie podstawowych konstrukcji programistycznych do tworzenia prostych programów](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

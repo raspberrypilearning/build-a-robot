@@ -10,7 +10,7 @@
 
 ### आप क्या सीखेंगे
 
-इस परियोजना में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum){:target="_blank"} के निम्नलिखित स्ट्रैंड्स के तत्व शामिल हैं:
+इस परियोजना में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](https://rpf.io/curriculum){:target="_blank"} के निम्नलिखित स्ट्रैंड्स के तत्व शामिल हैं:
 
 + [साधारण प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
