@@ -10,7 +10,7 @@
 
 ### যা শিখতে পারবেন
 
-এই প্রকল্পে [রাস্পবেরি পাই ডিজিটাল মেকিং পাঠ্যক্রম](http://rpf.io/curriculum){:target="_ blank"} এর নিম্নলিখিত অংশ ব্যবহার করা হবে
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [সাধারণ প্রোগ্রামগুলি তৈরি করতে বেসিক প্রোগ্রামিং নির্মাণ (Basic Programming Construct) ব্যবহার করুন ](https://www.raspberrypi.org/curriculum/programming/creator) {:target="_blank"}
 
