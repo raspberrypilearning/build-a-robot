@@ -10,7 +10,7 @@
 
 ### ما الذي ستتعلمه
 
-يتناول هذا المشروع عناصر من معايير [منهج البناء الرقمي الخاص بـ Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [استخدام التراكيب الأساسية للبرمجة لإنشاء برامج بسيطة](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
