@@ -10,7 +10,7 @@
 
 ### Що ви дізнаєтесь
 
-Цей проект охоплює елементи з наступних напрямків [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [ Використайте основні конструкції програмування для створення простих програм ](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
