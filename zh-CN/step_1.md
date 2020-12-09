@@ -55,7 +55,7 @@ title: 俱乐部领导备注
 	+ 顶部；
 	+ 左侧。
 
-本项目包括 [Raspberry Pi 数字制作课程](http://rpf.io/curriculum) 以下几个部分的元素：
+本项目包括 [Raspberry Pi 数字制作课程](https://rpf.io/curriculum) 以下几个部分的元素：
 
 + [设计基本的 2D 和 3D 资源](https://www.raspberrypi.org/curriculum/design/creator)。
 

@@ -10,7 +10,7 @@ Use CSS para posicionar as peças do robô para montar seu próprio robô.
 
 ### O que você vai aprender
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Use construções básicas de programação para criar um programa simplea](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
