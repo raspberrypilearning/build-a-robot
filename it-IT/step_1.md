@@ -10,7 +10,7 @@ Usa CSS per posizionare le parti del robot e assemblarlo.
 
 ### Cosa imparerai
 
-Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Utilizzare i costrutti base di un linguaggio di programmazione per creare programmi semplici](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
