@@ -10,7 +10,7 @@ Koristite CSS za postavljanje dijelova robota kako bi sastavili vlastitog robota
 
 ### Što ćete naučiti
 
-Ovaj projekt pokriva elemente iz sljedećih dijelova kurikuluma [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Korištenje osnova programiranja za izradu jednostavnih programa](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
