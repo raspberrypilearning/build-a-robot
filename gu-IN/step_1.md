@@ -10,7 +10,7 @@
 
 ### તમે શું શીખી શકશો
 
-આ પ્રોજેક્ટમાં [રાસ્પબરી પી ડિજિટલ મેકિંગ](http://rpf.io/curriculum){:target="_blank"}: અભ્યાસક્રમના નીચેના સેરના તત્વોનો સમાવેશ કરવામાં આવ્યો છે:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [ સરળ પ્રોગ્રામ બનાવવા માટે મૂળભૂત પ્રોગ્રામિંગ કન્સ્ટ્રક્ચર્સનો ઉપયોગ કરો ](https://www.raspberrypi.org/curriculum/programming/creator) {:target="_blank"}
 
