@@ -10,7 +10,7 @@ Sử dụng CSS để định vị các bộ phận robot để lắp ráp robot
 
 ### Những gì bạn sẽ học
 
-Dự án này bao gồm các phần và kiến thức trong [Giáo trình Raspberry Pi Digital Making](http://rpf.io/curriculum){:target="_blank"} sau đây:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Sử dụng cấu trúc lập trình cơ bản để tạo ra các chương trình đơn giản](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
