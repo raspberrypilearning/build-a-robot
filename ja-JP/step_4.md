@@ -22,7 +22,7 @@
 
 \--- hint \---
 
-You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`.
+`style.css`の`mouth1`の設定で`width`と`top`と`left`の位置を変更する必要があります。
 
 Try different values until it looks the way you want.
 
