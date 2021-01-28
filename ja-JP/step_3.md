@@ -2,7 +2,7 @@
 
 ロボットの目を作ろう!
 
-+ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
++ [このTrinket](http://jumpto.cc/web-robot){:target="_ blank"}を開いてください。
     
     プロジェクトはこのようになります。
     
