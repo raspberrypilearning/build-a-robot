@@ -10,7 +10,7 @@ CSSを使ってロボットのパーツを配置しあなたのロボットを�
 
 ### あなたが学ぶもの
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
+このプロジェクトは、[Raspberry Piデジタル・メイキング・カリキュラム](https://rpf.io/curriculum){:target="_blank"}の以下の項目を学びます：
 
 + [基本的なプログラミング構造を使いかんたんなプログラムを作成します。](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
