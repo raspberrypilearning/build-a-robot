@@ -10,12 +10,12 @@
 
 ### आप क्या सीखेंगे
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
+इस प्रोजेक्ट में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](https://rpf.io/curriculum){:target="_blank"} के निम्नलिखित स्ट्रैंड्स के तत्व शामिल हैं:
 
-+ [साधारण प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [साधारण प्रोग्राम बनाने के लिए आधारभूत संरचनाओं (basic programming constructs) का उपयोग करना](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
 ### क्लब लीडर्स के लिए अतिरिक्त जानकारी
 
-अगर आपको इस परियोजना को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर अनुकूल वर्ज़न](https://projects.raspberrypi.org/en/projects/build-a-robot/print){: target = "_ blank"} का उपयोग करें।
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"} का उपयोग करें।
 
-इस परियोजना के लिए GitHub रेपो तक पहुंँचने के लिए फुटर में दिए लिंक का उपयोग करें, जिसके 'en/resources’ फोल्डर के अंदर सभी संसाधन (तैयार परियोजना के उदाहरण सहित) सम्मिलित हैं।
+इस प्रोजेक्ट के लिए GitHub रेपो तक पहुंँचने के लिए फुटर में दिए लिंक का उपयोग करें, जिसके 'en/resources’ फोल्डर के अंदर सभी संसाधन (तैयार प्रोजेक्ट के उदाहरण सहित) हैं।
