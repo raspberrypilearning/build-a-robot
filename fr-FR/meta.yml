@@ -22,11 +22,13 @@ steps:
     title: Introduction
   - 
     title: Ce dont tu auras besoin
+    completion: engaged
   - 
     title: Donner des yeux à ton robot
   - 
     title: Donner une bouche à ton robot
   - 
     title: 'Challenge: Ajoutes ton propre dessein'
+    completion: internal
   - 
     title: 'Challenge: Ajoutes tes propres images'
