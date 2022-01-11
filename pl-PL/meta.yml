@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Wprowadzenie
-  - title: Czego będziesz potrzebować
-  - title: Dodawanie oczu
-  - title: Dodawanie ust
-  - title: 'Wyzwanie: własny projekt'
-  - title: 'Wyzwanie: dodaj własne grafiki'
+- title: Wprowadzenie
+- title: Czego będziesz potrzebować
+  completion: engaged
+- title: Dodawanie oczu
+- title: Dodawanie ust
+- title: 'Wyzwanie: własny projekt'
+  completion: internal
+- title: 'Wyzwanie: dodaj własne grafiki'

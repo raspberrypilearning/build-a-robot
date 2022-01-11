@@ -17,10 +17,12 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
 - title: What you will need
+  completion: engaged
 - title: Giving your robot eyes
 - title: Giving your robot a mouth
 - title: 'Challenge: your own design'
+  completion: internal
 - title: 'Challenge: add your own images'

@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Einleitung
-  - title: Was du brauchst
-  - title: Gib deinem Roboter Augen
-  - title: Gib deinem Roboter einen Mund
-  - title: 'Aufgabe: Entwerfe dein eigenes Gesicht'
-  - title: 'Aufgabe: Deine eigenen Bilder hinzufügen'
+- title: Einleitung
+- title: Was du brauchst
+  completion: engaged
+- title: Gib deinem Roboter Augen
+- title: Gib deinem Roboter einen Mund
+- title: 'Aufgabe: Entwerfe dein eigenes Gesicht'
+  completion: internal
+- title: 'Aufgabe: Deine eigenen Bilder hinzufügen'

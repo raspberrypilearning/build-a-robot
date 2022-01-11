@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Giới thiệu
-  - title: Những thứ bạn sẽ cần
-  - title: Thêm mắt cho robot của bạn
-  - title: Thêm miệng cho robot của bạn
-  - title: 'Thử thách: tạo thiết kế riêng của bạn'
-  - title: 'Thử thách: thêm hình ảnh của riêng bạn'
+- title: Giới thiệu
+- title: Những thứ bạn sẽ cần
+  completion: engaged
+- title: Thêm mắt cho robot của bạn
+- title: Thêm miệng cho robot của bạn
+- title: 'Thử thách: tạo thiết kế riêng của bạn'
+  completion: internal
+- title: 'Thử thách: thêm hình ảnh của riêng bạn'

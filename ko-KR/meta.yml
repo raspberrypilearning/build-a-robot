@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 들어가며
-  - title: 준비물
-  - title: 로봇의 눈 만들기
-  - title: 로봇의 입 만들기
-  - title: '도전 과제: 나만의 디자인 만들기'
-  - title: '도전 과제: 나만의 이미지 추가하기'
+- title: 들어가며
+- title: 준비물
+  completion: engaged
+- title: 로봇의 눈 만들기
+- title: 로봇의 입 만들기
+- title: '도전 과제: 나만의 디자인 만들기'
+  completion: internal
+- title: '도전 과제: 나만의 이미지 추가하기'

@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Uvod
-  - title: Trebat ćeš
-  - title: Dajte robotu oči
-  - title: Dajte robotu usta
-  - title: 'Izazov: vaš vlastiti dizajn'
-  - title: 'Izazov: Dodajte svoje vlastite slike'
+- title: Uvod
+- title: Trebat ćeš
+  completion: engaged
+- title: Dajte robotu oči
+- title: Dajte robotu usta
+- title: 'Izazov: vaš vlastiti dizajn'
+  completion: internal
+- title: 'Izazov: Dodajte svoje vlastite slike'

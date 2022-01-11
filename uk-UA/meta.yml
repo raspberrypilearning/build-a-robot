@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Вступ
-  - title: Що вам знадобиться
-  - title: Дайте Вашому роботу очі
-  - title: Дайте Вашому роботу рот
-  - title: 'Завдання: ваш власний дизайн'
-  - title: 'Завдання: додайте ваші власні зображення'
+- title: Вступ
+- title: Що вам знадобиться
+  completion: engaged
+- title: Дайте Вашому роботу очі
+- title: Дайте Вашому роботу рот
+- title: 'Завдання: ваш власний дизайн'
+  completion: internal
+- title: 'Завдання: додайте ваші власні зображення'

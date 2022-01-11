@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducción
-  - title: Lo que necesitarás
-  - title: Poner ojos a tu robot
-  - title: Poner una boca a tu robot
-  - title: 'Desafío: tu propio diseño'
-  - title: 'Desafío: añade tus propias imágenes'
+- title: Introducción
+- title: Lo que necesitarás
+  completion: engaged
+- title: Poner ojos a tu robot
+- title: Poner una boca a tu robot
+- title: 'Desafío: tu propio diseño'
+  completion: internal
+- title: 'Desafío: añade tus propias imágenes'

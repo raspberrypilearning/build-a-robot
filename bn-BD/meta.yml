@@ -18,9 +18,11 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: ভূমিকা
-  - title: যা যা প্রয়োজন
-  - title: আপনার রোবটকে চোখ দিন 
-  - title: আপনার রোবটকে একটি মুখ দিন 
-  - title: 'চ্যালেঞ্জ: আপনার নিজস্ব নকশা'
-  - title: 'চ্যালেঞ্জ: আপনার নিজের ছবি যোগ করুন'
+- title: ভূমিকা
+- title: যা যা প্রয়োজন
+  completion: engaged
+- title: আপনার রোবটকে চোখ দিন
+- title: আপনার রোবটকে একটি মুখ দিন
+- title: 'চ্যালেঞ্জ: আপনার নিজস্ব নকশা'
+  completion: internal
+- title: 'চ্যালেঞ্জ: আপনার নিজের ছবি যোগ করুন'
