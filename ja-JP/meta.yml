@@ -22,11 +22,13 @@ steps:
     title: はじめに
   - 
     title: 必要なもの
+    completion: engaged
   - 
     title: ロボットの目を作る
   - 
     title: ロボットに口をつける
   - 
     title: 'Challenge: あなた自身のデザイン'
+    completion: internal
   - 
     title: 'Challenge: 画像を追加します。'
