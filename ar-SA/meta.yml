@@ -18,9 +18,13 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: مقدمة
-  - title: ما الذي ستحتاجه
-  - title: أعطِ روبوتك عيوناً
-  - title: أعطِ روبوتك فماً
-  - title: 'تحدي: تصميمك الخاص'
-  - title: 'تحدي: أضف صورك الخاصة'
+- title: مقدمة
+- title: ما الذي ستحتاجه
+- title: أعطِ روبوتك عيوناً
+  completion:
+  - engaged
+- title: أعطِ روبوتك فماً
+  completion:
+  - internal
+- title: 'تحدي: تصميمك الخاص'
+- title: 'تحدي: أضف صورك الخاصة'

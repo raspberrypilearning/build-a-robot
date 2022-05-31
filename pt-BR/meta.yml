@@ -18,9 +18,13 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introdução
-  - title: O que você vai precisar
-  - title: Dando olhos ao seu robô
-  - title: Dando uma boca ao seu robô
-  - title: 'Desafio: Seu próprio design'
-  - title: 'Desafio: Adicione suas próprias imagens'
+- title: Introdução
+- title: O que você vai precisar
+- title: Dando olhos ao seu robô
+  completion:
+  - engaged
+- title: Dando uma boca ao seu robô
+  completion:
+  - internal
+- title: 'Desafio: Seu próprio design'
+- title: 'Desafio: Adicione suas próprias imagens'

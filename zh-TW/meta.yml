@@ -18,9 +18,13 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 簡介
-  - title: 你需要些什麼
-  - title: 給你的機器人一雙眼睛
-  - title: 給你的機器人安裝嘴巴
-  - title: '挑戰：設計自己的作品'
-  - title: '挑戰：添加自己的圖片'
+- title: 簡介
+- title: 你需要些什麼
+- title: 給你的機器人一雙眼睛
+  completion:
+  - engaged
+- title: 給你的機器人安裝嘴巴
+  completion:
+  - internal
+- title: 挑戰：設計自己的作品
+- title: 挑戰：添加自己的圖片

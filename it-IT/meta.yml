@@ -18,9 +18,13 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introduzione
-  - title: Di cosa avrai bisogno
-  - title: Disegnare gli occhi al tuo robot
-  - title: Disegnare la bocca al tuo robot
-  - title: 'Sfida: il tuo progetto'
-  - title: 'Sfida: aggiungi le tue immagini'
+- title: Introduzione
+- title: Di cosa avrai bisogno
+- title: Disegnare gli occhi al tuo robot
+  completion:
+  - engaged
+- title: Disegnare la bocca al tuo robot
+  completion:
+  - internal
+- title: 'Sfida: il tuo progetto'
+- title: 'Sfida: aggiungi le tue immagini'

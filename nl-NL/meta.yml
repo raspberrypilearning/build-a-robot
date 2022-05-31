@@ -18,9 +18,13 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Inleiding
-  - title: Wat je nodig hebt
-  - title: Geef ogen aan je robot
-  - title: Geef een mond aan je robot
-  - title: 'Uitdaging: je eigen ontwerp'
-  - title: 'Uitdaging: voeg je eigen afbeeldingen toe'
+- title: Inleiding
+- title: Wat je nodig hebt
+- title: Geef ogen aan je robot
+  completion:
+  - engaged
+- title: Geef een mond aan je robot
+  completion:
+  - internal
+- title: 'Uitdaging: je eigen ontwerp'
+- title: 'Uitdaging: voeg je eigen afbeeldingen toe'

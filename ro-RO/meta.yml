@@ -18,9 +18,13 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducere
-  - title: De ce vei avea nevoie
-  - title: Pune-i ochii robotului tău
-  - title: Pune-i gura robotului tău
-  - title: 'Provocare: modelul tău propriu'
-  - title: 'Provocare: adaugă propriile tale imagini'
+- title: Introducere
+- title: De ce vei avea nevoie
+- title: Pune-i ochii robotului tău
+  completion:
+  - engaged
+- title: Pune-i gura robotului tău
+  completion:
+  - internal
+- title: 'Provocare: modelul tău propriu'
+- title: 'Provocare: adaugă propriile tale imagini'

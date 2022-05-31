@@ -18,9 +18,13 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Uvod
-  - title: Šta će ti biti potrebno
-  - title: Dodavanje očiju
-  - title: Dodavanje usta
-  - title: 'Izazov: tvoj sopstveni dizajn'
-  - title: 'Izazov: dodaj svoje slike'
+- title: Uvod
+- title: Šta će ti biti potrebno
+- title: Dodavanje očiju
+  completion:
+  - engaged
+- title: Dodavanje usta
+  completion:
+  - internal
+- title: 'Izazov: tvoj sopstveni dizajn'
+- title: 'Izazov: dodaj svoje slike'

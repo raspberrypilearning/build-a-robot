@@ -18,9 +18,13 @@ software: html-css-javascript
 version: 3
 last_tested: 01/01/2017
 steps:
-  - title: Introduction
-  - title: Ce dont tu auras besoin
-  - title: Donner des yeux à ton robot
-  - title: Donner une bouche à ton robot
-  - title: 'Défi: Ajoutes ton propre dessein'
-  - title: 'Défi: Ajoutes tes propres images'
+- title: Introduction
+- title: Ce dont tu auras besoin
+- title: Donner des yeux à ton robot
+  completion:
+  - engaged
+- title: Donner une bouche à ton robot
+  completion:
+  - internal
+- title: 'Défi: Ajoutes ton propre dessein'
+- title: 'Défi: Ajoutes tes propres images'

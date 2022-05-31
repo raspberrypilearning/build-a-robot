@@ -18,9 +18,13 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: はじめに
-  - title: 必要なもの
-  - title: ロボットの目を作る
-  - title: ロボットに口をつける
-  - title: 'チャレンジ: あなた自身のデザイン'
-  - title: 'チャレンジ：画像を追加します。'
+- title: はじめに
+- title: 必要なもの
+- title: ロボットの目を作る
+  completion:
+  - engaged
+- title: ロボットに口をつける
+  completion:
+  - internal
+- title: 'チャレンジ: あなた自身のデザイン'
+- title: チャレンジ：画像を追加します。
