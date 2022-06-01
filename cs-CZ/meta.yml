@@ -22,13 +22,15 @@ steps:
     title: Úvod
   - 
     title: Co budeš potřebovat
-    completion: engaged
   - 
     title: Přidání robotových očí
+    completion:
+      - engaged
   - 
     title: Přidání robotovy pusy
+    completion:
+      - internal
   - 
     title: 'Výzva: Tvůj vlastní design'
-    completion: internal
   - 
     title: 'Výzva: Přidej své vlastní obrázky'
