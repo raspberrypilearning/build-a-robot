@@ -22,13 +22,15 @@ steps:
     title: Uvod
   - 
     title: Ono što će vam trebati
-    completion: engaged
   - 
     title: Dajte robotu oči
+    completion:
+      - engaged
   - 
     title: Dajte robotu usta
+    completion:
+      - internal
   - 
     title: 'Izazov: vaš vlastiti dizajn'
-    completion: internal
   - 
     title: 'Izazov: Dodajte svoje vlastite slike'
