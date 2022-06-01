@@ -22,13 +22,15 @@ steps:
     title: مقدمة
   - 
     title: ما الذي ستحتاجه
-    completion: engaged
   - 
     title: أعطِ روبوتك عيوناً
+    completion:
+      - engaged
   - 
     title: أعطِ روبوتك فماً
+    completion:
+      - internal
   - 
     title: 'تحدي: تصميمك الخاص'
-    completion: internal
   - 
     title: 'تحدي: أضف صورك الخاصة'
