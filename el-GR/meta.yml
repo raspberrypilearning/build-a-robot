@@ -22,13 +22,15 @@ steps:
     title: Εισαγωγή
   - 
     title: Τι θα χρειαστείς
-    completion: engaged
   - 
     title: Δίνοντας μάτια στο ρομπότ σου
+    completion:
+      - engaged
   - 
     title: Δίνοντας στο ρομπότ σου ένα στόμα
+    completion:
+      - internal
   - 
     title: 'Πρόκληση: το δικό σου σχέδιο'
-    completion: internal
   - 
     title: 'Πρόκληση: πρόσθεσε δικές σου εικόνες'
