@@ -22,13 +22,15 @@ steps:
     title: ভূমিকা
   - 
     title: যা যা প্রয়োজন
-    completion: engaged
   - 
     title: আপনার রোবটকে চোখ দিন 
+    completion:
+      - engaged
   - 
     title: আপনার রোবটকে একটি মুখ দিন 
+    completion:
+      - internal
   - 
     title: 'চ্যালেঞ্জ: আপনার নিজস্ব নকশা'
-    completion: internal
   - 
     title: 'চ্যালেঞ্জ: আপনার নিজের ছবি যোগ করুন'
