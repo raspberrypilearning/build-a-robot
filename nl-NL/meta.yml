@@ -22,13 +22,15 @@ steps:
     title: Inleiding
   - 
     title: Wat je nodig hebt
-    completion: engaged
   - 
     title: Geef ogen aan je robot
+    completion:
+      - engaged
   - 
     title: Geef een mond aan je robot
+    completion:
+      - internal
   - 
     title: 'Uitdaging: je eigen ontwerp'
-    completion: internal
   - 
     title: 'Uitdaging: voeg je eigen afbeeldingen toe'
