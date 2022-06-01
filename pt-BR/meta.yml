@@ -22,13 +22,15 @@ steps:
     title: Introdução
   - 
     title: O que você vai precisar
-    completion: engaged
   - 
     title: Dando olhos ao seu robô
+    completion:
+      - engaged
   - 
     title: Dando uma boca ao seu robô
+    completion:
+      - internal
   - 
     title: 'Desafio: Seu próprio design'
-    completion: internal
   - 
     title: 'Desafio: Adicione suas próprias imagens'
