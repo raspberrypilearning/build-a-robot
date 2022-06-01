@@ -22,13 +22,15 @@ steps:
     title: Introduzione
   - 
     title: Di cosa avrai bisogno
-    completion: engaged
   - 
     title: Disegnare gli occhi del robot
+    completion:
+      - engaged
   - 
     title: Disegnare la bocca del robot
+    completion:
+      - internal
   - 
     title: 'Sfida: Il tuo progetto'
-    completion: internal
   - 
     title: 'Sfida: aggiungi le tue immagini'
