@@ -20,9 +20,11 @@ last_tested: 2017-01-01
 steps:
 - title: Uvod
 - title: Šta će ti biti potrebno
-  completion: engaged
 - title: Dodavanje očiju
+  completion:
+  - engaged
 - title: Dodavanje usta
+  completion:
+  - internal
 - title: 'Izazov: tvoj sopstveni dizajn'
-  completion: internal
 - title: 'Izazov: dodaj svoje slike'

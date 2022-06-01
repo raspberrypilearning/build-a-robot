@@ -20,9 +20,11 @@ last_tested: 2017-01-01
 steps:
 - title: Introducere
 - title: De ce vei avea nevoie
-  completion: engaged
 - title: Pune-i ochii robotului tău
+  completion:
+  - engaged
 - title: Pune-i gura robotului tău
+  completion:
+  - internal
 - title: 'Provocare: modelul tău propriu'
-  completion: internal
 - title: 'Provocare: adaugă propriile tale imagini'

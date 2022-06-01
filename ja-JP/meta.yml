@@ -20,9 +20,11 @@ last_tested: 2017-01-01
 steps:
 - title: はじめに
 - title: 必要なもの
-  completion: engaged
 - title: ロボットの目を作る
+  completion:
+  - engaged
 - title: ロボットに口をつける
+  completion:
+  - internal
 - title: 'チャレンジ: あなた自身のデザイン'
-  completion: internal
 - title: チャレンジ：画像を追加します。

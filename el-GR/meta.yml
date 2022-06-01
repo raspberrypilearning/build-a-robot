@@ -20,9 +20,11 @@ last_tested: 2017-01-01
 steps:
 - title: Εισαγωγή
 - title: Τι θα χρειαστείς
-  completion: engaged
 - title: Δίνοντας μάτια στο ρομπότ σου
+  completion:
+  - engaged
 - title: Δίνοντας στόμα στο ρομπότ σου
+  completion:
+  - internal
 - title: 'Πρόκληση: το δικό σου σχέδιο'
-  completion: internal
 - title: 'Πρόκληση: πρόσθεσε δικές σου εικόνες'

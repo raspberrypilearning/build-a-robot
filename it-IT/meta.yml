@@ -20,9 +20,11 @@ last_tested: 2017-01-01
 steps:
 - title: Introduzione
 - title: Di cosa avrai bisogno
-  completion: engaged
 - title: Disegnare gli occhi al tuo robot
+  completion:
+  - engaged
 - title: Disegnare la bocca al tuo robot
+  completion:
+  - internal
 - title: 'Sfida: il tuo progetto'
-  completion: internal
 - title: 'Sfida: aggiungi le tue immagini'

@@ -20,9 +20,11 @@ last_tested: 2017-01-01
 steps:
 - title: भूमिका
 - title: आपको किन चीज़ों की आवश्यकता होगी
-  completion: engaged
 - title: अपने रोबोट की आँखें बनाना
+  completion:
+  - engaged
 - title: अपने रोबोट का मुँह बनाना
+  completion:
+  - internal
 - title: 'चुनौती: आपका खुद​ का डिज़ाइन'
-  completion: internal
 - title: 'चुनौती: अपनी खुद की छवियाँ जोड़ें'

@@ -20,9 +20,11 @@ last_tested: 2017-01-01
 steps:
 - title: Uvod
 - title: Trebat ćeš
-  completion: engaged
 - title: Dajte robotu oči
+  completion:
+  - engaged
 - title: Dajte robotu usta
+  completion:
+  - internal
 - title: 'Izazov: vaš vlastiti dizajn'
-  completion: internal
 - title: 'Izazov: Dodajte svoje vlastite slike'

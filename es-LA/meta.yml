@@ -20,9 +20,11 @@ last_tested: 2017-01-01
 steps:
 - title: Introducción
 - title: Lo que necesitarás
-  completion: engaged
 - title: Dándole ojos a tu robot
+  completion:
+  - engaged
 - title: Dándole una boca a tu robot
+  completion:
+  - internal
 - title: 'Desafío: tu propio diseño'
-  completion: internal
 - title: 'Desafío: añade tus propias imágenes'

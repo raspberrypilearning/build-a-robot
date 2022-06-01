@@ -20,9 +20,11 @@ last_tested: 2017-01-01
 steps:
 - title: Вступ
 - title: Що вам знадобиться
-  completion: engaged
 - title: Дайте Вашому роботу очі
+  completion:
+  - engaged
 - title: Дайте Вашому роботу рот
+  completion:
+  - internal
 - title: 'Завдання: ваш власний дизайн'
-  completion: internal
 - title: 'Завдання: додайте ваші власні зображення'
