@@ -22,13 +22,15 @@ steps:
     title: Einleitung
   - 
     title: Was du brauchst
-    completion: engaged
   - 
     title: Gib deinem Roboter Augen
+    completion:
+      - engaged
   - 
     title: Gib deinem Roboter einen Mund
+    completion:
+      - internal
   - 
     title: 'Aufgabe: Dein eigenes Design'
-    completion: internal
   - 
     title: 'Aufgabe: Füge ein eigenes Bilder hinzu'
