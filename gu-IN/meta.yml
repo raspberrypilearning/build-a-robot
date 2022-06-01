@@ -22,13 +22,15 @@ steps:
     title: પરિચય
   - 
     title: તમને જેની જરૂર પડશે
-    completion: engaged
   - 
     title: તમારા રોબોટ ને આંખો આપવી
+    completion:
+      - engaged
   - 
     title: તમારા રોબોટને મોં આપવું
+    completion:
+      - internal
   - 
     title: 'પડકાર: તમારી પોતાની ડિઝાઇન'
-    completion: internal
   - 
     title: 'પડકાર: તમારી પોતાની છબીઓ ઉમેરો'
