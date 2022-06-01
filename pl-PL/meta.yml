@@ -22,13 +22,15 @@ steps:
     title: Wprowadzenie
   - 
     title: Czego będziesz potrzebować
-    completion: engaged
   - 
     title: Dodawanie oczu
+    completion:
+      - engaged
   - 
     title: Dodawanie ust
+    completion:
+      - internal
   - 
     title: 'Wyzwanie: własny projekt'
-    completion: internal
   - 
     title: 'Wyzwanie: dodaj własne grafiki'
