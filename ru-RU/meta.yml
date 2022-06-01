@@ -22,13 +22,15 @@ steps:
     title: Введение
   - 
     title: Что тебе понадобится
-    completion: engaged
   - 
     title: Задать роботу глаза
+    completion:
+      - engaged
   - 
     title: Задать роботу рот
+    completion:
+      - internal
   - 
     title: 'Задача: твой собственный дизайн'
-    completion: internal
   - 
     title: 'Задача: добавить твои собственные изображения'
