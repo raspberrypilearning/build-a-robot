@@ -28,3 +28,5 @@ steps:
   - internal
 - title: 'Challenge: your own design'
 - title: 'Challenge: add your own images'
+  completion:
+  - external
