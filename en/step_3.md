@@ -8,9 +8,9 @@ Add CSS code at the bottom of `style.css` to style your `mouth1` image:
 ---
 language: css
 filename: 
-line_numbers: 
-line_number_start: 
-line_highlights: 3-5
+line_numbers: false
+line_number_start: 13
+line_highlights:
 ---
 #mouth1 {
     width: 50px;

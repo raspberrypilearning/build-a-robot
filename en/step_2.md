@@ -41,8 +41,8 @@ Add this CSS code to style the robot’s eyes:
 ---
 language: css
 filename: 
-line_numbers: 
-line_number_start: 
+line_numbers: true
+line_number_start: 7
 line_highlights:
 ---
 #eyes1 {
@@ -65,9 +65,9 @@ Add these three lines to the CSS code for your `eyes1` image:
 ---
 language: css
 filename: 
-line_numbers: 
-line_number_start: 
-line_highlights: 3 - 5
+line_numbers: false
+line_number_start: 7
+line_highlights: 9-11
 ---
 #eyes1 {
     width: 200px;
