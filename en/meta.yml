@@ -18,15 +18,15 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-- title: Introduction
-- title: What you will need
-- title: Giving your robot eyes
+- title: What you will make
+- title: Give your robot eyes
   completion:
   - engaged
-- title: Giving your robot a mouth
+- title: Give your robot a mouth
   completion:
   - internal
-- title: 'Challenge: your own design'
-- title: 'Challenge: add your own images'
+- title: Challenge
+  challenge: true
   completion:
   - external
+- title: What can you do now?

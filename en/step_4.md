@@ -1,42 +1,15 @@
-## Giving your robot a mouth
+## Challenge
 
-Let’s give your robot a mouth!
+--- challenge ---
 
-+ Add the following CSS code at the bottom of `style.css` to style your `mouth1` image:
+--- task ---
 
-    ```
-    #mouth1 {
-        width: 50px;
-        position: absolute;
-        top: 200px;
-        left: 200px;
-    }
-    ```
+Add your own design
 
-Your robot’s mouth looks quite small, and it isn’t in the right place!
+Use what you’ve learnt to finish designing your own robot. Here are some examples of how your robot might look:
 
-![screenshot](images/robot-mouth.png)
+![screenshot](images/robot-examples.png)
 
-- Can you fix this by making changes to your CSS code?
+--- /task ---
 
---- hints ---
-
---- hint ---
-
-You'll need to change the `width` and the `top` and `left` positions for `mouth1` in `style.css`. 
-
-Try different values until it looks the way you want. 
-
---- /hint ---
-
---- hint ---
-
-You should have something like this:
-
-![screenshot](images/robot-mouth-code.png)
-
---- /hint ---
-
---- /hints ---
-
-
+--- /challenge ---
