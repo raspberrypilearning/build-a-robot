@@ -1,21 +1,15 @@
-## Introduction
+## What you will make
 
-In this project, you’ll learn how to position images to design your own robot!
+Position images to design your own robot!
 
-### What you will make
+--- print-only ---
 
-Use CSS to position robot parts to assemble your own robot. 
+![A cartoon image of a robot with a bird standing on its head. Other components that could be used to build similar creations are below](images/robot-final.png)
 
-![screenshot](images/robot-final.png)
+--- /print-only ---
 
-### What you will learn
+--- no-print ---
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/build-a-robot-complete" width="100%" height="900" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
-
-### Additional information for club leaders
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/build-a-robot/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+--- /no-print ---

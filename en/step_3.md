@@ -1,57 +1,36 @@
-## Giving your robot eyes
+## Give your robot a mouth
 
-Let’s give your robot some eyes!
+--- task ---
 
+Add CSS code at the bottom of `style.css` to style your `mouth1` image:
 
-+ Open [this trinket](http://jumpto.cc/web-robot){:target="_blank"}.
-
-    The project should look like this:
-
-	![screenshot](images/robot-starter.png)
-
-Each image in this project has its own name (or **`id`**). For example, the HTML code to address the face and eye images (‘face’, ‘eyes1’, and ‘eyes2’, starting on line 8 of your code) looks like this:
-
-```
-<img id="face" ...>
-<img id="eyes1" ...>
-<img id="eyes2" ...>
-```
-
-You can use an image’s `id` to give it its own style, using CSS and the `#` symbol. This allows you to style each image separately.
-
-Click on the `style.css` file. Notice how the size of the robot’s face and the other images are different?
-
-![screenshot](images/robot-id.png)
-
-+ Add this CSS code to style the robot’s eyes:
-
-    ```
-    #eyes1 {
-    width: 200px;
-    }
-    ```
-
-Notice that you’re styling just the `eyes1` image, by using `#eyes1` in your CSS code. If you prefer different eyes, you can use `#eyes2` or `#eyes3` instead!
-
-![screenshot](images/robot-eyes-width.png)
-
-Notice how each image is displayed one after the other? This is called __relative__ positioning. If you want to tell the browser exactly where to place your robot’s eyes, you’ll need to use __absolute__ positioning instead.
-
-+ Add these three lines to the CSS code for your `eyes1` image:
-
-    ```
+--- code ---
+---
+language: css
+filename: 
+line_numbers: false
+line_number_start: 13
+line_highlights:
+---
+#mouth1 {
+    width: 50px;
     position: absolute;
     top: 200px;
-    left: 100px;
-    ```
+    left: 200px;
+    }
+    
+--- /code ---
 
-You should see that your robot’s eyes move to the correct place on your robot.
+--- /task ---
 
-![screenshot](images/robot-eyes-position.png)
+Your robot’s mouth looks quite small, and it isn’t in the right place!
 
-This CSS code tells the browser how far from the top left-hand corner of the webpage to display the image.
+![The robot's mouth positioned in the wrong place (on its forehead!)](images/robot-mouth.png)
 
-![screenshot](images/robot-eyes-position2.png)
+--- task ---
 
-You can use `bottom` instead of `top` to tell the browser how far from the bottom of the screen to show the image, as well as `right` instead of `left`.
+Change the `width` and the `top` and `left` positions for `mouth1` in `style.css`. 
 
+Try different values until it looks the way you want. 
+
+--- /task ---
