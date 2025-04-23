@@ -65,7 +65,7 @@ Add these three lines to the CSS code for your `eyes1` image:
 ---
 language: css
 filename: 
-line_numbers: false
+line_numbers: true
 line_number_start: 7
 line_highlights: 9-11
 ---
