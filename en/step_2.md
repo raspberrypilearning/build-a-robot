@@ -67,7 +67,7 @@ language: css
 filename: 
 line_numbers: 
 line_number_start: 
-line_highlights: 3-5
+line_highlights: 3 - 5
 ---
 #eyes1 {
     width: 200px;
